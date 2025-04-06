@@ -99,12 +99,14 @@ filter saveMatchingMessages {
 do {
     $Jetstream | 
         Receive-Job -ErrorAction Ignore | 
-        saveMatchingMessages
+        saveMatchingMessages |
+        Add-Member NoteProperty CommitMessage "Syncing from at protocol [skip ci]" -Force -PassThru
 } while ($Jetstream.JobStateInfo.State -lt 3) 
 
 $Jetstream | 
     Receive-Job -ErrorAction Ignore | 
-    saveMatchingMessages
+    saveMatchingMessages |
+    Add-Member NoteProperty CommitMessage "Syncing from at protocol [skip ci]" -Force -PassThru
 
 
 
