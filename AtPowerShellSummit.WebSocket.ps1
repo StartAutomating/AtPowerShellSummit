@@ -110,6 +110,7 @@ do {
         if ($newFiles) {
             Write-Host "Found $(@($newFiles).Length) new posts or images!" -ForegroundColor Green
             $filesFound += $newFiles
+            $newFiles
         }
     }
     
