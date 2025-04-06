@@ -13,7 +13,7 @@ $Dids = @(),
 $Since = [TimeSpan]::FromDays(0.5),
 
 [TimeSpan]
-$TimeOut = [TimeSpan]::FromMinutes(30),
+$TimeOut = [TimeSpan]::FromMinutes(15),
 
 [Collections.IDictionary]
 $AtPattern = [Ordered]@{
