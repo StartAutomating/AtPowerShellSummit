@@ -10,10 +10,10 @@ $Collections = @("app.bsky.feed.post"),
 $Dids = @(),
 
 [TimeSpan]
-$Since = [TimeSpan]::FromDays(0.5),
+$Since = [TimeSpan]::FromDays(1),
 
 [TimeSpan]
-$TimeOut = [TimeSpan]::FromMinutes(15),
+$TimeOut = [TimeSpan]::FromMinutes(20),
 
 [Collections.IDictionary]
 $AtPattern = [Ordered]@{
@@ -98,18 +98,22 @@ filter saveMatchingMessages {
 
 Write-Host "Listening To Jetstream: $jetstreamUrl" -ForegroundColor Cyan
 Write-Host "Starting loop @ $([DateTime]::Now)" -ForegroundColor Cyan
-
+$batchStart = [DateTime]::Now
+$filesFound = @()
 do {
-    $batch =$Jetstream | Receive-Job -ErrorAction Ignore 
-    if ($batch) {
-        $batchStart = [DateTime]::Now
-        Write-Host "Processing batch of $($batch.Length) @ $([DateTime]::Now)" -ForegroundColor Cyan
-    }
-    $batch | 
+    $batch =$Jetstream | Receive-Job -ErrorAction Ignore     
+    $newFiles = $batch | 
         saveMatchingMessages |
         Add-Member NoteProperty CommitMessage "Syncing from at protocol [skip ci]" -Force -PassThru
-    Write-Host "Processed batch in $([DateTime]::Now - $batchStart)" -ForegroundColor Green
-    Start-Sleep -Milliseconds (Get-Random -Min 3kb -Max 5kb)
+    if ($batch) {
+        Write-Host "Processed batch of $($batch.Length) in $([DateTime]::Now - $batchStart) - Last Post @ $($batch[-1].commit.record.createdAt)" -ForegroundColor Green
+        if ($newFiles) {
+            Write-Host "Found $(@($newFiles).Length) new posts or images!" -ForegroundColor Green
+            $filesFound += $newFiles
+        }
+    }
+    
+    Start-Sleep -Milliseconds (Get-Random -Min .1kb -Max 1kb)
 } while ($Jetstream.JobStateInfo.State -in 'NotStarted','Running') 
 
 $Jetstream | 
