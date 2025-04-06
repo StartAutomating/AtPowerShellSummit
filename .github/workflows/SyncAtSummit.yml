@@ -1,0 +1,11 @@
+
+name: AtPowerShellSummitSync
+on: 
+  schedule: 
+    - cron: '0,15,30,45 0-23 * * *'
+  workflow_dispatch: 
+jobs: 
+  SyncAtPowerShellSummit: 
+    name: Use Websocket Action
+    uses: PowerShellWeb/Websocket@main
+    id: WebSocket
