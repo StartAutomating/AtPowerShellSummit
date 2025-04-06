@@ -1,7 +1,7 @@
 #requires -Module WebSocket
 param(        
 [uri]
-$jetstreamUrl = "wss://jetstream2.us-west.bsky.network/subscribe",
+$jetstreamUrl = "wss://jetstream$(1,2 | Get-Random).us-west.bsky.network/subscribe",
 
 [string[]]
 $Collections = @("app.bsky.feed.post"),
@@ -96,12 +96,21 @@ filter saveMatchingMessages {
 }
 
 
+Write-Host "Listening To Jetstream: $jetstreamUrl" -ForegroundColor Cyan
+Write-Host "Starting loop @ $([DateTime]::Now)" -ForegroundColor Cyan
+
 do {
-    $Jetstream | 
-        Receive-Job -ErrorAction Ignore | 
+    $batch =$Jetstream | Receive-Job -ErrorAction Ignore 
+    if ($batch) {
+        $batchStart = [DateTime]::Now
+        Write-Host "Processing batch of $($batch.Length) @ $([DateTime]::Now)" -ForegroundColor Cyan
+    }
+    $batch | 
         saveMatchingMessages |
         Add-Member NoteProperty CommitMessage "Syncing from at protocol [skip ci]" -Force -PassThru
-} while ($Jetstream.JobStateInfo.State -lt 3) 
+    Write-Host "Processed batch in $([DateTime]::Now - $batchStart)" -ForegroundColor Green
+    Start-Sleep -Milliseconds (Get-Random -Min 3kb -Max 5kb)
+} while ($Jetstream.JobStateInfo.State -in 'NotStarted','Running') 
 
 $Jetstream | 
     Receive-Job -ErrorAction Ignore | 
