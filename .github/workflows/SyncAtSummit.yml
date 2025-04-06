@@ -6,6 +6,9 @@ on:
   workflow_dispatch: 
 jobs: 
   SyncAtPowerShellSummit: 
-    name: Use Websocket Action
-    uses: PowerShellWeb/Websocket@main
-    id: WebSocket
+    - name: Check out repository
+      uses: actions/checkout@main
+    - name: Use Websocket Action
+      uses: PowerShellWeb/Websocket@main
+      id: WebSocket
+
