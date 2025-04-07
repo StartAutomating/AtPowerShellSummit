@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:gwzlu5twwpnddrdx74se7ddn",
+  "time_us": 1744044547941227,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmag3vdyvp2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmag3sxgf22e",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T16:49:04.656Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicrpezbwijr7ffocduwaxnvewrpa45syzqlrlyqd44fbghlyjjk6e"
+              },
+              "mimeType": "image/jpeg",
+              "size": 710488
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 19,
+            "byteStart": 7
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Today, #pshsummit25 kicks off with Jennifer Stirrup talking about Delivering Value Through Data. @travelpiggie believes in the power of understanding backed by data."
+    },
+    "cid": "bafyreidtnx5flys5exrntjanmlxhdj2shknrstdyyud7vl7fcm5l3voowe"
+  }
+}
