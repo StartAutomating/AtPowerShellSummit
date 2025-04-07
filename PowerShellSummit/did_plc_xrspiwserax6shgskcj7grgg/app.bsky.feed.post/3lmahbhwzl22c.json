@@ -1,0 +1,93 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1744045809055153,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmahbhxbf22c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmahbhwzl22c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T17:10:08+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1440
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifkig7ezbvmt6ywj7gb7yq76sz5lejoypxl5x3absgbbjyvv7bh7m"
+              },
+              "mimeType": "image/jpeg",
+              "size": 119355
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1440
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifwlqso5mrq5hhy5fzfcrp3sczx34sasg5ycj2sjq55ij2pxzkqwm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 183296
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1440
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreih5nvuql3szfyen5ok6kmiz35obzyjrxwrmtvktvrqza7pff33bje"
+              },
+              "mimeType": "image/jpeg",
+              "size": 129113
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 65,
+            "byteStart": 54
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 92,
+            "byteStart": 82
+          }
+        }
+      ],
+      "text": "I’m honored to be the recipient of the Sean Kearney #PowerShell Spirit award at #pshsummit\n\nSean was a huge influence on the PowerShell community, and I’m truly humbled. His positivity, passion, and impact continue to live on through the people he inspired."
+    },
+    "cid": "bafyreibt3v2kmlya4tw6dqob5fbtpeuoeyuepdyqjdbfqe63puh76stoeu"
+  }
+}
