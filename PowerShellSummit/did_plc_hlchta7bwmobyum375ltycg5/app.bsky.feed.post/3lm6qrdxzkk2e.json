@@ -1,0 +1,102 @@
+{
+  "did": "did:plc:hlchta7bwmobyum375ltycg5",
+  "time_us": 1743987287729055,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lm6qrfxkb52j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lm6qrdxzkk2e",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T00:54:45.037Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "Watching Blue sky with the WebSocket action.",
+            "aspectRatio": {
+              "height": 1505,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreif2bwjw6n6askd3gmk73fymnrk5otzy7tftxqcva5euhqh73ljmfa"
+              },
+              "mimeType": "image/jpeg",
+              "size": 915147
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 66,
+            "byteStart": 55
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "GitHub"
+            }
+          ],
+          "index": {
+            "byteEnd": 74,
+            "byteStart": 67
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "workflow"
+            }
+          ],
+          "index": {
+            "byteEnd": 84,
+            "byteStart": 75
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ftw"
+            }
+          ],
+          "index": {
+            "byteEnd": 89,
+            "byteStart": 85
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShellSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 130,
+            "byteStart": 113
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "That was fast!\n\nFaster than I can type at least 😉.\n\n#PowerShell #GitHub #workflow #ftw\n\nSo looking forward to #PowerShellSummit !"
+    },
+    "cid": "bafyreifu3g7vx6uuc726wr6obmfq4ib5ielnz6p33fvxrkhev6zbizghri"
+  }
+}
