@@ -1,0 +1,79 @@
+{
+  "did": "did:plc:a3yierchgwp2lvyontsragui",
+  "time_us": 1744062675649418,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmawy5dggp25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmawy3acoc2e",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T21:51:12.729Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "Photo of a yellow rubber duck branded with Patch My PC, sitting on top of a compostable paper coffee cup on a conference room table with an empty podium in the background.",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiberpeus6hvpu5zhosfsye6dyajc4dn67vtg6x4w5q2h5c4msy5zy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 735717
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:qsso3aixn7gug6her5uu3e5o"
+            }
+          ],
+          "index": {
+            "byteEnd": 58,
+            "byteStart": 35
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 99,
+            "byteStart": 88
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 113,
+            "byteStart": 103
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Time for a coffee break - enjoying @alexandair.bsky.social’s workshop on Entra ID and #powershell at #pshsummit"
+    },
+    "cid": "bafyreic7h7kggp3wi4qklho3t7xrkvweisuk2mppp7njzf3ejv2tf4fxgq"
+  }
+}
