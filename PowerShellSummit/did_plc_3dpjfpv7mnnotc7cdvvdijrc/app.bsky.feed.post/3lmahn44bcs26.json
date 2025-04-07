@@ -1,0 +1,73 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1744046199936195,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmahn4c7x42m",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmahn44bcs26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T17:16:38.431Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 1280,
+          "width": 720
+        },
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreiaroo25wrzowehrlag53fqnbvqmkf2j5nmkvuiwf7kefsakllf7sm"
+          },
+          "mimeType": "video/mp4",
+          "size": 2618830
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 170,
+            "byteStart": 158
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 182,
+            "byteStart": 171
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "data"
+            }
+          ],
+          "index": {
+            "byteEnd": 188,
+            "byteStart": 183
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Jennifer Stirrup just wrapped up a phenomenal keynote—packed with data insights, research and development, and leadership wisdom. A true standout session!\n\n#pshsummit25 #powershell #data"
+    },
+    "cid": "bafyreicyob6be3kh6rxjwmbcym2xionn5syiin3e7ykniq27zgzzzoz7xa"
+  }
+}
