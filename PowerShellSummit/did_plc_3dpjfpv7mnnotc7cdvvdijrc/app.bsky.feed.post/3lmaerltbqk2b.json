@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1744043133135386,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmaeroscjv2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmaerltbqk2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T16:25:27.892Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreia6efc3mnsycxn5ynypqonypo7lc3fpry3pdlgfbzlhwunz2wioa4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 802064
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 254,
+            "byteStart": 242
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "We’re here—PowerShell + DevOps Global Summit starts NOW!\n\nGet ready for an incredible week of learning, networking, and community.\n\nWhether you’re here in Bellevue or following along online—share your experience on social media!\n\nUse #PSHSummit25 and tag us to connect with the community."
+    },
+    "cid": "bafyreidgsttz5ixbqhuwwzpazcmgufuywp3dmcwulklbuj2ddj7bajqmoa"
+  }
+}
