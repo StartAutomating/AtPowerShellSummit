@@ -1,0 +1,34 @@
+{
+  "did": "did:plc:acvm55d2un5pd4fdpxaeda2o",
+  "time_us": 1744064893935657,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmaz2bepln23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmaz2bbjrc2v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T22:28:13.665Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 24,
+            "byteStart": 12
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "In honor of #PSHSummit25 (couldn't go this year) I am sharing a some silly functions that use 3 popular AI providers to turn basic directives --> into PS code to evaluate (doesn't run any code, just puts it in console and clipboard).   \nAlso supports locally-hosted chat models (via LM Studio etc)."
+    },
+    "cid": "bafyreihv4wifhrgwhlgo64cowh2xfmo3nqwlxx2vgkcps2virjhnvatugy"
+  }
+}
