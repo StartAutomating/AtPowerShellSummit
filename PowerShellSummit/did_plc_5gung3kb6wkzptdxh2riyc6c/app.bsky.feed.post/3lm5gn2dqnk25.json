@@ -1,0 +1,27 @@
+{
+  "did": "did:plc:5gung3kb6wkzptdxh2riyc6c",
+  "time_us": 1743942043947349,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lm5gn2jzff2w",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lm5gn2dqnk25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-06T12:20:43.622Z",
+      "embed": {
+        "$type": "app.bsky.embed.record",
+        "record": {
+          "cid": "bafyreibyw5lwkxykyxubvowfkqgizkxvod6jgrie2fkrvxcffyowdekbji",
+          "uri": "at://did:plc:3dpjfpv7mnnotc7cdvvdijrc/app.bsky.feed.post/3llwydjfjpc2n"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Safe travels to all the people attending the PowerShell summit, and please don't forget posting photos like these! I would definitely enjoy seeing those posts next week😉"
+    },
+    "cid": "bafyreiduhnvloc6ecpfk7inlr637sihibudshs3am3nw5xil2tewbz3zw4"
+  }
+}
