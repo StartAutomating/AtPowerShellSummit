@@ -1,0 +1,46 @@
+{
+  "did": "did:plc:ohgsqpfsbocaaxusxqlgfvd7",
+  "time_us": 1743940474222827,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lm5f6bjeje2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lm5f6bdzpc2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-06T11:54:33.914Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 28,
+            "byteStart": 17
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 61,
+            "byteStart": 51
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Off to my annual #PowerShell family reunion at the #PSHSummit in Bellevue."
+    },
+    "cid": "bafyreiea2rzfjt7wid32a4fnne4xvkcnvtkzocfzdrhgd4s7ifm6oko5ra"
+  }
+}
