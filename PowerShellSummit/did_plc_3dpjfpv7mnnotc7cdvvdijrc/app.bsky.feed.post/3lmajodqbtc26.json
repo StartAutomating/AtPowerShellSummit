@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1744048388816978,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmajoe47ry2s",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmajodqbtc26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T17:53:07.464Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 3554,
+          "width": 2000
+        },
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreibrg3qzfhfx2fgpk65eygzu76xta3rdbipfap5relhdlwhib2tk24"
+          },
+          "mimeType": "video/mp4",
+          "size": 3228484
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:gean4o67deq2gded4hbat2vt"
+            }
+          ],
+          "index": {
+            "byteEnd": 47,
+            "byteStart": 26
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 81,
+            "byteStart": 69
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "We are honored to welcome @donjones.bsky.social \nDon Gannon-Jones to #pshsummit25, stop by for book signing and engage in an informative conversation. \n\nA distinguished figure in the PowerShell community—be sure to stop by and say hello!"
+    },
+    "cid": "bafyreiac7vgzk7so5nnxatuwggw7srgnpob5zb233yzg7b77nf5cz5pgve"
+  }
+}
