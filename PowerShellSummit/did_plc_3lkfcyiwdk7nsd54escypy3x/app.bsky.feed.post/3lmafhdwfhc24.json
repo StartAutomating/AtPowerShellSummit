@@ -1,0 +1,72 @@
+{
+  "did": "did:plc:3lkfcyiwdk7nsd54escypy3x",
+  "time_us": 1744043856971249,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmafhcb75b27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmafhdwfhc24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T16:37:37.817Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Code Golf is a game designed to let you show off your code-fu by solving problems in the least number of characters. Let’s have fun twisting our knowledge of PowerShell and use it in ways it was never...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiao5ukwet7sjnuyk4tyvbxj24kvi4queofsktckq35yludon655nq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 64361
+          },
+          "title": "Code Golf: The zen of writing bad code",
+          "uri": "https://pshsummit25.sessionize.com/session/783136"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 53
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://pshsummit25.sessionize.com/session/783136"
+            }
+          ],
+          "index": {
+            "byteEnd": 133,
+            "byteStart": 92
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreicplqmj5rkvszcqen4ytcelhderjo7i3toegzpthae2vji7luhwia",
+          "uri": "at://did:plc:3lkfcyiwdk7nsd54escypy3x/app.bsky.feed.post/3lmafdy2apc24"
+        },
+        "root": {
+          "cid": "bafyreicplqmj5rkvszcqen4ytcelhderjo7i3toegzpthae2vji7luhwia",
+          "uri": "at://did:plc:3lkfcyiwdk7nsd54escypy3x/app.bsky.feed.post/3lmafdy2apc24"
+        }
+      },
+      "text": "I will walk through my solution during my session on #powershell code golf Tuesday morning. pshsummit25.sessionize.com/session/783136"
+    },
+    "cid": "bafyreiahfm3qau3eshlcfmc6smw7yxsvyhevbpsr2jtmukm7mi6mt4rgui"
+  }
+}
