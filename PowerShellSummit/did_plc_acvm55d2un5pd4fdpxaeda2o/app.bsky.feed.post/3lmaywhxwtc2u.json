@@ -1,0 +1,51 @@
+{
+  "did": "did:plc:acvm55d2un5pd4fdpxaeda2o",
+  "time_us": 1744064768444592,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmaywisrii2k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmaywhxwtc2u",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T22:26:06.472Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell functions for turning plain-English into ---&gt; PS code, powered by 3 popular AI models.  LLM generated outputs are narrowed to be blocks in-console &amp; copied to clipboard. - J-DubAp...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifp7mb4zwd3gag2mgm6z3zx5vfyo7obtxt4slcxo6pxyyopqvypma"
+            },
+            "mimeType": "image/jpeg",
+            "size": 402071
+          },
+          "title": "GitHub - J-DubApps/get-chat-cmd: PowerShell functions for turning plain-English into ---> PS code, powered by 3 popular AI models.  LLM generated outputs are narrowed to be blocks in-console & copied ...",
+          "uri": "https://github.com/J-DubApps/get-chat-cmd"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 33,
+            "byteStart": 12
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "In honor of @powershellsummit.org  (couldn't go this year) I finished making a thing.  Just some quick functions that use 3 popular AI providers to turn basic directives into PS code to evaluate (doesn't run any code, just puts it in console and clipboard).   Also supports local-hosted users."
+    },
+    "cid": "bafyreicfzwd2qf4xedpfam4rmho5jxtzdjxq6jtzoucsjvqdqvgr7e5gq4"
+  }
+}
