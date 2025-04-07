@@ -1,5 +1,5 @@
 #requires -Module WebSocket
-param(        
+param(
 [uri]
 $jetstreamUrl = "wss://jetstream$(1,2 | Get-Random).us-west.bsky.network/subscribe",
 
@@ -10,10 +10,10 @@ $Collections = @("app.bsky.feed.post"),
 $Dids = @(),
 
 [TimeSpan]
-$Since = [TimeSpan]::FromDays(1),
+$Since = [TimeSpan]::FromMinutes(30),
 
 [TimeSpan]
-$TimeOut = [TimeSpan]::FromMinutes(20),
+$TimeOut = [TimeSpan]::FromMinutes(15),
 
 [Collections.IDictionary]
 $AtPattern = [Ordered]@{
