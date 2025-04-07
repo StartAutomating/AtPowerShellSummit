@@ -1,0 +1,65 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1743989673920797,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lm6syjzuuw2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lm6syliyss2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T01:34:35.358Z",
+      "embed": {
+        "$type": "app.bsky.embed.record",
+        "record": {
+          "cid": "bafyreic7kmhucgx2vwqiz37a5ie4oaesay3ecnawfva44b4eqt2oeoogju",
+          "uri": "at://did:plc:3dpjfpv7mnnotc7cdvvdijrc/app.bsky.feed.post/3lm63jkzpy22u"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 38,
+            "byteStart": 27
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 49,
+            "byteStart": 39
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 62,
+            "byteStart": 50
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "🤜🏻🤛🏻\nLet's go!\n#PowerShell #PSHSummit #PSHSummit25"
+    },
+    "cid": "bafyreifysqvhw75opl3xalvlodot22qfv3ve6zk2qv5fok3yfrrwovvw2i"
+  }
+}
