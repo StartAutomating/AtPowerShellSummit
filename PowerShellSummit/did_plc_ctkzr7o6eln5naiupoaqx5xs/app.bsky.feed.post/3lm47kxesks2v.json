@@ -1,0 +1,32 @@
+{
+  "did": "did:plc:ctkzr7o6eln5naiupoaqx5xs",
+  "time_us": 1743900097711226,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lm47kxf2es2v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lm47kxesks2v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-06T00:41:39.054169Z",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 42,
+            "byteStart": 21
+          }
+        }
+      ],
+      "text": "The anticipation for @powershellsummit.org is growing. Flight leaves tomorrow and I should be in Seattle around 2pm local time."
+    },
+    "cid": "bafyreic76qk2gyf7qzp4i6fejcxpw5r5rxyzo2seh3gjix7ornhq7z6xcy"
+  }
+}
