@@ -1,0 +1,114 @@
+{
+  "did": "did:plc:hrfbbfswdebg5czgnlj6sobm",
+  "time_us": 1744054381814532,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmapay7igl2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmapay7dkd2z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T19:33:01.568421Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 423,
+              "width": 1077
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibdq7bc33i33d7iwfescmadzgxlxmaqandknsswlrfdx5gpdl56ee"
+              },
+              "mimeType": "image/png",
+              "size": 49686
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 82,
+            "byteStart": 71
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://github.com/dfinke/psaisuite"
+            }
+          ],
+          "index": {
+            "byteEnd": 173,
+            "byteStart": 148
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 259,
+            "byteStart": 248
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 263,
+            "byteStart": 260
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "LLaMA4"
+            }
+          ],
+          "index": {
+            "byteEnd": 271,
+            "byteStart": 264
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 284,
+            "byteStart": 272
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "🚨 Meta just unleashed LLaMA 4!\n\n 🔥 You can run it right now from #PowerShell with PSAISuite via OpenRouter.\n\n📦Install-Module PSAISuite\n🔗github.com/dfinke/psai...\n\nLLaMA 4 at your fingertips. No waiting. No hype. Just power. Your CLI.\n\n #PowerShell #AI #LLaMA4 #pshsummit25"
+    },
+    "cid": "bafyreigjy26tvo2qkco5psvgkkm2stucnwoq64mi5akfsiqvcz5jrqzoxq"
+  }
+}
