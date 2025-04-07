@@ -1,0 +1,70 @@
+{
+  "did": "did:plc:hlchta7bwmobyum375ltycg5",
+  "time_us": 1744045510524117,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmagyluefq2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmagyns4sk22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T17:05:12.329Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AtProto"
+            }
+          ],
+          "index": {
+            "byteEnd": 28,
+            "byteStart": 20
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 40,
+            "byteStart": 29
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "GitHubWorkflow"
+            }
+          ],
+          "index": {
+            "byteEnd": 76,
+            "byteStart": 61
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShellSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 126,
+            "byteStart": 109
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I love the smell of #AtProto #PowerShell in the morning!\n\nMy #GitHubWorkflow has been calmly checking in any #PowerShellSummit posts all night long!"
+    },
+    "cid": "bafyreicyjkp3gzpa6qppruwxc7zadtrbqqstijryvywa5kvpncrhtmhqyq"
+  }
+}
