@@ -1,0 +1,114 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1743964477310749,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lm63jly4322r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lm63jkzpy22u",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-06T18:34:35.472Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1080
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiacvsngkjtpjgxuavb76kdxszhql3jtwhopwykeuz36mexghj2wly"
+              },
+              "mimeType": "image/jpeg",
+              "size": 229019
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 204,
+            "byteStart": 192
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 216,
+            "byteStart": 205
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "TechEvent"
+            }
+          ],
+          "index": {
+            "byteEnd": 227,
+            "byteStart": 217
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 239,
+            "byteStart": 228
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 243,
+            "byteStart": 240
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Innovation"
+            }
+          ],
+          "index": {
+            "byteEnd": 255,
+            "byteStart": 244
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "🎉 TOMORROW is the day! The PowerShell + DevOps Global Summit kicks off in just 24 hours!\n\n✅ Sessions ready\n✅ Speakers prepped\n✅ Networking opportunities waiting\n\n🚀 Are you ready?\n\n#PSHSummit25 #PowerShell #TechEvent #Powershell #AI #Innovation"
+    },
+    "cid": "bafyreic7kmhucgx2vwqiz37a5ie4oaesay3ecnawfva44b4eqt2oeoogju"
+  }
+}
