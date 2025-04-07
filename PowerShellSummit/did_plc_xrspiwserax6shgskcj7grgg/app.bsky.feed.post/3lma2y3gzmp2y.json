@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1744032609721571,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lma2y3hahh2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lma2y3gzmp2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-07T13:30:08+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1440
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiek2dtgpa5chajza7vtq25pdimzl2uadl2hiu4ppqn7mjmjji5ecu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 87839
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2062,
+              "width": 3664
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicxot3la4d4jcckebnpkoi4zuvjr57htsp5pqpsv4qxsc7jy25b5y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 866313
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2062,
+              "width": 3664
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibrob4pkjydpqb3k7ihpkv2carkfvh63imzahpwhfklxenop5wn3y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 868351
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1440
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigtv25d3hos46ej2g55i5cgmag5eh5phupjzqonsfu4e67z3qw2yi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 142205
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 19,
+            "byteStart": 9
+          }
+        }
+      ],
+      "text": "Day 0 of #PSHSummit 2025 is in the books! I have some interviews recorded, met lots of new friends, checked in with friends-of-old, talked shop about PowerShell, AND got some good sleep.\n\nWho do you want to hear from this week?"
+    },
+    "cid": "bafyreiaj6ivyy2lfamwfwwr2toljqv7bemviybgacmxgbr23zaf27or3yq"
+  }
+}
