@@ -1,0 +1,79 @@
+{
+  "did": "did:plc:dqpes6g4mscay4oynzumxfpi",
+  "time_us": 1744078490050908,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmbfph7bwq24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmbfpak7pk2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-08T02:14:42.429Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicxakrurtg2pdpa54su45sy2capi3t4eknm7knt4jj2r62vll7aku"
+              },
+              "mimeType": "image/jpeg",
+              "size": 808714
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 29,
+            "byteStart": 18
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 47,
+            "byteStart": 37
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:hlchta7bwmobyum375ltycg5"
+            }
+          ],
+          "index": {
+            "byteEnd": 78,
+            "byteStart": 53
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Geeking out about #PowerShell at the #PSHSummit with @mrpowershell.bsky.social"
+    },
+    "cid": "bafyreib2gfyh55zw5illtf23nh5dbeyn7pwg4yxgiwtfai6trvbltdyrf4"
+  }
+}
