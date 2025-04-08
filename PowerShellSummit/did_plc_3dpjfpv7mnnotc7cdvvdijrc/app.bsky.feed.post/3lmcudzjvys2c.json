@@ -1,0 +1,115 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1744128577025837,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmcue5m7f32m",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmcudzjvys2c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-08T16:09:31.855Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicalmmzfrnm6srfborxjjdfdqdwxvwasgewlkda3p5sbmnfuwzrjy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 818744
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:inbagvkt2ildrbxdhmexmkjl"
+            }
+          ],
+          "index": {
+            "byteEnd": 91,
+            "byteStart": 79
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 177,
+            "byteStart": 165
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 189,
+            "byteStart": 178
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "devops"
+            }
+          ],
+          "index": {
+            "byteEnd": 197,
+            "byteStart": 190
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 208,
+            "byteStart": 198
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "techconference"
+            }
+          ],
+          "index": {
+            "byteEnd": 224,
+            "byteStart": 209
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Day 2 is here and we’re kicking things off with a true icon—Jeffrey Snover @jsnover.com ! \n\nFrom vision to execution, get ready for insight that sparks action.\n\n#pshsummit25 #powershell #devops #pshsummit #techconference"
+    },
+    "cid": "bafyreihiyvjmjoz7nvnans3escgankc4kewnvqwion5fyejetkmrbqla5i"
+  }
+}
