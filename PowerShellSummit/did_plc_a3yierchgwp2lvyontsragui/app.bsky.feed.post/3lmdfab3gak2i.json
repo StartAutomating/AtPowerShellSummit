@@ -1,0 +1,79 @@
+{
+  "did": "did:plc:a3yierchgwp2lvyontsragui",
+  "time_us": 1744146704020135,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmdfaewon427",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmdfab3gak2i",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-08T21:11:39.158Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "Photo of Christian Ritter at PowerShell + DevOps Global Summit 2025 demonstrating the performance difference of various methods of filtering data in PowerShell.",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidirhegx3mq57vn5drr5yomnzip6sq45mazddd443xgbcqihcll5y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 695290
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:dqpes6g4mscay4oynzumxfpi"
+            }
+          ],
+          "index": {
+            "byteEnd": 52,
+            "byteStart": 31
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 66,
+            "byteStart": 55
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 77,
+            "byteStart": 67
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "“DotNetLinq Beats Butts” - @hcritter.bsky.social \n\n#powershell #pshsummit"
+    },
+    "cid": "bafyreiapbvturpwsp3bbisc2zrf54ctyyglxz6zmiupyusy2bhksjjeqgy"
+  }
+}
