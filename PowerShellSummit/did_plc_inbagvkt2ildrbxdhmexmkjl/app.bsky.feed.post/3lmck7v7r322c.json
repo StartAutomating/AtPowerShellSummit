@@ -1,0 +1,34 @@
+{
+  "did": "did:plc:inbagvkt2ildrbxdhmexmkjl",
+  "time_us": 1744117695985783,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmck7vdnuq2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmck7v7r322c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-08T13:08:15.7Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 132,
+            "byteStart": 120
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I can't wait to meet my PowerShell people at the conference today.\nPlease come say hi and let's get a picture together!\n#PSHSummit25"
+    },
+    "cid": "bafyreie7wgirlmoanxoc63rmyo3ylqb4vlzknurfxsn4ycm6y7zfutph4q"
+  }
+}
