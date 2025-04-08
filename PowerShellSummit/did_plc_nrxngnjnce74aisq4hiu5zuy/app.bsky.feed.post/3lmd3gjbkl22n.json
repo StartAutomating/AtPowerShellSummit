@@ -1,0 +1,90 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1744136174535089,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmd3gl4abb2v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmd3gjbkl22n",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-08T18:16:11.633Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1505,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidg5ngd5gyoal6b3ukwejn3uzyeyaqklvv3nfgwyibfg57vicqlge"
+              },
+              "mimeType": "image/jpeg",
+              "size": 488153
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 102,
+            "byteStart": 90
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 186,
+            "byteStart": 176
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 194,
+            "byteStart": 187
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 206,
+            "byteStart": 195
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "About to watch \"PowerShell in CI/CD Pipelines: a Practical Tour of Deployment Options\" at #PSHSummit25 with Blake Cherry and Danny Stutz\n\nSo much aura in this room right now.\n\n#PSHSummit #DevOps #PowerShell"
+    },
+    "cid": "bafyreib2iecsnrzlratafcyxxfxhxjfqc4fsecpebiwlwt5tz2fwugszsy"
+  }
+}
