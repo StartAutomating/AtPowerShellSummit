@@ -1,0 +1,71 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1744134247500538,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmczn4cg4l2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmczn4cab32h",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-08T17:44:05+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "alt": "",
+        "aspectRatio": {
+          "height": 2276,
+          "width": 1280
+        },
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreiewnakpsop5razc744aipk32he2js2zvzgf3xx6fjsiigbcoaaxsy"
+          },
+          "mimeType": "video/mp4",
+          "size": 23738640
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 89,
+            "byteStart": 79
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 114,
+            "byteStart": 103
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Community"
+            }
+          ],
+          "index": {
+            "byteEnd": 125,
+            "byteStart": 115
+          }
+        }
+      ],
+      "text": "I caught up with first-time attendee, Lucas, about their biggest takeaway from #PSHSummit 2025 so far\n\n#PowerShell #Community"
+    },
+    "cid": "bafyreiaxtrjectjtysg6x6sivsz6zvuynfjon5g5aya2cazwfpy4vmb5hm"
+  }
+}
