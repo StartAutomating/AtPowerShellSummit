@@ -1,0 +1,80 @@
+{
+  "did": "did:plc:phcuuddubu7rcz47eer2alnq",
+  "time_us": 1744141053189637,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmd7xxyiz32u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmd7xu2mw225",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-08T19:37:28.356Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "Selfie of Jeffrey Snover and Cory Knox",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreievj3252zxgtumyu776pliwh2b6fphnf6zyitpq4e4ste267oyn5u"
+              },
+              "mimeType": "image/jpeg",
+              "size": 639302
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:inbagvkt2ildrbxdhmexmkjl"
+            }
+          ],
+          "index": {
+            "byteEnd": 21,
+            "byteStart": 9
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 35,
+            "byteStart": 25
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:baglxmt2hfmzfaddt7a2xj27"
+            }
+          ],
+          "index": {
+            "byteEnd": 89,
+            "byteStart": 61
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Ran into @jsnover.com at #pshsummit! Unfortunately I left my @markrussinovich.bsky.social books at home so I couldn't get him to sign them 😔"
+    },
+    "cid": "bafyreihsxjarm7n47lonhf6npgx6som4nxnvvpiwbum4shoivehjoebfam"
+  }
+}
