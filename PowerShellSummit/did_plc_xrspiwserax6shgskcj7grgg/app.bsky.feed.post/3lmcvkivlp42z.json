@@ -1,0 +1,47 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1744129866005664,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmcvkivrkm2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmcvkivlp42z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-08T16:31:03+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "alt": "",
+        "aspectRatio": {
+          "height": 960,
+          "width": 1280
+        },
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreiet3ejgn3k6b2l2rvptnd6hpg2r6al2nicm7tyljm364gxte4u6je"
+          },
+          "mimeType": "video/mp4",
+          "size": 911617
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 19,
+            "byteStart": 9
+          }
+        }
+      ],
+      "text": "Day 2 of #pshsummit 2025 is underway! Jeffrey Snover is cooking 🔥"
+    },
+    "cid": "bafyreicfqw5galyuanpkbjrrxkmhela43jnczydf3xhxat63ibithvjlnm"
+  }
+}
