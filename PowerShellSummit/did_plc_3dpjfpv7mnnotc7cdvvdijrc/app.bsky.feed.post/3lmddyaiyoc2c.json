@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1744145360850661,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmddydwwc227",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmddyaiyoc2c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-08T20:49:16.377Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiclhko65vwaze7h625ukp5wiw4u7usfphfq7x3wwk4ece6mlnh2ii"
+              },
+              "mimeType": "image/jpeg",
+              "size": 999904
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 315,
+            "byteStart": 305
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Moments like these remind us why we come together each year. 👥\n\nThe PowerShell + DevOps Summit isn’t just a conference—it’s a reunion of some of the brightest minds in tech. 💡🙌\n\nFeatured below: \nJeffrey Snover \nJeffery Hicks \nJim Truher \nJason Helmick \nDon Gannon-Jones\nJames Petty, M.S. \n\n#pshsummit"
+    },
+    "cid": "bafyreidzmmiuqgtzqed3vp4nfghh2d3ebw6xjurtx76tms4ppoycbflvri"
+  }
+}
