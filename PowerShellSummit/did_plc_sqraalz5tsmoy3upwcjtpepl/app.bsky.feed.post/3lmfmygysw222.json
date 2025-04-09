@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1744223747688086,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmfmyhpml72x",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmfmygysw222",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T18:35:46.35Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Contribute to adamdriscoll/Presentations development by creating an account on GitHub.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicrkpmytx74vcoyf6vlyvm5orovwwzdcxhwbogmxs65kpu2wehh3e"
+            },
+            "mimeType": "image/jpeg",
+            "size": 137515
+          },
+          "title": "GitHub - adamdriscoll/Presentations",
+          "uri": "https://github.com/adamdriscoll/Presentations"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 69,
+            "byteStart": 48
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://github.com/adamdriscoll/Presentations"
+            }
+          ],
+          "index": {
+            "byteEnd": 110,
+            "byteStart": 84
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The content for my PowerShell Universal talk at @powershellsummit.org is on GitHub. github.com/adamdriscoll..."
+    },
+    "cid": "bafyreico6zpbamv4tc2s7h754fny5l5yzkjzgav5b6rxjut4gsdeydwxam"
+  }
+}
