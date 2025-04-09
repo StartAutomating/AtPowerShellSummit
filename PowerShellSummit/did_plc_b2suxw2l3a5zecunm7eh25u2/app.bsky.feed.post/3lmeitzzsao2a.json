@@ -1,0 +1,75 @@
+{
+  "did": "did:plc:b2suxw2l3a5zecunm7eh25u2",
+  "time_us": 1744184944802836,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmeitzzz3g2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmeitzzsao2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T07:49:03+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1440
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifqnxojvn7o3bw2we3zgskmtftrpnbg47u4rt4dgyigahmzghifhm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 115252
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellpodcast.podbean.com/e/powershell-summit-bar-sessions-2025-steven-judd/"
+            }
+          ],
+          "index": {
+            "byteEnd": 191,
+            "byteStart": 168
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 69,
+            "byteStart": 59
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 205,
+            "byteStart": 193
+          }
+        }
+      ],
+      "text": "Special midweek PowerShell Summit 2025 Bar Session is here #pshsummit\n\nAnd who better to join me on this episode than Steven Judd. Catch up on what’s been happening\n\npowershellpodcast.po...\n\n#pshsummit25"
+    },
+    "cid": "bafyreiez5h24lesvj3rsy3hw43nyek2nsjt756rgrtf3xmisc25k4xef3m"
+  }
+}
