@@ -1,0 +1,67 @@
+{
+  "did": "did:plc:hlchta7bwmobyum375ltycg5",
+  "time_us": 1744157519512838,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmdpcpnp7y2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmdpcpnn3k2c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T00:11:58.961Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "Flying thru the danger zone",
+            "aspectRatio": {
+              "height": 1505,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreic53hhhk4shvh4ltv6ghaz7eplz3jrcaisi56s4poaivdbtiilju4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 409599
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShellSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 21,
+            "byteStart": 4
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:dqpes6g4mscay4oynzumxfpi"
+            }
+          ],
+          "index": {
+            "byteEnd": 96,
+            "byteStart": 75
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The #PowerShellSummit has officially entered the Danger Zone!\n\n(Hat tip to @hcritter.bsky.social )"
+    },
+    "cid": "bafyreidblzy3qjml2ee5bn4lnutg2ogzbjtefqcpsiiuirbicbufmt3qre"
+  }
+}
