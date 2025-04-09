@@ -1,0 +1,53 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1744239686903542,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmg3tilipk2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmg3ta5bdc2u",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T23:01:17.513Z",
+      "embed": {
+        "$type": "app.bsky.embed.record",
+        "record": {
+          "cid": "bafyreibkg3icflmsnh3h6rkbdnkqtnolhrw7grkochjzte4qbpet5emggy",
+          "uri": "at://did:plc:nrxngnjnce74aisq4hiu5zuy/app.bsky.feed.post/3lmg3s5irnk2u"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 232,
+            "byteStart": 220
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 243,
+            "byteStart": 233
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I was shocked by how many hands were raised with questions at the end of our talk! We were tight on time, so if we didn't get to you, find us in the hallway, at a meal, or in the hotel lobby, and we can chat some more!\n\n#PSHSummit25 #PSHSummit"
+    },
+    "cid": "bafyreie2vv7kfefzamdeenm44r5hbxoxbufdgqqovwqfzlrnwzl5v56hj4"
+  }
+}
