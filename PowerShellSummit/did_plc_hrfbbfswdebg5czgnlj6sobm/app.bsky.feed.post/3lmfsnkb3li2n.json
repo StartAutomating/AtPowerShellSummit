@@ -1,0 +1,82 @@
+{
+  "did": "did:plc:hrfbbfswdebg5czgnlj6sobm",
+  "time_us": 1744229826746563,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmfsnkefzq2n",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmfsnkb3li2n",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T20:17:03.05504Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "alt": "",
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreihhcjk2ytuxifpmphcmkc4xhnrrumdexr52gs35zgfyqx3bhdiiam"
+          },
+          "mimeType": "video/mp4",
+          "size": 3442623
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 23,
+            "byteStart": 12
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 118,
+            "byteStart": 108
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 131,
+            "byteStart": 119
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://github.com/dfinke/OutTabulatorView"
+            }
+          ],
+          "index": {
+            "byteEnd": 198,
+            "byteStart": 173
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Speeding up #PowerShell OutTabulatView. \n\n10K records now renders sub second!\n\nThanks for community PR 🎉 #pshsummit #pshsummit25\n\n📦Install-Module OutTabulatorView\n🔗github.com/dfinke/OutT..."
+    },
+    "cid": "bafyreiavo3osku6osekujagjmkzdjcfn6hjrtkf2wytqlightumckpvrle"
+  }
+}
