@@ -1,0 +1,75 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1744155907174831,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmdnsmohxt27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmdnsmoc4d27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-08T23:45:05+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1440
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidqwnm6mywylw7xm657z7vnysmilff2mrvk6wgweuf43ulm6ouw2a"
+              },
+              "mimeType": "image/jpeg",
+              "size": 113404
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellpodcast.podbean.com/e/powershell-summit-bar-sessions-2025-steven-judd/"
+            }
+          ],
+          "index": {
+            "byteEnd": 192,
+            "byteStart": 169
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 70,
+            "byteStart": 60
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 206,
+            "byteStart": 194
+          }
+        }
+      ],
+      "text": "Special midweek PowerShell Summit 2025 Bar Session is here  #pshsummit\n\nAnd who better to join me on this episode than Steven Judd. Catch up on what’s been happening\n\npowershellpodcast.po...\n\n#pshsummit25"
+    },
+    "cid": "bafyreidps7y2w4hkckcqxjz4ljqo3tzifptfngxe2xyygxu2qqze7eqily"
+  }
+}
