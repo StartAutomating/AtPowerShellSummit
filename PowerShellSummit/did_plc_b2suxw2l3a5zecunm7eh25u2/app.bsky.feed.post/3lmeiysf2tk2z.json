@@ -1,0 +1,78 @@
+{
+  "did": "did:plc:b2suxw2l3a5zecunm7eh25u2",
+  "time_us": 1744185110704204,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmeiyxt4ka2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmeiysf2tk2z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T07:51:43.548Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreih5axg7xb2wfq6ssscbgw3ipin5obsvzvkdptfmzqzsrak2aj3ota"
+              },
+              "mimeType": "image/jpeg",
+              "size": 567833
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 69,
+            "byteStart": 59
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellpodcast.podbean.com/e/powershell-summit-bar-sessions-2025-steven-judd/"
+            }
+          ],
+          "index": {
+            "byteEnd": 213,
+            "byteStart": 168
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 227,
+            "byteStart": 215
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Special midweek PowerShell Summit 2025 Bar Session is here #pshsummit\n\nAnd who better to join me on this episode than Steven Judd. Catch up on what’s been happening\n\npowershellpodcast.podbean.com/e/powershell...\n\n#pshsummit25"
+    },
+    "cid": "bafyreifxe3uc2dipnynv5z5l465zknqpndgkeuo2kokffhgrsk2cl5n76y"
+  }
+}
