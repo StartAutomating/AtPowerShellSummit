@@ -1,0 +1,131 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1744239650719244,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmg3sgho5x25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmg3s5irnk2u",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T23:00:41.189Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 83,
+            "byteStart": 71
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 137,
+            "byteStart": 126
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Toolmaking"
+            }
+          ],
+          "index": {
+            "byteEnd": 153,
+            "byteStart": 142
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:vsdv3mvc3qozrtola3uf3lmc"
+            }
+          ],
+          "index": {
+            "byteEnd": 187,
+            "byteStart": 164
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 200,
+            "byteStart": 190
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Toolmakers"
+            }
+          ],
+          "index": {
+            "byteEnd": 212,
+            "byteStart": 201
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "automation"
+            }
+          ],
+          "index": {
+            "byteEnd": 224,
+            "byteStart": 213
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "leadership"
+            }
+          ],
+          "index": {
+            "byteEnd": 236,
+            "byteStart": 225
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "community"
+            }
+          ],
+          "index": {
+            "byteEnd": 247,
+            "byteStart": 237
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I received a lot of positive feedback about Danny Stutz and my talk at #PSHSummit25 about our experience building an internal #PowerShell and #Toolmaking community @westmonroe.bsky.social.\n\n#PSHSummit #Toolmakers #automation #leadership #community"
+    },
+    "cid": "bafyreibkg3icflmsnh3h6rkbdnkqtnolhrw7grkochjzte4qbpet5emggy"
+  }
+}
