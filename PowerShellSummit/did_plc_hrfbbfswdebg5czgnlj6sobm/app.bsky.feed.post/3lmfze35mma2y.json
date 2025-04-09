@@ -1,0 +1,110 @@
+{
+  "did": "did:plc:hrfbbfswdebg5czgnlj6sobm",
+  "time_us": 1744237025979719,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmfze35vfi2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmfze35mma2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T22:17:01.427791Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Join Doug Finke live to see how AI is transforming development inside VS Code. Learn how to build your own AI-powered tools—called MCP servers—that can take natural languag",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifghaowlfq7ezmu72pcoizg7op7unmd3p777oteyzufvezv7h6pb4"
+            },
+            "mimeType": "image/webp",
+            "size": 46578
+          },
+          "title": "VS Code + AI: Smarter Coding Live with Doug Finke, Fri, Apr 18, 2025, 12:30 PM   | Meetup",
+          "uri": "https://www.meetup.com/nycpowershellmeetup/events/307089760/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 197,
+            "byteStart": 194
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "VSCode"
+            }
+          ],
+          "index": {
+            "byteEnd": 205,
+            "byteStart": 198
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 217,
+            "byteStart": 206
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 230,
+            "byteStart": 218
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 241,
+            "byteStart": 231
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.meetup.com/nycpowershellmeetup/events/307089760"
+            }
+          ],
+          "index": {
+            "byteEnd": 276,
+            "byteStart": 247
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "VS Code + AI: Smarter Coding Live with Doug Finke!\n\nLearn how to build AI-powered tools (MCP servers) that turn natural language into real code actions. Python, TypeScript, C#, Zapier + more.\n\n #AI #VSCode #PowerShell #pshsummit25 #PSHSummit\n\n🔴www.meetup.com/nycpowershe..."
+    },
+    "cid": "bafyreib4tpvgeoboswjlrymtq44j6utuf7acp5jzapgwd5s3fs5g74tjhu"
+  }
+}
