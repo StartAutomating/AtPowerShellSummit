@@ -1,0 +1,90 @@
+{
+  "did": "did:plc:hrfbbfswdebg5czgnlj6sobm",
+  "time_us": 1744232586148503,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmfv7r3iup2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmfv7r3bzx2h",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T21:03:01.678258Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 552,
+              "width": 397
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiak6x2o5tubaas3pgdo2xvj5gxjb4bxd2jukr6otdkfgtungjglsm"
+              },
+              "mimeType": "image/png",
+              "size": 23796
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 26,
+            "byteStart": 15
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 182,
+            "byteStart": 170
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 193,
+            "byteStart": 183
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://github.com/dfinke/psaisuite"
+            }
+          ],
+          "index": {
+            "byteEnd": 269,
+            "byteStart": 244
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Power up AI in #PowerShell with PSAISuite!\nBring Your Own Key (BYOK) to tap 12 providers effortlessly. Automate your way. \n\n@PoSH4Linux just added OpenRouter! Thank you. #pshsummit25 #PSHSummit\n\n👉 Try it: \n\n📦Install-Module PSAISuite\n🔗 github.com/dfinke/psai..."
+    },
+    "cid": "bafyreifc4lyhpmisu5lmf7qskc7c5ckcuwmlgwzqqxx45v7vdwewtcyo74"
+  }
+}
