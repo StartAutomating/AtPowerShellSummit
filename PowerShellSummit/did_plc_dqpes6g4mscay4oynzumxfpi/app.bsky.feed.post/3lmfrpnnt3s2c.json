@@ -1,0 +1,79 @@
+{
+  "did": "did:plc:dqpes6g4mscay4oynzumxfpi",
+  "time_us": 1744228825089517,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmfrpqqrt22z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmfrpnnt3s2c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T20:00:20.036Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiderp3lleso63nds4txzhjnqvt3y7t7fgrv5kuqmo54pfjebdufua"
+              },
+              "mimeType": "image/jpeg",
+              "size": 807530
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:cyk7rmruidhdwuxkezgivjtp"
+            }
+          ],
+          "index": {
+            "byteEnd": 35,
+            "byteStart": 16
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 158,
+            "byteStart": 148
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 170,
+            "byteStart": 159
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "After the lunch @emrys.macinally.de is about to rock the stage by showing us how we can pimp our parameters by using argument completers properly.\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreibkkfhpsikl35wcbfo774jmxiexq4a45nokro77uwagjtqu3sluwi"
+  }
+}
