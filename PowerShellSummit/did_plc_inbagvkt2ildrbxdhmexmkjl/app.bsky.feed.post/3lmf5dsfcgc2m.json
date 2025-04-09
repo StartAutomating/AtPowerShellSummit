@@ -1,0 +1,46 @@
+{
+  "did": "did:plc:inbagvkt2ildrbxdhmexmkjl",
+  "time_us": 1744206948495170,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmf5dt6cr72z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmf5dsfcgc2m",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-09T13:55:47.524Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 79,
+            "byteStart": 68
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PshSummit2025"
+            }
+          ],
+          "index": {
+            "byteEnd": 290,
+            "byteStart": 276
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Few things bring me as much joy as hearing people tell me about how #PowerShell helped them with their careers!\n\nPowerShell WAS, IS, and ALWAYS WILL BE about the success of our users.\n\nThank you to all of you that introduced yourself and told me your stories at yesterday’s #PshSummit2025"
+    },
+    "cid": "bafyreidfv7edgfnii4g2rfscoolnob7w2smkt5v7zrvj56qnnyfivwkiby"
+  }
+}
