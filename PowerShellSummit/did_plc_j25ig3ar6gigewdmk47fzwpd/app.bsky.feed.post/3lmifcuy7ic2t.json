@@ -1,0 +1,103 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1744318588529360,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmifcwoiea25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmifcuy7ic2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T20:56:25.827Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1406
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifdg2kfvwneccwbpe7wwexlqimb7fuly4kc3tk6mkdjff7oje47xm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 412829
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:vveuef2gjhg6lxd6fimfs4nn"
+            }
+          ],
+          "index": {
+            "byteEnd": 42,
+            "byteStart": 26
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Azure"
+            }
+          ],
+          "index": {
+            "byteEnd": 82,
+            "byteStart": 76
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 107,
+            "byteStart": 95
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 120,
+            "byteStart": 109
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 131,
+            "byteStart": 121
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "MSAL Auth (and OIDC) with @powers-hell.com to auth against Microsoft Graph, #Azure, etc during #PSHSummit25\n\n#PowerShell #PSHSummit"
+    },
+    "cid": "bafyreie7joc4ssh6pqjt4okofvyx6f5frm6ws4kmjbdcftq55rufjyyqfa"
+  }
+}
