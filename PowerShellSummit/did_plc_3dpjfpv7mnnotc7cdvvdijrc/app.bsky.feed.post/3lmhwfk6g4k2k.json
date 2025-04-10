@@ -1,0 +1,46 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1744302569804581,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmhwfkpv5q2t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmhwfk6g4k2k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T16:29:29.042Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 185,
+            "byteStart": 175
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 198,
+            "byteStart": 186
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "It’s the final day of PowerShell + DevOps Summit—let’s finish strong!\n\nOne more day to soak it all in, make connections, and level up. \n\nLet’s go out on a high note!\n\n#PSHSummit #PSHSummit25"
+    },
+    "cid": "bafyreieqohhnkbh7k4odgpbdvifov4smqedzl2gj4nl4hq6l4y7xcr5n4e"
+  }
+}
