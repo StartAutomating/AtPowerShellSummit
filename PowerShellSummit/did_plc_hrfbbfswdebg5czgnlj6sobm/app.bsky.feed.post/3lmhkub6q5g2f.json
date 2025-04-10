@@ -1,0 +1,90 @@
+{
+  "did": "did:plc:hrfbbfswdebg5czgnlj6sobm",
+  "time_us": 1744290178293939,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmhkubauiw2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmhkub6q5g2f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T13:02:57.945689Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 338,
+              "width": 600
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidn4lqjdigkuzvxn6niyxeg7ul7nwqg5w25rwzxwmjefbxwtnp6w4"
+              },
+              "mimeType": "image/png",
+              "size": 277001
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ai"
+            }
+          ],
+          "index": {
+            "byteEnd": 226,
+            "byteStart": 223
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 237,
+            "byteStart": 227
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 250,
+            "byteStart": 238
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.meetup.com/nycpowershellmeetup/events/307089760"
+            }
+          ],
+          "index": {
+            "byteEnd": 285,
+            "byteStart": 256
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "⚙️Prompt engineering—effectively communicating with AI—has become as critical in business as coding.\n\nDiscover how to effectively utilize Context, Models, and Prompts blending it with VS @Code Agents, MCP and more. #ai #pshsummit #pshsummit25\n\n🔗www.meetup.com/nycpowershe..."
+    },
+    "cid": "bafyreiefuvlugwp2inrfh5kizfkdzbjsemoaf4y7r3snwzfdz5rfhubdo4"
+  }
+}
