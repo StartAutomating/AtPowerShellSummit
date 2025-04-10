@@ -1,0 +1,67 @@
+{
+  "did": "did:plc:bmigyhhwpiy372fug3hgx4p2",
+  "time_us": 1744315791723580,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmicplf6kq2u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmicpjvdus2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T20:09:49.185Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1448,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreih2f7jle5xxe7colo7iukzhblafostniyphi6ygwral3igk6q55mm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 594444
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:vveuef2gjhg6lxd6fimfs4nn"
+            }
+          ],
+          "index": {
+            "byteEnd": 30,
+            "byteStart": 14
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 67,
+            "byteStart": 57
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Full room for @powers-hell.com talk on MSAL auth here at #pshsummit"
+    },
+    "cid": "bafyreigeqgagjla4xpfyxv6rhq2br3rhamyxd355qutayhmt6fxwhllxye"
+  }
+}
