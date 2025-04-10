@@ -1,0 +1,79 @@
+{
+  "did": "did:plc:pobhoz4l3msxxnnsscippqpm",
+  "time_us": 1744302212012558,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmhw2uckyt2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmhw2ryygk2k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T16:23:28.142Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreichqjiw2bl4ylhp4fdnfmgtsii3ncwujuldmrlltujrptbf54mt6u"
+              },
+              "mimeType": "image/jpeg",
+              "size": 715917
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:hh3ywvussfpmzvpkplksmyhk"
+            }
+          ],
+          "index": {
+            "byteEnd": 117,
+            "byteStart": 95
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 186,
+            "byteStart": 176
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 199,
+            "byteStart": 187
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Day 4 at the PowerShell + Devops Global Summit! 🙌🏾\n\nThe first session of the day is with @sdwheeler.bsky.social ! We’re learning about the latest updates to platyPS. \n\n#pshsummit #pshsummit25"
+    },
+    "cid": "bafyreicnufxcbuzuleflm2c7h2a3eagcr7l4uevqxg4pwoxbqibmgjfus4"
+  }
+}
