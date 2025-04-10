@@ -1,0 +1,79 @@
+{
+  "did": "did:plc:pobhoz4l3msxxnnsscippqpm",
+  "time_us": 1744316979823972,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmidsyivmf27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmidswk2wk2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T20:29:36.848Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidhbqz4st3kt47o56jbgm7n5sxc5rryv3idarg6by25jewzro3ray"
+              },
+              "mimeType": "image/jpeg",
+              "size": 569586
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:vveuef2gjhg6lxd6fimfs4nn"
+            }
+          ],
+          "index": {
+            "byteEnd": 24,
+            "byteStart": 8
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 119,
+            "byteStart": 109
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 132,
+            "byteStart": 120
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Live in @powers-hell.com session 🔥\n\nTopic: MSAL Authentication: Auth isn't hard (Auth isn't easy either)\n\n#pshsummit #pshsummit25"
+    },
+    "cid": "bafyreif2edocnbeyonucqzzi47jgt2vfhiraomua4e3wtlkmo3ubscu7qm"
+  }
+}
