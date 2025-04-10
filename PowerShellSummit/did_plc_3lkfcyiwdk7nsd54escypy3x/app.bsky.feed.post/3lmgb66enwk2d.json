@@ -1,0 +1,34 @@
+{
+  "did": "did:plc:3lkfcyiwdk7nsd54escypy3x",
+  "time_us": 1744245412503884,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmgb65cxhk2q",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmgb66enwk2d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T00:36:53.466Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 33,
+            "byteStart": 23
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Having a great week at #pshsummit"
+    },
+    "cid": "bafyreibwz5k2ya2y6yihyadqqpbnwqdpfi5rijm7fnfgmyliv4jdabp3hq"
+  }
+}
