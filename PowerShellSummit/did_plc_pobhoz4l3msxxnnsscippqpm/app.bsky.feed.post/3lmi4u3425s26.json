@@ -1,0 +1,46 @@
+{
+  "did": "did:plc:pobhoz4l3msxxnnsscippqpm",
+  "time_us": 1744309499501089,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmi4u3cbp62c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmi4u3425s26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T18:24:59.003Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 10,
+            "byteStart": 0
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 23,
+            "byteStart": 11
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "#pshsummit #pshsummit25 \n\nDAY 4️⃣ || SESSIONS 🔥🔥\n\n💡 The Many Ways to Run PowerShell in Azure \n- Justin Grote \n\n💡 Terraform + CI/CD\n- Steven Ma"
+    },
+    "cid": "bafyreic47sc4y6l5euufq5xoxodqnyrsz4e33rhk4jral5hx2wgx5crvny"
+  }
+}
