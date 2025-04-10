@@ -1,0 +1,58 @@
+{
+  "did": "did:plc:hrfbbfswdebg5czgnlj6sobm",
+  "time_us": 1744317001389126,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmidtnshak2p",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmidtns7gk2p",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T20:30:01.195262Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 27,
+            "byteStart": 16
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 52,
+            "byteStart": 42
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 65,
+            "byteStart": 53
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "If you're doing #PowerShell - pivot to AI #pshsummit #pshsummit25"
+    },
+    "cid": "bafyreigitdv2gtqqy7vifk3tysun2k5beb3myrdup7kejdvbdcnvpkn42u"
+  }
+}
