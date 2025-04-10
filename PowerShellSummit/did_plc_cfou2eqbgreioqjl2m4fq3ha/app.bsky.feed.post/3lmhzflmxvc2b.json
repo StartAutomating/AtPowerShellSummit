@@ -1,0 +1,86 @@
+{
+  "did": "did:plc:cfou2eqbgreioqjl2m4fq3ha",
+  "time_us": 1744305817913399,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmhzgch5ji2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmhzflmxvc2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T17:23:11.794Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 1080,
+          "width": 1920
+        },
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreicn2b6fxxm3fv2vskebo3lmh7wxd4vliruwtrsql5cmwgmg5iwlfu"
+          },
+          "mimeType": "video/mp4",
+          "size": 8830410
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 30,
+            "byteStart": 9
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 142,
+            "byteStart": 132
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ITAutomation"
+            }
+          ],
+          "index": {
+            "byteEnd": 156,
+            "byteStart": 143
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 168,
+            "byteStart": 157
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Day 4 of @powershellsummit.org 2025 is here! 🌟 Get ready for more great exchanges and memories with the community's key figures. #PSHSummit #ITAutomation #PowerShell"
+    },
+    "cid": "bafyreiareboikxzd4rlq6s2fnhtlvdnwjix44qaolbdknkry73gug3mk3i"
+  }
+}
