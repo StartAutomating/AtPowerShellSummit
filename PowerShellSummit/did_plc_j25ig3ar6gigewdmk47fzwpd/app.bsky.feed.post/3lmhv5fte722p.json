@@ -1,0 +1,103 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1744301224804510,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmhv5hbpqq2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmhv5fte722p",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T16:07:02.297Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1125,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreid65a3ya7c2nszs3a2y3aguglrn5pydzngq2stfbfwquk2mmyar2u"
+              },
+              "mimeType": "image/jpeg",
+              "size": 646987
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 21,
+            "byteStart": 9
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:wepubn5jiq74vznap2ia2osh"
+            }
+          ],
+          "index": {
+            "byteEnd": 56,
+            "byteStart": 46
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Azure"
+            }
+          ],
+          "index": {
+            "byteEnd": 109,
+            "byteStart": 103
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 126,
+            "byteStart": 115
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 139,
+            "byteStart": 129
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Day 4 of #PSHSummit25 and stoked to listen to @posh.guru give us the crashcourse on all of the ways to #Azure 🤝 #PowerShell \n\n#PSHSummit"
+    },
+    "cid": "bafyreicbx2c27zrnxdt6g3y3vhmaitmlop5tbdldxtcs4ptlhq5qbulykm"
+  }
+}
