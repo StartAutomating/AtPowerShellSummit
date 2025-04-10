@@ -1,0 +1,115 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1744319365219829,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmig244pmp25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmig23ekmc2u",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T21:09:24.283Z",
+      "embed": {
+        "$type": "app.bsky.embed.record",
+        "record": {
+          "cid": "bafyreia4zafh23turna73egyxjop2otupxnignx23hblnhkrvg5gdl23xm",
+          "uri": "at://did:plc:vveuef2gjhg6lxd6fimfs4nn/app.bsky.feed.post/3llce73abes24"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 35,
+            "byteStart": 14
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:vveuef2gjhg6lxd6fimfs4nn"
+            }
+          ],
+          "index": {
+            "byteEnd": 126,
+            "byteStart": 110
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 153,
+            "byteStart": 142
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Azure"
+            }
+          ],
+          "index": {
+            "byteEnd": 160,
+            "byteStart": 154
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MSGraph"
+            }
+          ],
+          "index": {
+            "byteEnd": 169,
+            "byteStart": 161
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Authentication"
+            }
+          ],
+          "index": {
+            "byteEnd": 185,
+            "byteStart": 170
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 196,
+            "byteStart": 186
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Missed out on @powershellsummit.org but have questions about auth, Microsoft Graph, Azure, or OIDC? Check out @powers-hell.com's blog post! \n\n#PowerShell #Azure #MSGraph #Authentication #PSHSummit"
+    },
+    "cid": "bafyreih7wtq2r5wi5ijxktx233q74t7vib5gg3mmff2eefgovofp76m6fy"
+  }
+}
