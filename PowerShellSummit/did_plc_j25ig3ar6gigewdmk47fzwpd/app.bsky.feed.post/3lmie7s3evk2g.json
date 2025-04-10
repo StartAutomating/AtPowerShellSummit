@@ -1,0 +1,121 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1744317410093276,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmie7sxueb2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmie7s3evk2g",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T20:36:48.389Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Connecting the dots in cloud dynamics. Live interactive visual guide to Azure Cloud's current state.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiemlhgsbfzdt5whrvsw7n3y7kvyc3jm3x5vvy232jvn654itqrqzi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 472880
+          },
+          "title": "Azure Charts - Clarity for the Cloud",
+          "uri": "https://azurecharts.com/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://azurecharts.com/"
+            }
+          ],
+          "index": {
+            "byteEnd": 25,
+            "byteStart": 10
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:wepubn5jiq74vznap2ia2osh"
+            }
+          ],
+          "index": {
+            "byteEnd": 46,
+            "byteStart": 36
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 97,
+            "byteStart": 87
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Azure"
+            }
+          ],
+          "index": {
+            "byteEnd": 119,
+            "byteStart": 113
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 130,
+            "byteStart": 120
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 142,
+            "byteStart": 131
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreicbx2c27zrnxdt6g3y3vhmaitmlop5tbdldxtcs4ptlhq5qbulykm",
+          "uri": "at://did:plc:j25ig3ar6gigewdmk47fzwpd/app.bsky.feed.post/3lmhv5fte722p"
+        },
+        "root": {
+          "cid": "bafyreicbx2c27zrnxdt6g3y3vhmaitmlop5tbdldxtcs4ptlhq5qbulykm",
+          "uri": "at://did:plc:j25ig3ar6gigewdmk47fzwpd/app.bsky.feed.post/3lmhv5fte722p"
+        }
+      },
+      "text": "TIL about azurecharts.com thanks to @posh.guru. If that's not reason enough to come to #PSHSummit idk what is. \n\n#Azure #PSHSummit #PowerShell"
+    },
+    "cid": "bafyreido7ib77eraghvrsisrewwepmzgwpk3badj2xmvjlimuhnphdbrjm"
+  }
+}
