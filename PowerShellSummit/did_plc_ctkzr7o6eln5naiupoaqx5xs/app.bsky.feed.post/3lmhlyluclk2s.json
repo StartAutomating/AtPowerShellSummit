@@ -1,0 +1,34 @@
+{
+  "did": "did:plc:ctkzr7o6eln5naiupoaqx5xs",
+  "time_us": 1744291395941998,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmhlykcgl72v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmhlyluclk2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T13:23:17.182Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 76,
+            "byteStart": 64
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The last 3 days have been a blur of super useful information at #PSHsummit25. I almost can't believe that today's the last day already and I'll be heading home tomorrow. Met a bunch of nice people and learned a lot. Powershell Summit is truly a unique conference."
+    },
+    "cid": "bafyreig2ge6mktxsy7xsk4qjjvdxzlowvvytr7ab2imyoblodr2chpk3zu"
+  }
+}
