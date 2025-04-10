@@ -1,0 +1,73 @@
+{
+  "did": "did:plc:2q2fc4dgv6jan5kn2h3sasz5",
+  "time_us": 1744304980036100,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmhynde33m2e",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmhymmvvbc2n",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-10T17:09:14.274Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 1080,
+          "width": 1920
+        },
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreidslogh2puoqomepub647ctk2lkejwdkxeaql7jsuwm6hw7le45gi"
+          },
+          "mimeType": "video/mp4",
+          "size": 8819572
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 27,
+            "byteStart": 16
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ITAutomation"
+            }
+          ],
+          "index": {
+            "byteEnd": 212,
+            "byteStart": 199
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 223,
+            "byteStart": 213
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Wrapping up the #PowerShell + Global DevOps Summit 2025! 🌟 4 days of fantastic exchanges and great memories with key figures in the PowerShell community. Let’s keep driving innovation together! #ITAutomation #PSHSummit"
+    },
+    "cid": "bafyreifco2ln7vbkemqpw2yidrxgh26f3pk6vzk3joskonjhpk7wne3zsu"
+  }
+}
