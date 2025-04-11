@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1744336288786745,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmivsgtxts22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmivsggg4k2m",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-11T01:51:27.314Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "aspectRatio": {
+          "height": 1080,
+          "width": 1920
+        },
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreibcx7gaap7uo67dv73ux4npi2kjvoi5soqleqpds6s6syjy3c6et4"
+          },
+          "mimeType": "video/mp4",
+          "size": 3553805
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 46,
+            "byteStart": 25
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Celebrating a successful @powershellsummit.org !"
+    },
+    "cid": "bafyreih4stl3seaxgh6july33jlzsowagndblslqaojrjytwrjqyrunyki"
+  }
+}
