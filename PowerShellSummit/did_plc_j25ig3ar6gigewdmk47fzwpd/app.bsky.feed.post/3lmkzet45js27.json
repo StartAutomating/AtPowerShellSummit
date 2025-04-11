@@ -1,0 +1,91 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1744408849429317,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmkzewrxpv2q",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmkzet45js27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-11T22:00:45.29Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "What follows is a list of content where I am either featured or I simply had a small part to play.\nI hope that you find something that helps you in your journey.",
+          "title": "My Content List",
+          "uri": "https://blog.stevenjudd.com/My-Content-List/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 42,
+            "byteStart": 30
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 91,
+            "byteStart": 81
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 156,
+            "byteStart": 145
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:gwzlu5twwpnddrdx74se7ddn"
+            }
+          ],
+          "index": {
+            "byteEnd": 232,
+            "byteStart": 209
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://blog.stevenjudd.com/My-Content-List/"
+            }
+          ],
+          "index": {
+            "byteEnd": 297,
+            "byteStart": 262
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "There's so much to post about #PSHSummit25, but one of my favorite things making #PSHSummit unique is their On-Ramp for folks to get immersed in #PowerShell. \n\nIf you weren't able to make the event this year,\n@stevenjudd.bsky.social's gem of a list of resources blog.stevenjudd.com/My-Content-L... 🔥"
+    },
+    "cid": "bafyreicifjjfvk6mprqqummr7axviuie6fdakkc2kkxqmrcgliknl4hiye"
+  }
+}
