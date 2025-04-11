@@ -1,0 +1,47 @@
+{
+  "did": "did:plc:yl5rdghi2dffnuaa4v3xmekv",
+  "time_us": 1744350327694841,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmjcuub4v32g",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmjcutu6ic2z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-11T05:45:27.149Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit2025"
+            }
+          ],
+          "index": {
+            "byteEnd": 187,
+            "byteStart": 173
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 209,
+            "byteStart": 188
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Wrapping up an amazing time at the 2025 global summit. Made lots of awesome connections and am heading back home with a ton of ideas about how I'm going to save the world! \n#pshsummit2025 @powershellsummit.org"
+    },
+    "cid": "bafyreigxzerch2lzbhanmdcmx3vfqg7w3ir5sszlm2cpiyeptzx7jniwra"
+  }
+}
