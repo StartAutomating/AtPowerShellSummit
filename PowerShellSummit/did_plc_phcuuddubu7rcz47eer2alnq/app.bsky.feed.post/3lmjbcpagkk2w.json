@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:phcuuddubu7rcz47eer2alnq",
+  "time_us": 1744348648794331,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmjbcsbdym2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmjbcpagkk2w",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-11T05:17:24.573Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "Cory Knox holding phone opened to janestreet's answer page for their puzzle deck.",
+            "aspectRatio": {
+              "height": 1999,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiggdax2kalnsd7et3fm55drrbgyiv6qhm53qkcw64tuhvsyonn4fu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 542925
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 22,
+            "byteStart": 12
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Had a great #pshsummit! Met lots of great people, caught up with old friends. Solved janestreet's puzzle card deck with a little help from my friend (or hinderence 🙃)"
+    },
+    "cid": "bafyreid4o5ipwz22rtpqlszu7ymgjgnv2e4hymdmlxexe5iog3mvkad4ya"
+  }
+}
