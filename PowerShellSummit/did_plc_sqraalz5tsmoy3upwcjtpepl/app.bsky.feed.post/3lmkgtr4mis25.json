@@ -1,0 +1,35 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1744388950975145,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmkgtrgfw62y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmkgtr4mis25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-11T16:29:05.426Z",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 40,
+            "byteStart": 19
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "See you next time, @powershellsummit.org ! About to hop on the bus to the airport. 3 dollars for a 40 minute bus ride. Not bad."
+    },
+    "cid": "bafyreidwsbsj5ru3vo7phgv4zg3orszekwptstidc5ku75w43y25iphopy"
+  }
+}
