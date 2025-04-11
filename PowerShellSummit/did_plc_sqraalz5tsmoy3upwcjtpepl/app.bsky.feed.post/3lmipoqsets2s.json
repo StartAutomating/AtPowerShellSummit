@@ -1,0 +1,55 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1744329726301239,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmipotussu25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmipoqsets2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-11T00:02:01.521Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 983,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihscl2ketlexvsah6s67a4gkyyyrs2rj2u7knq2up6n46waku55ee"
+              },
+              "mimeType": "image/jpeg",
+              "size": 536059
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 54,
+            "byteStart": 33
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Boom! Learned how to do Bicep at @powershellsummit.org. Now I can deploy PowerShell Universal to Azure like a pro."
+    },
+    "cid": "bafyreifrpkkslpyg46dmcxh55pkoy62x6hz7ttsh3adfxvpc3ew3c6d67a"
+  }
+}
