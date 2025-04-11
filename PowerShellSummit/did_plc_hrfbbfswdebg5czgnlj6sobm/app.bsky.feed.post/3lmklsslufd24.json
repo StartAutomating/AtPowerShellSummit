@@ -1,0 +1,90 @@
+{
+  "did": "did:plc:hrfbbfswdebg5czgnlj6sobm",
+  "time_us": 1744394285614882,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmklssm3a324",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmklsslufd24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-11T17:58:02.088309Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 464,
+              "width": 684
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifa3uwmwq5alwwfgwplev7mcil5gqivprgfn5oeig2nk6zke67ihe"
+              },
+              "mimeType": "image/png",
+              "size": 215917
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 30,
+            "byteStart": 19
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 43,
+            "byteStart": 31
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 55,
+            "byteStart": 45
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://github.com/dfinke/PSAI"
+            }
+          ],
+          "index": {
+            "byteEnd": 110,
+            "byteStart": 88
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Be a vibe scripter #powershell #pshsummit25  #PSHSummit\n\n🛠️Install-Module PSAI\n🔗github.com/dfinke/PSAI"
+    },
+    "cid": "bafyreigstt2ngbd2a3tx2wigrkesb4e5otaxngiqwov23wkmfayqiegfqa"
+  }
+}
