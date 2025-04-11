@@ -1,0 +1,34 @@
+{
+  "did": "did:plc:ohgsqpfsbocaaxusxqlgfvd7",
+  "time_us": 1744380846181510,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmk7cbjq5r2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmk7cbbg5c2q",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-11T14:14:02.193Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 54
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I had a wonderful, and emotional time, at this week's #PSHSummit. Thank you to everyone who said hello, took a selfie or had me sign a book. I saw some old friends I haven't seen in ages and made more than a few new ones."
+    },
+    "cid": "bafyreierzqjnemwtsiqxtehk6uwmfr7po3efswukigxesexjb34vhryw4m"
+  }
+}
