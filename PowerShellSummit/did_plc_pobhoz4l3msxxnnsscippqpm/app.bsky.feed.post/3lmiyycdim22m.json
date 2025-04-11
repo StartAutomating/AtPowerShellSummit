@@ -1,0 +1,163 @@
+{
+  "did": "did:plc:pobhoz4l3msxxnnsscippqpm",
+  "time_us": 1744339711127019,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmiyygxpra25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmiyycdim22m",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-11T02:48:25.558Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1503,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifamdvuhx4v5y3wuscxbfaktkpp2l6go5wnya2q5k6p34goti4qmy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 622814
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreig3zpyf47imsm3osavl6pxf6uelzlmtnkxikgm5t7fdh7gd465cue"
+              },
+              "mimeType": "image/jpeg",
+              "size": 958864
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifhfu6tzvzofyjyq7mwpbthfnfm2jip3c5tyoporokzsrcmzq4p6u"
+              },
+              "mimeType": "image/jpeg",
+              "size": 676724
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibjsavlpun6sd5pckjbziytineu7iuujgsfjx5gse7t66jhbrbhyy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 693792
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:gwzlu5twwpnddrdx74se7ddn"
+            }
+          ],
+          "index": {
+            "byteEnd": 213,
+            "byteStart": 190
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:gean4o67deq2gded4hbat2vt"
+            }
+          ],
+          "index": {
+            "byteEnd": 237,
+            "byteStart": 216
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:inbagvkt2ildrbxdhmexmkjl"
+            }
+          ],
+          "index": {
+            "byteEnd": 251,
+            "byteStart": 239
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:j25ig3ar6gigewdmk47fzwpd"
+            }
+          ],
+          "index": {
+            "byteEnd": 269,
+            "byteStart": 253
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 282,
+            "byteStart": 272
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 295,
+            "byteStart": 283
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Cheers to the LAST day of the PowerShell + Devops Global Summit! ✨\n\nI enjoyed every session I attended and being in the room with such successful and amazing people. \n\nHonorable mentions: @stevenjudd.bsky.social , @donjones.bsky.social, @jsnover.com \n@allwayshype.com \n\n#pshsummit #pshsummit25"
+    },
+    "cid": "bafyreihsvtmyzlr4jaamj24njknzfgbntzour3r3464qs3vvgifhpbmmby"
+  }
+}
