@@ -1,0 +1,51 @@
+{
+  "did": "did:plc:ugfwp7thmzyy2pzx35n3vp25",
+  "time_us": 1744337738620457,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmix5np6ez2q",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmix5ot5622d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-11T02:15:38.959Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Alt: Cortana",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidgnrzclzmhk2aepwnlnjb5nrmesmuorwhlqondujhn62wfm46vla"
+            },
+            "mimeType": "image/jpeg",
+            "size": 179673
+          },
+          "title": "a computer generated image of a woman 's face is displayed on a blog called blogofpastry.tumblr",
+          "uri": "https://media.tenor.com/mineAi6EbZ4AAAAC/cortana-halo.gif?hh=348&ww=498"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 59,
+            "byteStart": 38
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Had a wonderful and enriching time at @powershellsummit.org and hope to return for many a moon"
+    },
+    "cid": "bafyreihd4xihtdrcrk7upcdlebcw7lg2n2paphbq5nqwuqilicq57ueb74"
+  }
+}
