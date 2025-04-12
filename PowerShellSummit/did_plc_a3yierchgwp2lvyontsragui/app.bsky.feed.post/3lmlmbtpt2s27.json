@@ -1,0 +1,111 @@
+{
+  "did": "did:plc:a3yierchgwp2lvyontsragui",
+  "time_us": 1744429189942435,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmlmc2io3a2t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmlmbtpt2s27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-12T03:39:06.336Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "Photo of Don Jones sharing his experience and advice from 20 years of leadership.",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibczpnw4zikv7b4zzc6ftgz3iko246wtavp4yvkyf5sg7vjeu5d2m"
+              },
+              "mimeType": "image/jpeg",
+              "size": 689783
+            }
+          },
+          {
+            "alt": "Photo of me (Josh) and Cory Knox",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreia2zdmoddbhccmhehplqglzjv2ragfmrm7ziaii4rzk4g3cyvypfq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 976129
+            }
+          },
+          {
+            "alt": "Photo of me (Josh) and Gilbert Sanchez",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiavlsqncg4a72sre7qubu7seplgfuzjl5324c5jetvi2i2crskcza"
+              },
+              "mimeType": "image/jpeg",
+              "size": 866519
+            }
+          },
+          {
+            "alt": "Photo of me (Josh) and Steven Judd",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreida3vow4g2mc6pxhp6dkmozgk3w2ypxd5wvs4ouqs46kyhyewdfra"
+              },
+              "mimeType": "image/jpeg",
+              "size": 894498
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 10,
+            "byteStart": 0
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pwsh"
+            }
+          ],
+          "index": {
+            "byteEnd": 130,
+            "byteStart": 125
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "#pshsummit no. 5 is in the books! Briefly, my week included…\n\n- 9h drive round-trip\n- Flat tire\n- Reconnecting with all my #pwsh nerd friends\n- Tons of new connections \n- My first D&D game\n- I gave a 45m talk & demo on several notification types\n- Tons of great sessions on DevOps, pwsh, and AI"
+    },
+    "cid": "bafyreicym327zxaf53fx4ptilm44jlb47m4lsekrkss57skfhnyoyaq5c4"
+  }
+}
