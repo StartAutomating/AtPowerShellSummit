@@ -1,0 +1,66 @@
+{
+  "did": "did:plc:gwzlu5twwpnddrdx74se7ddn",
+  "time_us": 1744472673444252,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmmut2a6ap2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmmuszs7hs2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-12T15:44:32.835Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "This week I had the great pleasure of attending the 2025 PowerShell and DevOPs Global Summit in Bellevue, Washington.",
+          "title": "Don’t Call it a Conference, It’s Been Here for Years",
+          "uri": "https://therealzero.github.io/2025/04/11/Dont-Call-It-A-Comeback.html"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 93,
+            "byteStart": 82
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 109,
+            "byteStart": 97
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://therealzero.github.io/2025/04/11/Dont-Call-It-A-Comeback.html"
+            }
+          ],
+          "index": {
+            "byteEnd": 182,
+            "byteStart": 145
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "If you want to know what the vibe (as people younger than me say) is for learning #PowerShell at #pshsummit25, I recommend you read Lucas' post: therealzero.github.io/2025/04/11/D..."
+    },
+    "cid": "bafyreigyizreywgphlw7c26qcgmmuiekzaln5ivbbixlaruvt4qyjjzreu"
+  }
+}
