@@ -1,0 +1,98 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1744497965225864,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmnmeqwxcw2l",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmnmeq6quk22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-12T22:46:02.801Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "A series of scripts that perform zero-shot (untrained) data classification using AI. - franklesniak/AutoCategorizerPS",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidgz7n33mix5jh4hvny3zyv2td3ounseuo2i2wxednjs6d2igypva"
+            },
+            "mimeType": "image/jpeg",
+            "size": 311478
+          },
+          "title": "GitHub - franklesniak/AutoCategorizerPS: A series of scripts that perform zero-shot (untrained) data classification using AI.",
+          "uri": "https://github.com/franklesniak/AutoCategorizerPS"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 32,
+            "byteStart": 20
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 81,
+            "byteStart": 70
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "datascience"
+            }
+          ],
+          "index": {
+            "byteEnd": 94,
+            "byteStart": 82
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://github.com/franklesniak/AutoCategorizerPS"
+            }
+          ],
+          "index": {
+            "byteEnd": 244,
+            "byteStart": 218
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 255,
+            "byteStart": 245
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "This week, while at #PSHSummit25, I worked on AutoCategorizerPS. This #PowerShell #datascience tool automatically categorizes text data when you do not know the categories/labels that best characterize the data. Link: github.com/franklesniak... #PSHSummit"
+    },
+    "cid": "bafyreibhl7vzg5lru5m6vkcuwphcqorrx6lpmxlubn3aljsm45tgvxyluu"
+  }
+}
