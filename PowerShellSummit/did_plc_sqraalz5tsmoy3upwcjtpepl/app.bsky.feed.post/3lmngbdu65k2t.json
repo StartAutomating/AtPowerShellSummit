@@ -1,0 +1,40 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1744491408789497,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmngbf433r2w",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmngbdu65k2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-12T20:56:46.745Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1395,
+              "width": 1160
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreia72wiafxoxh3eqainquuftvg72dpcz7vf3z6rikpv5sad5szztmy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 635306
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "PowerShell Summit recovery ride.  Less beer more bikes for the next few weeks."
+    },
+    "cid": "bafyreifwfr7zuv3qhj7oocrexjjbpbj75t57tktdolcq4yr4c3fwzpwwta"
+  }
+}
