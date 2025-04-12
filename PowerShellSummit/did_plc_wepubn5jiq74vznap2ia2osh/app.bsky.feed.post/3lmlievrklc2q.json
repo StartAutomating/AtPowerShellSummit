@@ -1,0 +1,59 @@
+{
+  "did": "did:plc:wepubn5jiq74vznap2ia2osh",
+  "time_us": 1744424954725212,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmliew5dh32b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmlievrklc2q",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-12T02:29:14.211Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 32,
+            "byteStart": 22
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Paradise"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 55
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:hjx4vtoryubvqa4vy6xuliy7"
+            }
+          ],
+          "index": {
+            "byteEnd": 130,
+            "byteStart": 110
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Home from a wonderful #PSHSummit to sit down and watch #Paradise E7 with Gabie. Absolutely incredible. Thanks @scott.hanselman.com for turning me on to it."
+    },
+    "cid": "bafyreihddjsizf7sgtfmxspuntiu5l55bvp3vlgcvthwurxhxr7zqo7dqq"
+  }
+}
