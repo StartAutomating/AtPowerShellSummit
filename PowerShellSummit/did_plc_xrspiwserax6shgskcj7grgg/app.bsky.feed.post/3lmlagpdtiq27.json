@@ -1,0 +1,59 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1744416426434463,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmlagperri27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmlagpdtiq27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-12T00:07:04+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "alt": "",
+        "aspectRatio": {
+          "height": 960,
+          "width": 960
+        },
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreib3xnt5lll5yc67qpsk6ciuteqwtyot42jjaod2eb5cnnzjr4wv7q"
+          },
+          "mimeType": "video/mp4",
+          "size": 5014921
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 246,
+            "byteStart": 235
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 257,
+            "byteStart": 247
+          }
+        }
+      ],
+      "text": "\"Me: I did the prep, I’m ready, nothing can go wrong.\nAlso me, 30 minutes later: projector flatlines for 10 minutes\" 🎤🫠\n\nConference talks keep you humble 😂\ntbh it made it more memorable and it was still a good talk imo 🤷\n#PowerShell #PSHSummit"
+    },
+    "cid": "bafyreigxqpbcmp2y6ioyxlf3qeblhy3wna465donbcyeexrcsqx4yitpte"
+  }
+}
