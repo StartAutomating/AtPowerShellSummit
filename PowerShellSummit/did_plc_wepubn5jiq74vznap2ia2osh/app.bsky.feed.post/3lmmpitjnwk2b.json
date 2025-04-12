@@ -1,0 +1,52 @@
+{
+  "did": "did:plc:wepubn5jiq74vznap2ia2osh",
+  "time_us": 1744466962423290,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmmpitsaxv2q",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmmpitjnwk2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-12T14:09:22.011Z",
+      "embed": {
+        "$type": "app.bsky.embed.recordWithMedia",
+        "media": {
+          "$type": "app.bsky.embed.external",
+          "external": {
+            "description": "This week I had the great pleasure of attending the 2025 PowerShell and DevOPs Global Summit in Bellevue, Washington.",
+            "title": "Don’t Call it a Conference, It’s Been Here for Years",
+            "uri": "https://therealzero.github.io/2025/04/11/Dont-Call-It-A-Comeback.html"
+          }
+        },
+        "record": {
+          "$type": "app.bsky.embed.record",
+          "record": {
+            "cid": "bafyreiay7qlr5jb7mzfr7yubautv5iyvits54egobfw7w5h44brwuntg2a",
+            "uri": "at://did:plc:b6l5n5hbre37crwklbt2wjqo/app.bsky.feed.post/3lmlqh6fn3s22"
+          }
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 46,
+            "byteStart": 36
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I'm very lucky to have met Lucas at #PSHSummit, it was immediately clear he was \"one of us\" and his blog post cements it. I look forward to many events online and offline in the future with him."
+    },
+    "cid": "bafyreifkz54y4jskt6tm5w3seiwxpbt54jhdcvjvhgwm7cbocrhiiueet4"
+  }
+}
