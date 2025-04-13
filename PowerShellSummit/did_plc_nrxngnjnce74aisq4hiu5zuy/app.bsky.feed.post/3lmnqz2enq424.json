@@ -1,0 +1,78 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1744502940582976,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmnqz2f3fm24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmnqz2enq424",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-13T00:08:58Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1602,
+              "width": 2136
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiard6m4xyxnndk6amazorsndc3nxv4pqbwjg7zpmj3ncntwlv6lke"
+              },
+              "mimeType": "image/jpeg",
+              "size": 363304
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25."
+            }
+          ],
+          "index": {
+            "byteEnd": 74,
+            "byteStart": 61
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 119,
+            "byteStart": 108
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 240,
+            "byteStart": 230
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Danny Stutz and I had two back-to-back sessions to close out #PSHSummit25. The first was our cross-platform #PowerShell talk, where we unveiled a \"v0.1\" cross-platform operating system inventory tool that I am very excited about. #PSHSummit"
+    },
+    "cid": "bafyreic4zf27ofimnxfy6omeslvw5iyefrut3kmqjkc77dpwll5s2kfdky"
+  }
+}
