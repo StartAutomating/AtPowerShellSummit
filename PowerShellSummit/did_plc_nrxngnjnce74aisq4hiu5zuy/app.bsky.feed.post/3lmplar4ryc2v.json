@@ -1,0 +1,66 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1744565475969427,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmplar4yt22v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmplar4ryc2v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-13T17:31:14Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1748,
+              "width": 2331
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiglrm5ewcmrlpi5pqzy6v2zgijrmyqe2amprgc2gxt2igeg2gyj4y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 423282
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25."
+            }
+          ],
+          "index": {
+            "byteEnd": 100,
+            "byteStart": 87
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 212,
+            "byteStart": 201
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "As I mentioned yesterday, Danny Stutz and I had two back-to-back sessions to close out #PSHSummit25. I posted about the first session yesterday; the second was about how LLMs can significantly enhance #PowerShell script authoring. The room was PACKED!"
+    },
+    "cid": "bafyreif3xpjo7ukpwjbju6d4bddvwctbra6b4r4nsmxlwutbk3uqo63qvq"
+  }
+}
