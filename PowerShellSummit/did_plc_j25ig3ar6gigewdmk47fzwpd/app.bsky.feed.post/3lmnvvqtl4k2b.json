@@ -1,0 +1,86 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1744508198615155,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmnvvr6ta52r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmnvvqtl4k2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-13T01:36:37.586Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "I went to PowerShell Summit expecting scripts and syntax. I left thinking about visibility, automation, and how real impact comes from making the work better — not just more technical. It’s never just...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifu5xkfz7xuhiwdl4oyscskrh25ywwfowq3fsreqvvz4cn64g34ae"
+            },
+            "mimeType": "image/jpeg",
+            "size": 222707
+          },
+          "title": "PowerShell Summit: It’s Never Just About the Script — Allways HyPe",
+          "uri": "https://www.allwayshype.com/allways-hype/powershell-summit-its-never-just-about-the-script"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 18,
+            "byteStart": 8
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.allwayshype.com/allways-hype/powershell-summit-its-never-just-about-the-script"
+            }
+          ],
+          "index": {
+            "byteEnd": 274,
+            "byteStart": 239
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 287,
+            "byteStart": 276
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 301,
+            "byteStart": 289
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Went to #PSHSummit for the automation tips, left thinking about visibility, team dynamics, and how source control isn’t the same as solving the problem.\n\nPowerShell is just the enabler. The real work is making things better on purpose.\n\nwww.allwayshype.com/allways-hype...\n\n#PowerShell  #PSHSummit25"
+    },
+    "cid": "bafyreidkczletg4vawytcll2bbt5opmmgd64iidy5wtcf467okfszno6t4"
+  }
+}
