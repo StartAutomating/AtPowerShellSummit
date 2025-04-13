@@ -1,0 +1,56 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1744565491558945,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmplbahrtq2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmplbahj2i2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-13T17:31:30Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 252,
+            "byteStart": 242
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:xrspiwserax6shgskcj7grgg"
+            }
+          ],
+          "index": {
+            "byteEnd": 162,
+            "byteStart": 147
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreigyyby7dftnzzqh3vwpgojm3fctsiszvkcfzpze5v3wuqy7otdnzu",
+          "uri": "at://did:plc:nrxngnjnce74aisq4hiu5zuy/app.bsky.feed.post/3lmplb36wld2c"
+        },
+        "root": {
+          "cid": "bafyreif3xpjo7ukpwjbju6d4bddvwctbra6b4r4nsmxlwutbk3uqo63qvq",
+          "uri": "at://did:plc:nrxngnjnce74aisq4hiu5zuy/app.bsky.feed.post/3lmplar4ryc2v"
+        }
+      },
+      "text": "But, honestly? We decided to have some fun with the session and had the whole room laughing. Attendees will remember me asking the local LLM about @andrewpla.tech, or Danny having ChatGPT \"talk like a Gen Z\" while it helped us vibe code 😂 #PSHSummit"
+    },
+    "cid": "bafyreifg6x57mps2d4dmnlzt233xpnjbr3qlgvggykevxw6lxkbkaowjva"
+  }
+}
