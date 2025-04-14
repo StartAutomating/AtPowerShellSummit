@@ -1,0 +1,64 @@
+{
+  "did": "did:plc:phcuuddubu7rcz47eer2alnq",
+  "time_us": 1744602921319034,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmqo4qbxjr2i",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmqo4pxoyk26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-14T03:55:20.834Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell module to manage Windows visual effects - janestreet/VisualEffects",
+          "title": "GitHub - janestreet/VisualEffects: PowerShell module to manage Windows visual effects",
+          "uri": "https://github.com/janestreet/VisualEffects"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 42,
+            "byteStart": 32
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://github.com/janestreet/VisualEffects"
+            }
+          ],
+          "index": {
+            "byteEnd": 105,
+            "byteStart": 79
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreihase6nfdizxjj4mpchdcunw6nzqh5u47ahwle5skmn7nik6l4jci",
+          "uri": "at://did:plc:gmdb2ngatfbh6be24zvkmpu6/app.bsky.feed.post/3lmqn57lpsc2h"
+        },
+        "root": {
+          "cid": "bafyreihase6nfdizxjj4mpchdcunw6nzqh5u47ahwle5skmn7nik6l4jci",
+          "uri": "at://did:plc:gmdb2ngatfbh6be24zvkmpu6/app.bsky.feed.post/3lmqn57lpsc2h"
+        }
+      },
+      "text": "Just saw a very similar talk at #pshsummit from Jane Street about this module: github.com/janestreet/V..."
+    },
+    "cid": "bafyreigk356i4fdnalnkevqaykraj7aqem4cdh4feh6254nzuemat5vzpi"
+  }
+}
