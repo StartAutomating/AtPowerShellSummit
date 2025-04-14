@@ -1,0 +1,69 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1744638787004925,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmrpjkuxtf2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmrpjkupzf2j",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-14T13:53:05+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "The PowerShell Podcast highlights what makes PowerShell so great, the community. Each week we want to highlight people, blogs, videos, and modules that have gone into making PowerShell so great.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihqjonh42pg47imknt75qzpj3wpdxndf65rgw7v2ik3sdzgkqvtbq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 79793
+          },
+          "title": "The PowerShell Podcast | PDQ.com",
+          "uri": "https://powershellpodcast.podbean.com/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellpodcast.podbean.com/"
+            }
+          ],
+          "index": {
+            "byteEnd": 89,
+            "byteStart": 66
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 54,
+            "byteStart": 44
+          }
+        }
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreihrkserjfoyggrfkmsxt33fdb7aj6tmcamk5udpbtcw7cga4vvrgm",
+          "uri": "at://did:plc:xrspiwserax6shgskcj7grgg/app.bsky.feed.post/3lmrpjk3aau2y"
+        },
+        "root": {
+          "cid": "bafyreihrkserjfoyggrfkmsxt33fdb7aj6tmcamk5udpbtcw7cga4vvrgm",
+          "uri": "at://did:plc:xrspiwserax6shgskcj7grgg/app.bsky.feed.post/3lmrpjk3aau2y"
+        }
+      },
+      "text": "and first-timer and shares their journey to #PSHSummit\r\n\r\nListen: powershellpodcast.po..."
+    },
+    "cid": "bafyreifidesextszmf62eu24tjebgrhq46wbsfz2cl4qhdoultsyusfxxq"
+  }
+}
