@@ -1,0 +1,51 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1744638785236813,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmrpjk3g4e2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmrpjk3aau2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-14T13:53:04+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1125
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigrutjfmbwvc3rfdbm5jk7dwn3y4qejsykb4c4j44pt3hyivsch2a"
+              },
+              "mimeType": "image/jpeg",
+              "size": 572978
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 52,
+            "byteStart": 41
+          }
+        }
+      ],
+      "text": "If you missed it, check out my chat from #PowerShell Summit with @franklesniak and David R.\n\nFrank is longtime bar session guest and interviews me for a bit, but only after sharing game on how to grow and capitalize on your career\n\nDavid is a listener (1/2)"
+    },
+    "cid": "bafyreihrkserjfoyggrfkmsxt33fdb7aj6tmcamk5udpbtcw7cga4vvrgm"
+  }
+}
