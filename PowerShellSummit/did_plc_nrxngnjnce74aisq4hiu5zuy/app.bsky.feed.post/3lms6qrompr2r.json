@@ -1,0 +1,78 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1744655133929860,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lms6qrp5cz2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lms6qrompr2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-14T18:25:30Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 742,
+              "width": 1117
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreih4aminunpwvbdesf5qnsfnfqyuizx7o5ox7daog35ksvfwhijh5a"
+              },
+              "mimeType": "image/jpeg",
+              "size": 103776
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.pdq.com/resources/the-powershell-podcast/ep-167-powershell-summit-bar-sessions-2025-with-frank-lesniak/"
+            }
+          ],
+          "index": {
+            "byteEnd": 235,
+            "byteStart": 212
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25."
+            }
+          ],
+          "index": {
+            "byteEnd": 82,
+            "byteStart": 69
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:xrspiwserax6shgskcj7grgg"
+            }
+          ],
+          "index": {
+            "byteEnd": 16,
+            "byteStart": 1
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": ".@andrewpla.tech interviewed me on @PowerShellpod last week while at #PSHSummit25. This is probably my most hilarious interview yet; the reason why will be obvious if you give the first few minutes a listen 😂 www.pdq.com/resource..."
+    },
+    "cid": "bafyreidxyyczraarvh5x5akmty2pbo7fmfhtyavect32s6cpvt7tqdondi"
+  }
+}
