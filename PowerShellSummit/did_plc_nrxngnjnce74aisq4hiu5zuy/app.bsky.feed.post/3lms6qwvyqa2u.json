@@ -1,0 +1,56 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1744655138931185,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lms6qww6lq2u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lms6qwvyqa2u",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-14T18:25:38Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 242,
+            "byteStart": 232
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 254,
+            "byteStart": 243
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreidxyyczraarvh5x5akmty2pbo7fmfhtyavect32s6cpvt7tqdondi",
+          "uri": "at://did:plc:nrxngnjnce74aisq4hiu5zuy/app.bsky.feed.post/3lms6qrompr2r"
+        },
+        "root": {
+          "cid": "bafyreidxyyczraarvh5x5akmty2pbo7fmfhtyavect32s6cpvt7tqdondi",
+          "uri": "at://did:plc:nrxngnjnce74aisq4hiu5zuy/app.bsky.feed.post/3lms6qrompr2r"
+        }
+      },
+      "text": "But in all seriousness, it was a great conversation! We discussed leadership, career growth, fine dining, and a few other things. I even \"flipped the script\" and interviewed Andrew, which was unplanned and very funny in retrospect. #PSHSummit #PowerShell"
+    },
+    "cid": "bafyreidh2ju67wgb5dibdbsodrji665l77tiupg66kfqhmkgvdro4bthx4"
+  }
+}
