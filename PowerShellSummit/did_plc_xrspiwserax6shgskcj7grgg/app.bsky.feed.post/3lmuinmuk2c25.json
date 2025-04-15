@@ -1,0 +1,120 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1744734485754448,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lmuinmupvs25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lmuinmuk2c25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-15T16:28:04+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 540,
+              "width": 720
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibsjdtsxehnhy7ofjahehhxgu4maehujkd3cgh4bvgn2m2nq3gcwa"
+              },
+              "mimeType": "image/jpeg",
+              "size": 105444
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 768,
+              "width": 1024
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiax2nthh2jtrtv3h4g4tp2623xce3bu73ubnpq2dron6v6igdh6r4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 92557
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 720,
+              "width": 405
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreif2hvkj7fhxh3b56p5qftqhrnsxnlzatpbmt3dhhxcd2xfgvew3re"
+              },
+              "mimeType": "image/jpeg",
+              "size": 97356
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 690,
+              "width": 1248
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreic4gdg35iusos7ud6p4yqttt3srkoirmafd2tw3zxbaspj6ka6sty"
+              },
+              "mimeType": "image/jpeg",
+              "size": 201730
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellpodcast.podbean.com/e/the-powershell-podcast-episode-169-summit-2025-missy-leslie-hailey/"
+            }
+          ],
+          "index": {
+            "byteEnd": 295,
+            "byteStart": 272
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 36,
+            "byteStart": 26
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 132,
+            "byteStart": 121
+          }
+        }
+      ],
+      "text": "The latest episode of the #PSHSummit bar sessions is live!\n\nI got to chat with Missy, Leslie, and @allwayshype all about #PowerShell Summit, their experiences, we even dive into mentorship, therapy, and the importance of modeling behavior - something that we can ALL do.\n\npowershellpodcast.po..."
+    },
+    "cid": "bafyreic2vbe4c3eysigturhlktxpqpnor7g6dtsnv5yg76fagmg66xvehu"
+  }
+}
