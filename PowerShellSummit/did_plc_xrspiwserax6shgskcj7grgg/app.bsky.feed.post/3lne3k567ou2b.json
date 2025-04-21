@@ -1,0 +1,59 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1745270166897683,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lne3k56hiu2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lne3k567ou2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-21T21:16:04+00:00",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "alt": "",
+        "aspectRatio": {
+          "height": 1920,
+          "width": 1080
+        },
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreievmezucstekvs3irj7gawvgkbzuspxeg573xucwpak2ozctpyfom"
+          },
+          "mimeType": "video/mp4",
+          "size": 26600721
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 52,
+            "byteStart": 41
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 84,
+            "byteStart": 74
+          }
+        }
+      ],
+      "text": "What's happening this week?\n\nMonday: New #PowerShell Podcast episode from #PSHSummit\nPowerShell Wednesday: Microsoft Graph 101 with Morten Mynster\nThursday: PDQ Live! Josh & Tara build a domain, I show off WinUIShell, and trivia\n\nSnover and Don Jones are on the pod next week 👀"
+    },
+    "cid": "bafyreie3qhfoqvqpsqdhdnxdhicstbzenfnaxyhtzwhundlrukzk5elvsi"
+  }
+}
