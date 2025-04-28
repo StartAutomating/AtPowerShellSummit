@@ -1,0 +1,30 @@
+{
+  "did": "did:plc:munmkmorl6d57hkragyydlyh",
+  "time_us": 1745881544005110,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lnvuwnxe4o2u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lnvuwnslbs2h",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-04-28T23:05:43.756Z",
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreifxck6fibsfqnybvixvxpxemhhp7kepwetpua6zcfysuknq362fgi",
+          "uri": "at://did:plc:inbagvkt2ildrbxdhmexmkjl/app.bsky.feed.post/3lnvi67kayk2q"
+        },
+        "root": {
+          "cid": "bafyreifxck6fibsfqnybvixvxpxemhhp7kepwetpua6zcfysuknq362fgi",
+          "uri": "at://did:plc:inbagvkt2ildrbxdhmexmkjl/app.bsky.feed.post/3lnvi67kayk2q"
+        }
+      },
+      "text": "Awesome, and it was a pleasure meeting you at PowerShell summit!"
+    },
+    "cid": "bafyreigzdmgjueghywjj74mg5f4c6jmqot2b7tdllv2vzmxk5kfxcablz4"
+  }
+}
