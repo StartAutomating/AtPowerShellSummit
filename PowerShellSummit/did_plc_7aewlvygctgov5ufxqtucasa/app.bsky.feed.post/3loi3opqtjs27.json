@@ -1,0 +1,159 @@
+{
+  "did": "did:plc:7aewlvygctgov5ufxqtucasa",
+  "time_us": 1746507274693391,
+  "kind": "commit",
+  "commit": {
+    "rev": "3loi3ouezz52y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3loi3opqtjs27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-05-06T04:54:28.827Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigy7n7jul4qcy33x55bfpozgfnfyqdvylwiep7lbk4kc3jv7sazza"
+              },
+              "mimeType": "image/jpeg",
+              "size": 924732
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1962,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreieyy5fhndfikk32emmyzaq2hyuuqcs4e7yyiyun22hbjaqrnbgl6e"
+              },
+              "mimeType": "image/jpeg",
+              "size": 948547
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1696,
+              "width": 1999
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicsx3mt24al6o7tdaecerz55gx2tlstf6s7yis54vuz53kts37dmm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 993798
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihcrv3q4g66bifcgtw4wgut5bx5jrcxqsiytnk5qctjn2pyz2goym"
+              },
+              "mimeType": "image/jpeg",
+              "size": 735161
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHsummit25"
+            }
+          ],
+          "index": {
+            "byteEnd": 108,
+            "byteStart": 96
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 120,
+            "byteStart": 109
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 128,
+            "byteStart": 121
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Azure"
+            }
+          ],
+          "index": {
+            "byteEnd": 135,
+            "byteStart": 129
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "blackengineer"
+            }
+          ],
+          "index": {
+            "byteEnd": 150,
+            "byteStart": 136
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "networking"
+            }
+          ],
+          "index": {
+            "byteEnd": 162,
+            "byteStart": 151
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "A few weeks back I attended my first PowerShell+DevOps Global Summit. \n\nAnd wow! I had a time!\n\n#PSHsummit25\n#PowerShell\n#DevOps\n#Azure\n#blackengineer\n#networking"
+    },
+    "cid": "bafyreihknqrp5sm4vvm4q2koiuht35tpvz6fqgnvsxorm675stsz7wts7y"
+  }
+}
