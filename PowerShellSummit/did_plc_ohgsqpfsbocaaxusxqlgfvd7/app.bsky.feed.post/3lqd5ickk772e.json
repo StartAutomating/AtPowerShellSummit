@@ -1,0 +1,43 @@
+{
+  "did": "did:plc:ohgsqpfsbocaaxusxqlgfvd7",
+  "time_us": 1748536425863605,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lqd5ickrz72e",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lqd5ickk772e",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-05-29T16:33:44Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://leanpub.com/bookstore?type=all&search=powershell%20conference"
+            }
+          ],
+          "index": {
+            "byteEnd": 149,
+            "byteStart": 126
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 32,
+            "byteStart": 21
+          }
+        }
+      ],
+      "text": "Can't make it to the #PowerShell Summit? These books are the next best thing. All sales benefit the On Ramp scholarship fund. leanpub.com/bookstor..."
+    },
+    "cid": "bafyreicanrfnspx245d5wlueb5pv4y6zq4uj4bsnlbtd4w2t2tulqtszjy"
+  }
+}
