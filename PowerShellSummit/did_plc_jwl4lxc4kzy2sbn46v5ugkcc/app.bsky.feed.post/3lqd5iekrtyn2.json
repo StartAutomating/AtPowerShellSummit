@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:jwl4lxc4kzy2sbn46v5ugkcc",
+  "time_us": 1748536504776602,
+  "kind": "commit",
+  "commit": {
+    "rev": "222222nkv2l22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lqd5iekrtyn2",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "bridgyOriginalText": "<p>Can&#39;t make it to the <a href=\"https://techhub.social/tags/PowerShell\" class=\"mention hashtag\" rel=\"tag\">#<span>PowerShell</span></a> Summit? These books are the next best thing. All sales benefit the On Ramp scholarship fund. <a href=\"https://leanpub.com/bookstore?type=all&amp;search=powershell%20conference\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">leanpub.com/bookstore?type=all</span><span class=\"invisible\">&amp;search=powershell%20conference</span></a></p>",
+      "bridgyOriginalUrl": "https://techhub.social/@JeffHicks/114592083108319333",
+      "createdAt": "2025-05-29T16:33:44Z",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 32,
+            "byteStart": 21
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://leanpub.com/bookstore?type=all&search=powershell%20conference"
+            }
+          ],
+          "index": {
+            "byteEnd": 195,
+            "byteStart": 126
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Can't make it to the #PowerShell Summit? These books are the next best thing. All sales benefit the On Ramp scholarship fund. https://leanpub.com/bookstore?type=all&search=powershell%20conference"
+    },
+    "cid": "bafyreieedukc3us4xiiktpadepsazlwljna5aafunfmiwew3fpa6l2f42e"
+  }
+}
