@@ -1,0 +1,75 @@
+{
+  "did": "did:plc:munmkmorl6d57hkragyydlyh",
+  "time_us": 1748518954177698,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lqcn7loke52m",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lqcn7l7gj22k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-05-29T11:42:32.94Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by PowerShell.org",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreianm632ihpnvzxwhtwqveprv2mcbaamypb6ghjljdmw4hmqkznhay"
+            },
+            "mimeType": "image/jpeg",
+            "size": 60068
+          },
+          "title": "MSAL Authentication: Auth ain't hard (But it isn't easy either) by Ben Reader",
+          "uri": "https://youtu.be/liamG6V5VUY?si=FOrkXZh59AXY-szt"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:vveuef2gjhg6lxd6fimfs4nn"
+            }
+          ],
+          "index": {
+            "byteEnd": 127,
+            "byteStart": 111
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 142,
+            "byteStart": 131
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://youtu.be/liamG6V5VUY?si=FOrkXZh59AXY-szt"
+            }
+          ],
+          "index": {
+            "byteEnd": 184,
+            "byteStart": 160
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Ohhhh look what are starting to show up??? 🤫🤫🤫🤫😁😁😁😁\n\nAbsolutely great presentations by @powers-hell.com !\n\n#PowerShell Summit fun 😉\n\nyoutu.be/liamG6V5VUY?..."
+    },
+    "cid": "bafyreidkisktapn6lqjqkzoqdyv6zf7iconmari2mtqvvehmpqz7ljrvci"
+  }
+}
