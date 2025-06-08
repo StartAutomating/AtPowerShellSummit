@@ -1,0 +1,86 @@
+{
+  "did": "did:plc:7iq3ha7c5wjxnhk4zl3lxjpi",
+  "time_us": 1749379923472152,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lr3p2htcio2k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lr3p2fiuzc2c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-06-08T10:52:00.13Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Explore the diverse ways to deploy PowerShell scripts using DevOps continuous integration and continuous deployment (CI/CD) pipelines!  This session will investigate the options for running PowerShell in CI/CD processes. We'll start by discussing when and why you might want to incorporate PowerShell into your CI/CD pipelines, highlighting the benefits of automation, consistency, and efficiency in deployment workflows.  Next, we'll delve into various methods of deploying PowerShell within pipelines, including: • Locally on Build Agents: Running scripts directly on the pipeline's host machine. • Azure PowerShell DevOps Tasks: Utilizing built-in tasks for seamless integration with Azure services. • Containers and Custom Dockerfiles: Exploring available PowerShell container images, considerations for modules requiring authentication, and best practices for creating custom Dockerfiles tailored to your needs.  We'll also compare the capabilities of different CI/CD platforms for running PowerShell, such as Azure DevOps, Jenkins, GitHub Actions, and GitLab. We'll discuss:  • Platform Differences: How each platform handles PowerShell execution via pipeline. • Selection Criteria: Factors influencing the choice of platform for your specific use case. • Advantages and Limitations: Understanding the strengths of each platform in the context of PowerShell deployment.  Additionally, we'll explore how PowerShell can be integrated with other DevOps tools like Terraform and Ansible, discussing key considerations and best practices for these scenarios. By the end of this session, you'll have a comprehensive understanding of the options available for deploying PowerShell via pipelines and how to choose the best approach for your projects.   PowerShell Summit videos are recorded by our friends at Confreaks.   Our recordings are made in a way that minimizes overhead for our speakers and interruptions to our live audience. These recordings are meant to preserve the presentations' information for posterity, and are not intended to be a substitute for attending the Summit in person. These recordings are not intended as professional video training products. We hope you find these videos useful.  Follow Confreaks 👇 https://confreaks.com https://confreaks.bsky.social https://x.com/confreaks",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihrbrrpmuviflweknbu5udvsc6ql4zhbaqwjyazfojpdp5du3n2pm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 763493
+          },
+          "title": "PowerShell in CI/CD Pipelines: A Practical Tour of Deployment Options by Blake Cherry, Danny Stutz",
+          "uri": "https://bit.ly/444P7nI"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://bit.ly/444P7nI"
+            }
+          ],
+          "index": {
+            "byteEnd": 208,
+            "byteStart": 194
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 221,
+            "byteStart": 210
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 229,
+            "byteStart": 222
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 240,
+            "byteStart": 230
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The PowerShell + DevOps Global Summit 2025 videos are now live on YouTube!\n\nCatch up on all the sessions you missed or rewatch your favorites. Amazing content from the community's top experts.\n\nbit.ly/444P7nI\n\n#PowerShell #DevOps #PSHSummit"
+    },
+    "cid": "bafyreif2wj7jhiwcfdr7vragfejtqg7csjh3yhqr7goa6qw2guzyikuhhu"
+  }
+}
