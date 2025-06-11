@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1749652030185074,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lrdmhur5322x",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lrdmhuekmc2w",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-06-11T14:27:08.605Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by PowerShell.org",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieg3pxvizvsaq3pe2tt4xjfkbw3iae3qsepzyzyvw72meo62knp4q"
+            },
+            "mimeType": "image/jpeg",
+            "size": 595774
+          },
+          "title": "Creating a Web App with PowerShell Universal by Adam Driscoll",
+          "uri": "https://www.youtube.com/watch?v=Lnp8TAWsivQ&list=PLfeA8kIs7CoftB7JKZTiUKnVUHIMtwYF5&index=26"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 14,
+            "byteStart": 3
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=Lnp8TAWsivQ&list=PLfeA8kIs7CoftB7JKZTiUKnVUHIMtwYF5&index=26"
+            }
+          ],
+          "index": {
+            "byteEnd": 167,
+            "byteStart": 136
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "My #PowerShell Universal talk from the PowerShell Summit is live on YouTube! You can check out all the videos in this playlist as well. www.youtube.com/watch?v=Lnp8..."
+    },
+    "cid": "bafyreif4bkpizeo2hewsfsomuse5ykmhuxeqknmkn2solbjxcnrymaacpi"
+  }
+}
