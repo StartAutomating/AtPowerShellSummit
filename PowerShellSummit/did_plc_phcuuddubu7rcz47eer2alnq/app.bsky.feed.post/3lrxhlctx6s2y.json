@@ -1,0 +1,30 @@
+{
+  "did": "did:plc:phcuuddubu7rcz47eer2alnq",
+  "time_us": 1750333968651715,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lrxhlau4zr2i",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lrxhlctx6s2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-06-19T11:52:50.51Z",
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreiasdjncx2lbe75y2lc5hwasvdqn7yevjsejjv67dpg3tv64ovw5yy",
+          "uri": "at://did:plc:esbc722g7bm4ly7b2mg7ba6m/app.bsky.feed.post/3lrwzu2l4ac2y"
+        },
+        "root": {
+          "cid": "bafyreigluxeqrgvxrqkdgvhy6p23zekibofujhtnylyh65rfnnqsyifvgu",
+          "uri": "at://did:plc:esbc722g7bm4ly7b2mg7ba6m/app.bsky.feed.post/3lrwzbdlps22y"
+        }
+      },
+      "text": "If they're waiting until now to get their modules installed they're not doing it right. You install the modules over conference WiFi and do it live. Or you do what Rob Pleau did at PSHSummit: misread your prompt and update everything except the package you actually want to update live on stage 😅"
+    },
+    "cid": "bafyreig4ab7brqzyb7rc3r6sazgfkrqawgjy5hrtllfjplhbfpq42gslqm"
+  }
+}
