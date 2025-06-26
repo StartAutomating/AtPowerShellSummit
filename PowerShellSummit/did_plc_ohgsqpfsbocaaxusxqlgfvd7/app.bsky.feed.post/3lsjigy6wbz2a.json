@@ -1,0 +1,72 @@
+{
+  "did": "did:plc:ohgsqpfsbocaaxusxqlgfvd7",
+  "time_us": 1750953374872530,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lsjigy7jsz2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lsjigy6wbz2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-06-26T15:56:13Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "In today's workplace, it is not especially difficult to build a PowerShell tool to manage some part of your environment. With the advent of tools like ChatGPT and Copilot, you can even have the work done for you. However, a functioning tool is only part of the story. Is your tool compatible in your ",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiaex7bgn46mcwk33av3iwyg6fko7xhvlqmb45cvmwxt2cxqpnfkai"
+            },
+            "mimeType": "image/jpeg",
+            "size": 45854
+          },
+          "title": "The Human Side of PowerShell Scripting by Jeff Hicks",
+          "uri": "https://www.youtube.com/watch?v=4xVDorpEhm8&list=PLfeA8kIs7CoftB7JKZTiUKnVUHIMtwYF5&index=24"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=4xVDorpEhm8&list=PLfeA8kIs7CoftB7JKZTiUKnVUHIMtwYF5&index=24"
+            }
+          ],
+          "index": {
+            "byteEnd": 183,
+            "byteStart": 160
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 57,
+            "byteStart": 47
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 149,
+            "byteStart": 138
+          }
+        }
+      ],
+      "langs": [],
+      "text": "I haven't had an opportunity to present at the #PSHSummit in several years. Here's my session from this year's event on The Human Side of #PowerShell scripting www.youtube.com/watc...  "
+    },
+    "cid": "bafyreiec2rz7ftf4ok23x7ab4vhtdfk37a77i47likxt6pvsnn54atpytu"
+  }
+}
