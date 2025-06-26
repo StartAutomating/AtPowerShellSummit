@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:jwl4lxc4kzy2sbn46v5ugkcc",
+  "time_us": 1750953417383019,
+  "kind": "commit",
+  "commit": {
+    "rev": "222222pw3df22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lsjihoclhxv2",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "bridgyOriginalText": "<p>I haven&#39;t had an opportunity to present at the <a href=\"https://techhub.social/tags/PSHSummit\" class=\"mention hashtag\" rel=\"tag\">#<span>PSHSummit</span></a> in several years. Here&#39;s my session from this year&#39;s event on The Human Side of <a href=\"https://techhub.social/tags/PowerShell\" class=\"mention hashtag\" rel=\"tag\">#<span>PowerShell</span></a> scripting <a href=\"https://www.youtube.com/watch?v=4xVDorpEhm8&amp;list=PLfeA8kIs7CoftB7JKZTiUKnVUHIMtwYF5&amp;index=24\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=4xVDorpEhm</span><span class=\"invisible\">8&amp;list=PLfeA8kIs7CoftB7JKZTiUKnVUHIMtwYF5&amp;index=24</span></a></p>",
+      "bridgyOriginalUrl": "https://techhub.social/@JeffHicks/114750480267827675",
+      "createdAt": "2025-06-26T15:56:13Z",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 57,
+            "byteStart": 47
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 149,
+            "byteStart": 138
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=4xVDorpEhm8&list=PLfeA8kIs7CoftB7JKZTiUKnVUHIMtwYF5&index=24"
+            }
+          ],
+          "index": {
+            "byteEnd": 252,
+            "byteStart": 160
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I haven't had an opportunity to present at the #PSHSummit in several years. Here's my session from this year's event on The Human Side of #PowerShell scripting https://www.youtube.com/watch?v=4xVDorpEhm8&list=PLfeA8kIs7CoftB7JKZTiUKnVUHIMtwYF5&index=24"
+    },
+    "cid": "bafyreiegwkrxg3vhowt3iceonvlwjvvmzvsblote3sohsxamzpf37samay"
+  }
+}
