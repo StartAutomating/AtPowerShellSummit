@@ -1,0 +1,66 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1754330508608375,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lvlrnfgnkf2e",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lvlrndimjk2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-08-04T18:01:45.357Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1350,
+              "width": 1080
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiej3poz3cemwb5wnjgl3htyne3acg6dpsrn5wuxhmixb4e33f2mxy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 275081
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 58,
+            "byteStart": 46
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/pshsummit26/"
+            }
+          ],
+          "index": {
+            "byteEnd": 217,
+            "byteStart": 190
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "⏳ Only 11 days left to submit your talk for #PSHSummit26!\n\nGot something cool to share with the PowerShell + DevOps community? \n\nNow’s your chance.\n\n📅 Deadline: August 15, 2025\n\n🔗 sessionize.com/pshsummit26/"
+    },
+    "cid": "bafyreifbad77g476d72ldzkz7zdcy5r2da2un5pc2t7toqvnue2s3z2yne"
+  }
+}
