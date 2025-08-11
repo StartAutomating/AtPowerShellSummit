@@ -1,0 +1,86 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1754942359811959,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lw5lhyzeif2s",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lw5lhxpwck2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-08-11T19:59:18.088Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "The PowerShell + DevOps Global Summit is a highly anticipated annual conference that brings together professionals worldwide from the PowerShell and D...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieirdgpgrbiaazifj7hfkechz7v2wq5adxmm5yzknrwuo7pquto64"
+            },
+            "mimeType": "image/jpeg",
+            "size": 245342
+          },
+          "title": "PowerShell + DevOps Global Summit 2026: Call for Papers",
+          "uri": "https://sessionize.com/pshsummit26/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/pshsummit26/"
+            }
+          ],
+          "index": {
+            "byteEnd": 253,
+            "byteStart": 226
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 266,
+            "byteStart": 255
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "devops"
+            }
+          ],
+          "index": {
+            "byteEnd": 274,
+            "byteStart": 267
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "techconference"
+            }
+          ],
+          "index": {
+            "byteEnd": 290,
+            "byteStart": 275
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "👀  4 days left to make your mark at the PowerShell + DevOps Global Summit. \n\n💡 Whether it’s automation tips or community insights, the stage is yours—if you submit before August 15!\n\n🔗 Submit your session today: \nsessionize.com/pshsummit26/\n\n#powershell #devops #techconference"
+    },
+    "cid": "bafyreib55w6b443urlk7y4yznoydzvbgpamkbkjmnbalodpn6g6hsqav3m"
+  }
+}
