@@ -1,0 +1,58 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1755115292520783,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lwcmjsfbw422",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lwcmjs4sds25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-08-13T20:01:31.764Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 112,
+            "byteStart": 101
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 125,
+            "byteStart": 113
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Tech"
+            }
+          ],
+          "index": {
+            "byteEnd": 131,
+            "byteStart": 126
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "📢 2 days to go! Submit your CFP, tag a peer with a great idea, and share this to spread the word! #PowerShell #PSHSummit26 #Tech"
+    },
+    "cid": "bafyreiazcr24hqqwji6r4ptjmz3dzeftd76u2ufaio73qjq2tgfo3k6x2e"
+  }
+}
