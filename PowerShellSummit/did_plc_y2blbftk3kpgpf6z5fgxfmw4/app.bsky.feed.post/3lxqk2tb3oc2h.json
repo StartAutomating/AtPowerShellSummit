@@ -1,0 +1,47 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1756693192129284,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lxqk2uxhno2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lxqk2tb3oc2h",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-09-01T02:19:50.117Z",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 43
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 229,
+            "byteStart": 218
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Sliding into home plate with a last-minute @powershellsummit.org CFP Submission. 7 total, but most are duplicates with & without a co-presenter.\n\nYou still have a bit of time. Get your ideas in. Let's help this coming #PowerShell Summit the best one yet!"
+    },
+    "cid": "bafyreiadpftm4k52hn6czhpp3afpw3al6zvxtbpjspllyz2d5agnoxrxle"
+  }
+}
