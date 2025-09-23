@@ -1,0 +1,82 @@
+{
+  "did": "did:plc:wepubn5jiq74vznap2ia2osh",
+  "time_us": 1758657028407581,
+  "kind": "commit",
+  "commit": {
+    "rev": "3lzjozqne7s2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3lzjozqmzi22f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-09-23T19:50:29.386Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 494,
+              "width": 413
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiabcrofghampscwfzvy2q6fi5fqvoynguclvsxtwiqe6hbwladwru"
+              },
+              "mimeType": "image/png",
+              "size": 80576
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 37,
+            "byteStart": 16
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:2q2fc4dgv6jan5kn2h3sasz5"
+            }
+          ],
+          "index": {
+            "byteEnd": 52,
+            "byteStart": 42
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Microsoft"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 54
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "tags": [],
+      "text": "So thankful for @powershellsummit.org and @psconf.eu. #Microsoft Ignite, on the other hand, yet again...\n\n(and yes, I submitted)"
+    },
+    "cid": "bafyreid6j6xrghkuj6j3kjoaal6f4cffrizhsl4kus6flgml2ulhy5mqbe"
+  }
+}
