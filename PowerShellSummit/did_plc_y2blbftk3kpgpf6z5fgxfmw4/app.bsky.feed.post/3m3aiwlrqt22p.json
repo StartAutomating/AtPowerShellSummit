@@ -1,0 +1,67 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1760540267633288,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m3aiwnyjsb2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m3aiwlrqt22p",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-10-15T14:57:45.012Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell + DevOps Global Summit is the gathering of PowerShell and DevOps professionals and enthusiasts. Join us for North America's only PowerShell Conference.",
+          "title": "Home | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 77,
+            "byteStart": 66
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:hh3ywvussfpmzvpkplksmyhk"
+            }
+          ],
+          "index": {
+            "byteEnd": 178,
+            "byteStart": 156
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 246,
+            "byteStart": 235
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I am exceptionally grateful to have been selected to speak at the #PowerShell Summit in beautiful Bellevue this coming April! We'll be talking PlatyPS with @sdwheeler.bsky.social and learning how to deploy PowerShell Univerall apps as #PowerShell modules! I hope you can join us!"
+    },
+    "cid": "bafyreidylg5acd2qqoecyhglioakduhoeguvhk3yn57pehdxyypk25pw4q"
+  }
+}
