@@ -1,0 +1,47 @@
+{
+  "did": "did:plc:iga7ipxo6jy26wv6bevcmdem",
+  "time_us": 1760660834370166,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m3dz7tieml2g",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m3dz7uwpnk2u",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-10-17T00:27:15.686Z",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 71,
+            "byteStart": 50
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 267,
+            "byteStart": 257
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I’m excited to share that I’ll be speaking at @powershellsummit.org 2026!\n\n1. From Burnout to Built-to-Last: The Open Source Org Advantage\n2. Markdown Madness: Static Sites for Fun & Profit\n\nTwo topics I'm super passionate about!\n\nIf you’re headed to #PSHSummit, let’s connect!"
+    },
+    "cid": "bafyreietvm7bcjctnkcw4lkjf2y7tvhowoa4xwhl4qotkkni76xtxsapfm"
+  }
+}
