@@ -1,0 +1,46 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1761097049181046,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m3qphzrefb2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m3qphzg7h22n",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-10-22T01:37:28.004Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 112,
+            "byteStart": 102
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 139,
+            "byteStart": 128
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "This is definitely a new record for me. I just pushed the initial commit of code I plan to use for my #PSHSummit session at the #PowerShell Summit in April. \n\nNow I have months to let it rot before I finish it in my hotel room."
+    },
+    "cid": "bafyreifb523iarq55qqhfwt34l5zlstnj34nknbsitlvwz7vb5twp33stq"
+  }
+}
