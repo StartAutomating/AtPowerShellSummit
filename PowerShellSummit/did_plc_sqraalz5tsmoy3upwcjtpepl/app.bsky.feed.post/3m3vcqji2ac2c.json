@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1761255174559241,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m3vcqk3nbl2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m3vcqji2ac2c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-10-23T21:32:53.325Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "ALT: squidward from spongebob is sitting on a blue lounge chair",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia2yky3ihclqu4glzykfhte7z6d6fbmhtosdog5umhsmdbrozmqrq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 894177
+          },
+          "title": "squidward from spongebob is sitting on a blue lounge chair",
+          "uri": "https://media.tenor.com/bAndALDxjhQAAAAC/spongebob-spongebob-squarepants.gif?hh=374&ww=498"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "No accepted sessions for the PowerShell Summit this year. Looks like I'm going an an attendee. Actually pretty excited about that!"
+    },
+    "cid": "bafyreihuhz23iek2y2tzci2leouhwz627dwyda3mflcashasbmcvgnrpr4"
+  }
+}
