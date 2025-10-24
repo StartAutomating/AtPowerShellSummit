@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1761325553761754,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m3xebzc6v32u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m3xebz7iok2i",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-10-24T17:05:53.465Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 218,
+            "byteStart": 185
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit2026"
+            }
+          ],
+          "index": {
+            "byteEnd": 234,
+            "byteStart": 220
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "🚀 The wait is over! Tickets are officially live for PowerShell + DevOps Global Summit 2026 — April 13–16.\n\n🎟️ Secure your spot now before early-bird tickets sell out!\n\n🔗 www.powershellsummit.org/tickets/\n\n#PSHSummit2026"
+    },
+    "cid": "bafyreia7gtleodjgphbjtyqtpltarrzgv7x35gw34eeduldg4z44mwr4ii"
+  }
+}
