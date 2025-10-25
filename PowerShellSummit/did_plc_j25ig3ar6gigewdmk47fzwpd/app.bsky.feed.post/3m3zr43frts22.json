@@ -1,0 +1,65 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1761408033483522,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m3zr446fr52h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m3zr43frts22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-10-25T16:00:32.563Z",
+      "embed": {
+        "$type": "app.bsky.embed.record",
+        "record": {
+          "cid": "bafyreia7gtleodjgphbjtyqtpltarrzgv7x35gw34eeduldg4z44mwr4ii",
+          "uri": "at://did:plc:3dpjfpv7mnnotc7cdvvdijrc/app.bsky.feed.post/3m3xebz7iok2i"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 52,
+            "byteStart": 42
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 74,
+            "byteStart": 63
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 82,
+            "byteStart": 75
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Just snagged my ticket! Can’t recommend #PSHSummit enough! \n\n#PowerShell #DevOps"
+    },
+    "cid": "bafyreihybco5imn26ojj2rc6uxlv62w2cxwydgztgcylef3fcruifnu6rq"
+  }
+}
