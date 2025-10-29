@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1761747975988643,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m4dnp6ke752q",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m4dnp66nyk2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-10-29T14:26:15.426Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "View the complete schedule for the PowerShell + DevOps Global Summit with sessions, workshops, and networking events.",
+          "title": "Schedule | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/schedule/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 25,
+            "byteStart": 15
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "In my opinion, #PSHSummit 2026 boasts the best speaker lineup and schedule since 2019. There is no better place to learn PowerShel & DevOps-related content in North America than at this event.\n\nTickets are on sale now, and you'd be doing your career a disservice by not attending."
+    },
+    "cid": "bafyreihgdmnth7uq3ym3rkupkge62oeld5th6bgmqzxeutj3mndupobq6q"
+  }
+}
