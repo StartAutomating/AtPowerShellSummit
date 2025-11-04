@@ -1,0 +1,44 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1762275351762402,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m4syu7avza2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m4syu73e7k2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-04T16:55:51.374Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 86,
+            "byteStart": 76
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreie3m2emek5nuy6k6fidgonqgvqzefuugzderqvptpfrkbropxxgvu",
+          "uri": "at://did:plc:xrspiwserax6shgskcj7grgg/app.bsky.feed.post/3m4sydfdksc2k"
+        },
+        "root": {
+          "cid": "bafyreihnw7tpfengnzbdds6urpxrlgh6v2kur7w2r4htrkcyb5rf2xdhmu",
+          "uri": "at://did:plc:xrspiwserax6shgskcj7grgg/app.bsky.feed.post/3m4svbt3pg52p"
+        }
+      },
+      "text": "Josh is the bees knees! I remember reaching out to him thanking him for his #PSHSummit sessions about Ansible. His response was immediately one of offering to help if I needed it."
+    },
+    "cid": "bafyreigvbtuwkap3zu7536y7wac7eoq2wahgjvva3rgqcjisfpcu44mgva"
+  }
+}
