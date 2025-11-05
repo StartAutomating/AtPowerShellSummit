@@ -1,0 +1,98 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1762381071560458,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m4w3cuvj732y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m4w3cuug232y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-05T22:17:31Z",
+      "embed": {
+        "$type": "app.bsky.embed.video",
+        "alt": "",
+        "aspectRatio": {
+          "height": 1920,
+          "width": 1080
+        },
+        "video": {
+          "$type": "blob",
+          "ref": {
+            "$link": "bafkreib6f7ufmytnf6ncmkj2dg6cqjikmhhptwmcknwa3tyyoolwvqpre4"
+          },
+          "mimeType": "video/mp4",
+          "size": 3917064
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/on-ramp/"
+            }
+          ],
+          "index": {
+            "byteEnd": 226,
+            "byteStart": 203
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell,"
+            }
+          ],
+          "index": {
+            "byteEnd": 141,
+            "byteStart": 129
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "automation,"
+            }
+          ],
+          "index": {
+            "byteEnd": 154,
+            "byteStart": 142
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps,"
+            }
+          ],
+          "index": {
+            "byteEnd": 166,
+            "byteStart": 158
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 238,
+            "byteStart": 228
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The 2026 PowerShell + DevOps Global Summit OnRamp Scholarship applications are open until November 17, 2025!\n\nIf you’re new to #PowerShell, #automation, or #DevOps, this program is made for you.\n\n👉 www.powershellsummit...\n\n#PSHSummit\n1/3"
+    },
+    "cid": "bafyreif53zgr6gcmpasfanvc5tn2flmfuchsorymyzewtgwyrci23wnowm"
+  }
+}
