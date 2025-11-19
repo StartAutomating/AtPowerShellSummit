@@ -1,0 +1,44 @@
+{
+  "did": "did:plc:a3yierchgwp2lvyontsragui",
+  "time_us": 1763586125591375,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m5z5m7oupz27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m5z5mdpqm22s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-11-19T21:02:06.568Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 137,
+            "byteStart": 127
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreieoiza2taxschwkz5lrr4ul37ut4k4ugwied7ry3d4xevfpldj7ny",
+          "uri": "at://did:plc:6x4qais5trgxd4wh2qngjvxn/app.bsky.feed.post/3m5yhbu57w22c"
+        },
+        "root": {
+          "cid": "bafyreigyljnznozpt7xynopj2j7xq2kakrhdywlvvbswlf4f33l4cb2swi",
+          "uri": "at://did:plc:a3yierchgwp2lvyontsragui/app.bsky.feed.post/3m5xrzfifq226"
+        }
+      },
+      "text": "Thanks! Happy to finally make it public - especially since I'll be able to use it as an example during my telemetry session at #PSHSummit next year 📈"
+    },
+    "cid": "bafyreigjqohz44c52o63vbxqiqd6yylcgxtbxg5avaug7zydszhj7n4vya"
+  }
+}
