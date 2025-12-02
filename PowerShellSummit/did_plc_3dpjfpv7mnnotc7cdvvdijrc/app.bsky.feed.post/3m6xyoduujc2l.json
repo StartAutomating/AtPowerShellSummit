@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1764645977337328,
+  "kind": "commit",
+  "commit": {
+    "rev": "3m6xyodxtyn2v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3m6xyoduujc2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-02T03:26:17.025Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 160,
+            "byteStart": 127
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "It’s December 1st and Early Bird pricing is officially your sign to invest in 2026. Grab your discounted Summit ticket now!\n\nwww.powershellsummit.org/tickets/"
+    },
+    "cid": "bafyreiannic453ibqsgurqiqc7qnaebqzbntiocgv2qstaqwro5wvwsnam"
+  }
+}
