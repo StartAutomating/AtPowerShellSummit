@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1766597745546696,
+  "kind": "commit",
+  "commit": {
+    "rev": "3maqsfktrgd2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3maqsfiojek2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2025-12-24T17:35:42.701Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 720
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreih7jyfhxipbkhh5zi3e4uqh7wtctzhwvuwrquxc3kw2inbkwjboam"
+              },
+              "mimeType": "image/jpeg",
+              "size": 857309
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 277,
+            "byteStart": 265
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "This season, we’re thankful for our speakers, attendees, sponsors, volunteers, and community members. 🌎✨\n\nHappy Holidays from the PowerShell + DevOps Global Summit—wishing you a restful break and an exciting year of learning and collaboration ahead. 🚀\n\n#PSHSummit26"
+    },
+    "cid": "bafyreig2pufeqdzb3svwfukkzzcrh6cvr7ruydx4lcfq3jkqyxnqiee3nu"
+  }
+}
