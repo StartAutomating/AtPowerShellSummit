@@ -1,0 +1,126 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1767728365237642,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbrpenq5se2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbrpelskck2c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-06T19:39:22.566Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1080
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiczg6pywe7c3xeolwfdkc5huotb3s4wjnad7pdzwfglp6mksjvuca"
+              },
+              "mimeType": "image/jpeg",
+              "size": 790002
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 94,
+            "byteStart": 82
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://lnkd.in/etNrgR6M"
+            }
+          ],
+          "index": {
+            "byteEnd": 255,
+            "byteStart": 239
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 268,
+            "byteStart": 257
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 276,
+            "byteStart": 269
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Automation"
+            }
+          ],
+          "index": {
+            "byteEnd": 288,
+            "byteStart": 277
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "BellevueWa"
+            }
+          ],
+          "index": {
+            "byteEnd": 300,
+            "byteStart": 289
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Tech"
+            }
+          ],
+          "index": {
+            "byteEnd": 306,
+            "byteStart": 301
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "We’re welcoming Jeffrey Snover, creator of PowerShell, as a Featured Speaker at #PSHSummit26 🎤\n\nDon’t miss “PowerShell: Designed for a Broken World”—straight from the source ⚙️🌍\n\n📍 April 16, 2026 | Bellevue, WA\n👉 lnkd.in/etNrgR6M\n\n#PowerShell #DevOps #Automation #BellevueWa #Tech"
+    },
+    "cid": "bafyreic6og53uwxengasqhjt7wxydsergiosap5nroubxssnr7euxrdery"
+  }
+}
