@@ -1,0 +1,102 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1767657944646543,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbpnrx62fe2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbpnruyidc2c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-06T00:05:41.444Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1080
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihf657ylxerknlqcxkshwfag5if5qrhxmda3itffdmiuxbx7644hi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 811249
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 273,
+            "byteStart": 261
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 285,
+            "byteStart": 274
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 293,
+            "byteStart": 286
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 297,
+            "byteStart": 294
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "WomenInTech"
+            }
+          ],
+          "index": {
+            "byteEnd": 310,
+            "byteStart": 298
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "We’re excited to welcome Kellyn Gorman as Keynote Speaker at the PowerShell + DevOps Global Summit 2026! 🎤\n\nHer keynote, “DevOps in the Age of AI: Human Powered Evolution,” is one you won’t want to miss. 🌐🤖\n\n📍 April 13, 2026 | Bellevue, WA\n\n#PSHSummit26 #PowerShell #DevOps #AI #WomenInTech"
+    },
+    "cid": "bafyreihfkfiquiw5xywm4bvf3hfsybymwmtu2uqfip2hdzkhhk2myonpxm"
+  }
+}
