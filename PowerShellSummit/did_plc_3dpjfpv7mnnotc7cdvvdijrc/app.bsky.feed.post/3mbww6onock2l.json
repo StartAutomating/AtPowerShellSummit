@@ -1,0 +1,162 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1767907482072219,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbww6qkrr42a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbww6onock2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-08T21:24:39.11Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1920,
+              "width": 1920
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibsoqe45ry7kuyc5mrqpxjyrck6ba4lufpjk4jmpwiaqym5a7w5ay"
+              },
+              "mimeType": "image/jpeg",
+              "size": 607379
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 100,
+            "byteStart": 89
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 109,
+            "byteStart": 102
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Automation"
+            }
+          ],
+          "index": {
+            "byteEnd": 126,
+            "byteStart": 115
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 259,
+            "byteStart": 226
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 273,
+            "byteStart": 261
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 277,
+            "byteStart": 274
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Tech"
+            }
+          ],
+          "index": {
+            "byteEnd": 283,
+            "byteStart": 278
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Conference"
+            }
+          ],
+          "index": {
+            "byteEnd": 295,
+            "byteStart": 284
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Bellevue"
+            }
+          ],
+          "index": {
+            "byteEnd": 305,
+            "byteStart": 296
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Seattle"
+            }
+          ],
+          "index": {
+            "byteEnd": 314,
+            "byteStart": 306
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "🎟️ Your 2026 conference plans start here 👇\n\nIf you’re planning to sharpen your #PowerShell, #DevOps, and #Automation skills in 2026, this is the conference to attend.\n\n🎫 Early Bird pricing is available now.\n\n👉 www.powershellsummit.org/tickets/\n\n#PSHSummit26 #AI #Tech #Conference #Bellevue #Seattle"
+    },
+    "cid": "bafyreiar37zbivxftnohsy42pvopnq3rmlphnm4xq5ks2kfy6kmlv2c22u"
+  }
+}
