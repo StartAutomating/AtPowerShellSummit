@@ -1,0 +1,41 @@
+{
+  "did": "did:plc:pobhoz4l3msxxnnsscippqpm",
+  "time_us": 1767924454560553,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbxfylbuev24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbxfykuaxk22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-09T02:07:33.678Z",
+      "embed": {
+        "$type": "app.bsky.embed.record",
+        "record": {
+          "cid": "bafyreiar37zbivxftnohsy42pvopnq3rmlphnm4xq5ks2kfy6kmlv2c22u",
+          "uri": "at://did:plc:3dpjfpv7mnnotc7cdvvdijrc/app.bsky.feed.post/3mbww6onock2l"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 231,
+            "byteStart": 219
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The countdown is on! I’m excited to share that I’m ready for the summit! 🙌🏾\n\nThis is your chance to take advantage of early bird pricing while it’s still available! 👀\n\nI can’t wait to connect with you! #PSHSummit26"
+    },
+    "cid": "bafyreidvk7cjj6mzmraknf7ztcla47u5ccbis455upd7qdgb4afuqcju3i"
+  }
+}
