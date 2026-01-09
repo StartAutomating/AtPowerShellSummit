@@ -1,0 +1,91 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1767974634247319,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mbyupzzyy22j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mbyupwzi7223",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-09T16:03:50.308Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "A screenshot of the browse page for my PowerShell Universal app, Bookworm.",
+            "aspectRatio": {
+              "height": 1211,
+              "width": 1211
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiejvvbsq5hxg4ey65unzb5f4taxuqifbig5vfuojm4scvfpexdghy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 603192
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:ov5y6cxk5u55jmapdw2kb3gl"
+            }
+          ],
+          "index": {
+            "byteEnd": 80,
+            "byteStart": 56
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 115,
+            "byteStart": 104
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 165,
+            "byteStart": 155
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellsummit.org"
+            }
+          ],
+          "index": {
+            "byteEnd": 263,
+            "byteStart": 243
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Want to learn how to build and share apps like this for @powershelluniversal.com? I'm presenting at the #PowerShell & DevOps Global Summit on just that! \n\n#PSHSummit is THE PowerShell conf in North America, and a great time. Tickets on sale @ powershellsummit.org. Don't wait!"
+    },
+    "cid": "bafyreicywaf7pbzes2kndl3khme5yabt5y2pudj2g2d63o2yg3eug7o2pm"
+  }
+}
