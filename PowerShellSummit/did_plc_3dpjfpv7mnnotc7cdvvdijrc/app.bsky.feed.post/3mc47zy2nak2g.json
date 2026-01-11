@@ -1,0 +1,126 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1768089857640166,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mc47zy5uml2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mc47zy2nak2g",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-11T00:04:17.314Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell + DevOps Global Summit is the gathering of PowerShell and DevOps professionals and enthusiasts. Join us for North America's only PowerShell Conference.",
+          "title": "Home | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org"
+            }
+          ],
+          "index": {
+            "byteEnd": 216,
+            "byteStart": 192
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 230,
+            "byteStart": 218
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 242,
+            "byteStart": 231
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 250,
+            "byteStart": 243
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Automation"
+            }
+          ],
+          "index": {
+            "byteEnd": 262,
+            "byteStart": 251
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "TechConference"
+            }
+          ],
+          "index": {
+            "byteEnd": 278,
+            "byteStart": 263
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Community"
+            }
+          ],
+          "index": {
+            "byteEnd": 289,
+            "byteStart": 279
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "CareerGrowth"
+            }
+          ],
+          "index": {
+            "byteEnd": 303,
+            "byteStart": 290
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Get ready, because the PowerShell + DevOps Global Summit is just around the corner!\n\n📅 April 13, 2026\n🎟️ Tickets are available now\n📍 Bellevue, WA\n\nFor more information, visit:\n🔗 www.powershellsummit.org\n\n#PSHSummit26 #PowerShell #DevOps #Automation #TechConference #Community #CareerGrowth"
+    },
+    "cid": "bafyreidriyju24cjsyzf3n76ah23c6uuakbna64dlceyzpxxr7qnfrmva4"
+  }
+}
