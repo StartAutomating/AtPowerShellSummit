@@ -1,0 +1,162 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1768255788845890,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcb2l4huml2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcb2l4chos2g",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-12T22:09:48.431Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell + DevOps Global Summit is the gathering of PowerShell and DevOps professionals and enthusiasts. Join us for North America's only PowerShell Conference.",
+          "title": "Home | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 145,
+            "byteStart": 134
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Automation"
+            }
+          ],
+          "index": {
+            "byteEnd": 158,
+            "byteStart": 147
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "CareerGrowth"
+            }
+          ],
+          "index": {
+            "byteEnd": 173,
+            "byteStart": 160
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "SoftSkills"
+            }
+          ],
+          "index": {
+            "byteEnd": 187,
+            "byteStart": 176
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 192,
+            "byteStart": 189
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 239,
+            "byteStart": 227
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "WomenInTech"
+            }
+          ],
+          "index": {
+            "byteEnd": 252,
+            "byteStart": 240
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "RealWorldSolutions"
+            }
+          ],
+          "index": {
+            "byteEnd": 272,
+            "byteStart": 253
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 276,
+            "byteStart": 273
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Cloud"
+            }
+          ],
+          "index": {
+            "byteEnd": 283,
+            "byteStart": 277
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "TechConference"
+            }
+          ],
+          "index": {
+            "byteEnd": 299,
+            "byteStart": 284
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "2026 calls for intentional investment.\n\n💬 Question for the community:\nWhat skills are you most focused on developing this year — #PowerShell, #Automation, #CareerGrowth,  #SoftSkills, #AI? \n\nLet us know in the comments! \n\n#PSHSummit26 #WomenInTech #RealWorldSolutions #AI #Cloud #TechConference"
+    },
+    "cid": "bafyreif3hbhlc2ywjd476ueqyqqvd4rdvfcbpxgj6xh3ajfk2m62566iue"
+  }
+}
