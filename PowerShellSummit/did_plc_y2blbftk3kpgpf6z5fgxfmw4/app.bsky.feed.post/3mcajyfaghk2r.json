@@ -1,0 +1,67 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1768237989156475,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcajymzqcv2l",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcajyfaghk2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-12T17:13:00.397Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1920,
+              "width": 1920
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiaa545zcxmlnajrkw3r2r4dwxmoac4pcgwouf7amdtnygwj56ak3a"
+              },
+              "mimeType": "image/jpeg",
+              "size": 702146
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellsummit.org"
+            }
+          ],
+          "index": {
+            "byteEnd": 127,
+            "byteStart": 107
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:ov5y6cxk5u55jmapdw2kb3gl"
+            }
+          ],
+          "index": {
+            "byteEnd": 194,
+            "byteStart": 170
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Summit is one of the best investments in your career you could ever make. Early bird tickets are on sale @ powershellsummit.org.\n\nI'm teaching you about building modular @powershelluniversal.com apps & the new PlatyPS module for documentation. \n\nDozens of other awesome topics await! Join us!"
+    },
+    "cid": "bafyreie6zydrt7lcemorabhkbbxdik3qss3oc5d5h5gq5l5bjtxv6pd44e"
+  }
+}
