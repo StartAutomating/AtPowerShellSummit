@@ -1,0 +1,68 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1768333797947758,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcdd7xoleq25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcdd7veyf22f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-13T19:49:55.229Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell + DevOps Global Summit is the gathering of PowerShell and DevOps professionals and enthusiasts. Join us for North America's only PowerShell Conference.",
+          "title": "Home | PowerShell + DevOps Global Summit",
+          "uri": "https://powershellsummit.org"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 43,
+            "byteStart": 22
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:hh3ywvussfpmzvpkplksmyhk"
+            }
+          ],
+          "index": {
+            "byteEnd": 81,
+            "byteStart": 59
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 274,
+            "byteStart": 263
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I'm hitting the stage @powershellsummit.org with my friend @sdwheeler.bsky.social to talk about all things PlatyPS and what's new in the 1.0 release! Join us as we show you what it is, how it can help you, and how to use this powerful documentation tool for your #PowerShell modules!"
+    },
+    "cid": "bafyreig7wdv3udc2g6jueapdd354ixwgc7czoogwc4mbugjymxfe7pheny"
+  }
+}
