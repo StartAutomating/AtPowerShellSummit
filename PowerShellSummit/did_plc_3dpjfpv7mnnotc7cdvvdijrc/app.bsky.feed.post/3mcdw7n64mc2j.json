@@ -1,0 +1,90 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1768354188344290,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcdw7nj4at2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcdw7n64mc2j",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-14T01:29:47.709Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 273,
+            "byteStart": 240
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Learn"
+            }
+          ],
+          "index": {
+            "byteEnd": 281,
+            "byteStart": 275
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Grow"
+            }
+          ],
+          "index": {
+            "byteEnd": 287,
+            "byteStart": 282
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Develop"
+            }
+          ],
+          "index": {
+            "byteEnd": 296,
+            "byteStart": 288
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Skills"
+            }
+          ],
+          "index": {
+            "byteEnd": 304,
+            "byteStart": 297
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The best investment is YOU.\n\nSkills evolve. Technology shifts. But the people who grow are the ones who choose to stay curious and connected.\n\nIf you’re intentional about your growth this year, this is a conference worth coming to.\n\n🔗 www.powershellsummit.org/tickets/\n\n#Learn #Grow #Develop #Skills"
+    },
+    "cid": "bafyreibzf53cmoqe4t357zoag5v45ym2jsidgku2xptaxirjvxu37q2gei"
+  }
+}
