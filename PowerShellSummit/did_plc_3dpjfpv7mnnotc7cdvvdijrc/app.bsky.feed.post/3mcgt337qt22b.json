@@ -1,0 +1,102 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1768453893152002,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcgt33kawi2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcgt337qt22b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-15T05:11:32.661Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell + DevOps Global Summit is the gathering of PowerShell and DevOps professionals and enthusiasts. Join us for North America's only PowerShell Conference.",
+          "title": "Home | PowerShell + DevOps Global Summit",
+          "uri": "https://powershellsummit.org"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 218,
+            "byteStart": 207
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "KellynGorman"
+            }
+          ],
+          "index": {
+            "byteEnd": 232,
+            "byteStart": 219
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "WomenInTech"
+            }
+          ],
+          "index": {
+            "byteEnd": 245,
+            "byteStart": 233
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 253,
+            "byteStart": 246
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 265,
+            "byteStart": 254
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 278,
+            "byteStart": 266
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "🎤 Keynote Spotlight: Kellyn Gorman\n\nKellyn’s keynote will be a powerful moment for learning — and for women in tech who want to see what’s possible when expertise, confidence, and community align.\n\n#PowerShell #KellynGorman #WomenInTech #DevOps #PowerShell #PSHSummit26"
+    },
+    "cid": "bafyreid6yf6n44v5emzezdorgcjpc2rd3qxutdjo32fg4qmmqrs3yal73e"
+  }
+}
