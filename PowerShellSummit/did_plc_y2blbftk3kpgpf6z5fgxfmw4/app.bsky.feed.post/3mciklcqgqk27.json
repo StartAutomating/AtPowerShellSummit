@@ -1,0 +1,67 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1768513498450276,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mciklh3uph26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mciklcqgqk27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-15T21:44:53.217Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "Chocolatey Fest 2026 logo",
+            "aspectRatio": {
+              "height": 1024,
+              "width": 1536
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihdyz2ousd2jbvebxmkemmyk3esdcee6ucdnjda3wpcrs4amoykie"
+              },
+              "mimeType": "image/jpeg",
+              "size": 820919
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 117,
+            "byteStart": 96
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellsummit.org"
+            }
+          ],
+          "index": {
+            "byteEnd": 235,
+            "byteStart": 215
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I've been keeping a secret.....\n\nCHOCOLATEY FEST IS COMING BACK!!!!!\n\nThis is running alongside @powershellsummit.org as a dedicated track. \n\nOne ticket. Two events. \n\nMore details soon, including a CFP.\n\nTickets @ powershellsummit.org"
+    },
+    "cid": "bafyreicdnum7tvtn5ir3saubvn4xmwm24kt6mbcvusy6yz5xbyuzqdgliy"
+  }
+}
