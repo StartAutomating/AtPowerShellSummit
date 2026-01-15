@@ -1,0 +1,99 @@
+{
+  "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq",
+  "time_us": 1768510146557860,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcihhihosi2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcihhihjwa2d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-15T20:49:03.733Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "A Chocolatey Fest 2026 logo",
+            "aspectRatio": {
+              "height": 921,
+              "width": 1382
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiedfi2ofxhdebyt7przfii25vhlxjybtfnxmny2dl77dp7z4svuiu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 327035
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellsummit.org"
+            }
+          ],
+          "index": {
+            "byteEnd": 259,
+            "byteStart": 238
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Chocolatey"
+            }
+          ],
+          "index": {
+            "byteEnd": 271,
+            "byteStart": 260
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 282,
+            "byteStart": 272
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Automation"
+            }
+          ],
+          "index": {
+            "byteEnd": 294,
+            "byteStart": 283
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 306,
+            "byteStart": 295
+          }
+        }
+      ],
+      "text": "🎟️ Chocolatey Fest 2026 is coming!\n\nWe’re excited to announce Chocolatey Fest as a special track alongside the PowerShell + DevOps Global Summit.\n\nSame event, more automation-focused goodness. 🍫⚙️\n\n👉 More info & tickets: powershellsummit.org/\n#Chocolatey #PSHSummit #Automation #PowerShell"
+    },
+    "cid": "bafyreif7cidcch4j7ete4ck44um4avg5a5vizokdsj6ta2ghcgzjqblyoq"
+  }
+}
