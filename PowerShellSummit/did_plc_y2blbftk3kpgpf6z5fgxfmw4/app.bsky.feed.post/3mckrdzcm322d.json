@@ -1,0 +1,67 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1768589488733987,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mckre5eivn2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mckrdzcm322d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-16T18:51:24.114Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1024,
+              "width": 1536
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihdyz2ousd2jbvebxmkemmyk3esdcee6ucdnjda3wpcrs4amoykie"
+              },
+              "mimeType": "image/jpeg",
+              "size": 820919
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 69,
+            "byteStart": 48
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/chocolatey-fest-2026/"
+            }
+          ],
+          "index": {
+            "byteEnd": 229,
+            "byteStart": 199
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Bummed you didn't get your session submitted to @powershellsummit.org this year? How about a second shot at it by submitting your session to the Chocolatey Fest CFP? It's open now until 13 February! sessionize.com/chocolatey-f...\n\nSame conference, special track, fantastic experience."
+    },
+    "cid": "bafyreifrwcctd4w7o5gxhcdcfkax4t5e4zvpfhry3ny5c2ykevzpo7xqba"
+  }
+}
