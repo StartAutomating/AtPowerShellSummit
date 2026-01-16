@@ -1,0 +1,87 @@
+{
+  "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq",
+  "time_us": 1768579238547806,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mckhsnj2en26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mckhsnitjv26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-16T16:00:37.587Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 921,
+              "width": 1382
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreianwhqgwesgpgenwnbfwlmiiiakeqm4tkdgz5gknlsv33a33thmqm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 330920
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 91,
+            "byteStart": 81
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/chocolatey-fest-2026"
+            }
+          ],
+          "index": {
+            "byteEnd": 219,
+            "byteStart": 189
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ChocolateyFest2026"
+            }
+          ],
+          "index": {
+            "byteEnd": 239,
+            "byteStart": 220
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Chocolatey"
+            }
+          ],
+          "index": {
+            "byteEnd": 251,
+            "byteStart": 240
+          }
+        }
+      ],
+      "text": "🚨 Exciting news! 🚨 The Call for Proposals (CFP) for Chocolatey Fest 2026 @ #PSHSummit is NOW OPEN! 🎉 Submit your session ideas by February 13 at midnight. Don't miss out! 🌟👉 sessionize.com/chocolatey-f... #ChocolateyFest2026 #Chocolatey"
+    },
+    "cid": "bafyreicwii7gfo47zvooen7ocwt7mn26mez2ymlitipr3dznm2i4toxja4"
+  }
+}
