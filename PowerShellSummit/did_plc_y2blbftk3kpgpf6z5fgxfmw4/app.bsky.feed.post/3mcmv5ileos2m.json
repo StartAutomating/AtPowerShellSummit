@@ -1,0 +1,90 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1768662281237222,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcmv5jsxf42u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcmv5ileos2m",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-17T15:04:39.695Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Chocolatey Fest is a community-driven conference focused on Windows automation (WinOps), DevOps practices, and the broader ecosystem around Chocolatey...",
+          "title": "Chocolatey Fest 2026 @ PowerShell Summit : Call for Speakers",
+          "uri": "https://sessionize.com/chocolatey-fest-2026/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/chocolatey-fest-2026/"
+            }
+          ],
+          "index": {
+            "byteEnd": 124,
+            "byteStart": 94
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 187,
+            "byteStart": 176
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Chocolatey"
+            }
+          ],
+          "index": {
+            "byteEnd": 199,
+            "byteStart": 188
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "CFP"
+            }
+          ],
+          "index": {
+            "byteEnd": 204,
+            "byteStart": 200
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 215,
+            "byteStart": 205
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Submissions for Chocolatey Fest 2026 are starting to roll in! Interested in speaking? Head to sessionize.com/chocolatey-f... and give us your session idea! CFP closes Feb 13!\n\n#PowerShell #Chocolatey #CFP #PSHSummit"
+    },
+    "cid": "bafyreiguz5bol7jzibpkp6r72y4y5msyv7hfdtctiexdlec65wtno74lxa"
+  }
+}
