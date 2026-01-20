@@ -1,0 +1,68 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1768926263560608,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcukysxyuk23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcukyraywc2v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-20T16:24:21.509Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Chocolatey Fest is a community-driven conference focused on Windows automation (WinOps), DevOps practices, and the broader ecosystem around Chocolatey...",
+          "title": "Chocolatey Fest 2026 @ PowerShell Summit : Call for Speakers",
+          "uri": "https://sessionize.com/chocolatey-fest-2026/"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq"
+            }
+          ],
+          "index": {
+            "byteEnd": 38,
+            "byteStart": 23
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 97,
+            "byteStart": 76
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/chocolatey-fest-2026/"
+            }
+          ],
+          "index": {
+            "byteEnd": 243,
+            "byteStart": 213
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Consider submitting to @chocolatey.org's Chocolatey Fest CFP at this year's @powershellsummit.org \n\nSubmitted to Summit but weren't selected? This is a GREAT second chance to get your session out there! Submit at sessionize.com/chocolatey-f.... Closes Feb 13th!"
+    },
+    "cid": "bafyreihirvnbhihrbgbolgr7k5dfgwphza76t4a2ae2npfqolc5iwq3jfi"
+  }
+}
