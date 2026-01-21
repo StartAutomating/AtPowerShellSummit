@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1768959811940174,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mcvkan5kgj2m",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mcvkamv3f22m",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-21T01:43:31.35Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://powershellsummit.org/tickets"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellsummit.org/tickets"
+            }
+          ],
+          "index": {
+            "byteEnd": 323,
+            "byteStart": 295
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Thinking about Summit? Purchase your ticket!\n\nIf you’re new, you’ll get grounded and ask real questions.\n\nIf you’re mid-career, you’ll level up and gain clarity.\n\nIf you’re experienced, you’ll dive deep and exchange ideas with peers.\n\n📅 April 13-16\n🎟️ Tickets available\n🔗 powershellsummit.org/tickets"
+    },
+    "cid": "bafyreicqqpkwuamhl3bxpwqhmwiqg7xcdzzpwmyhi53lizxs3lyjakg5ri"
+  }
+}
