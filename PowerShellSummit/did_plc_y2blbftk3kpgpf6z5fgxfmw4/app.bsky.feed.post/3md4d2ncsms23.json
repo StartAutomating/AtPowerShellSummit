@@ -1,0 +1,68 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1769192614765435,
+  "kind": "commit",
+  "commit": {
+    "rev": "3md4d2oxrrp2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3md4d2ncsms23",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-23T18:23:32.456Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Chocolatey Fest is a community-driven conference focused on Windows automation (WinOps), DevOps practices, and the broader ecosystem around Chocolatey...",
+          "title": "Chocolatey Fest 2026 @ PowerShell Summit : Call for Speakers",
+          "uri": "https://sessionize.com/chocolatey-fest-2026/"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq"
+            }
+          ],
+          "index": {
+            "byteEnd": 107,
+            "byteStart": 92
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 138,
+            "byteStart": 117
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/chocolatey-fest-2026/"
+            }
+          ],
+          "index": {
+            "byteEnd": 299,
+            "byteStart": 269
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Come speak at Chocolatey Fest 2026! Have a favorite use case for or problem you solved with @chocolatey.org? Join us @powershellsummit.org in Bellevue, WA, in April & share it with the community! \n\nOur CFP is now open, but closes on Feb 13th! Submit your session(s) at sessionize.com/chocolatey-f..."
+    },
+    "cid": "bafyreifn4jy36udogxwaskbvhtrrb56tzta5hm2zgbhutkha3qnmkep74u"
+  }
+}
