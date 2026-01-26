@@ -1,0 +1,71 @@
+{
+  "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq",
+  "time_us": 1769461450048952,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mde5gm7q2g2k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mde5gm7l662k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-26T21:04:07.71Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Chocolatey Fest is a community-driven conference focused on Windows automation (WinOps), DevOps practices, and the broader ecosystem around Chocolatey...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihnrerbynafk4akxadqpqtrgd2dwgdbh7yle7ddyxfidnmsknjesi"
+            },
+            "mimeType": "image/png",
+            "size": 400284
+          },
+          "title": "Chocolatey Fest 2026 @ PowerShell Summit : Call for Speakers",
+          "uri": "https://ch0.co/cfp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://ch0.co/cfp"
+            }
+          ],
+          "index": {
+            "byteEnd": 262,
+            "byteStart": 252
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ChocolateyFest"
+            }
+          ],
+          "index": {
+            "byteEnd": 280,
+            "byteStart": 265
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 291,
+            "byteStart": 281
+          }
+        }
+      ],
+      "text": "🚨 Just 18 days left! 🚨 Don’t miss your chance to submit for Chocolatey Fest at the PowerShell + DevOps Global Summit in Bellevue, WA, April 13-16, 2026! 🗓️ \n\nShare your insights & innovations w/ our community! Submit your proposals now at ch0.co/cfp \n\n#ChocolateyFest #PSHSummit"
+    },
+    "cid": "bafyreicu6lj46mtmt473xtfl3q5qz2sslpyzstqidguzgh3yntwj2pvy5y"
+  }
+}
