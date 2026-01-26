@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1769469113933094,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdeekz3jzt26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdeekvj3jc24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-26T23:11:49.565Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1545
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihqaqp23gpnxwe3abmfmwazfkzbmekan5z5t257fhifsfy6xv2fu4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 572202
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellsummit.org"
+            }
+          ],
+          "index": {
+            "byteEnd": 312,
+            "byteStart": 292
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Tech doesn’t slow down — and neither should your learning. 💭\n\nThe 2026 PowerShell + DevOps Global Summit is a chance to step back, refocus, and pick up ideas you can actually carry into your day-to-day work. 📚\n\n📅 April 13-16, 2026\n🎟️ Early Bird Ticket Sales ends soon!\n🔗 powershellsummit.org"
+    },
+    "cid": "bafyreidldo54xn367kgwrdpvjzzuzho5tviwyinuumi2tyvn7ayd3xp7nq"
+  }
+}
