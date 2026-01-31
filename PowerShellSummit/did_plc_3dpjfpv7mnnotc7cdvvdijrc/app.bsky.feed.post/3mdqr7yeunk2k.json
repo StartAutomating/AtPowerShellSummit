@@ -1,0 +1,90 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1769895021793157,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdqra2j4ns2u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdqr7yeunk2k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-01-31T21:30:18.974Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1920,
+              "width": 1080
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreic5qnpb63ubfate5n67m4d52j4cyn45nej63hl5olije5cfg3oqjq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 648798
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "WomenInTech"
+            }
+          ],
+          "index": {
+            "byteEnd": 15,
+            "byteStart": 3
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org"
+            }
+          ],
+          "index": {
+            "byteEnd": 267,
+            "byteStart": 243
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "TechCommunity"
+            }
+          ],
+          "index": {
+            "byteEnd": 283,
+            "byteStart": 269
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "CareerGrowth"
+            }
+          ],
+          "index": {
+            "byteEnd": 297,
+            "byteStart": 284
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "To #WomenInTech: You don’t have to wait until you feel “ready.”\n\nThe PowerShell + DevOps Global Summit 2026 is a space where your curiosity, questions, and experience belong.\n\nSometimes the most powerful step is simply showing up.\n\n🔗 www.powershellsummit.org\n\n#TechCommunity #CareerGrowth"
+    },
+    "cid": "bafyreig4izcsm2cmwh7tqhr33msust2v6lfr3d5ytmci2o6fr4fny6yaiy"
+  }
+}
