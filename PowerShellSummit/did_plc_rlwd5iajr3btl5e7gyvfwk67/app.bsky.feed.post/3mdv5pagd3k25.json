@@ -1,0 +1,30 @@
+{
+  "did": "did:plc:rlwd5iajr3btl5e7gyvfwk67",
+  "time_us": 1770045854552004,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mdv5pa6ypd2k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mdv5pagd3k25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-02T15:24:14.59Z",
+      "langs": [
+        "en"
+      ],
+      "reply": {
+        "parent": {
+          "cid": "bafyreihzzbhqc45bf3prlu44fyt7h42xzab4e2smrdk2qotnropf47nwpa",
+          "uri": "at://did:plc:rlwd5iajr3btl5e7gyvfwk67/app.bsky.feed.post/3mdv5egi4yk25"
+        },
+        "root": {
+          "cid": "bafyreihb7ci2gmefpvwxmp24uykf6vwanbzqw2ix5lb7blswhyua6puxsq",
+          "uri": "at://did:plc:inbagvkt2ildrbxdhmexmkjl/app.bsky.feed.post/3mcwjx3qgbk2p"
+        }
+      },
+      "text": "Thank you for being a most excellent human, teaching others through words and actions, leading and encouraging many to unlock their own potential, and seeding the oak of collaboration. 💯\n\nHope to see you in a couple months at PowerShell Summit."
+    },
+    "cid": "bafyreig2tj4aeppiw4tkf4jweah4pazqj2o3hp5cqkz7bkfndxv6tmprle"
+  }
+}
