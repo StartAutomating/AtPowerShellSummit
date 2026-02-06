@@ -1,0 +1,95 @@
+{
+  "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq",
+  "time_us": 1770412807252166,
+  "kind": "commit",
+  "commit": {
+    "rev": "3me7thbjd2p26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3me7thbiqix26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-06T21:20:06.531Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell + DevOps Global Summit is the gathering of PowerShell and DevOps professionals and enthusiasts. Join us for North America's only PowerShell Conference.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreih2zkwzyqevjrv52w3be7qiml74xiorwbkonzbsieyms4pgi7nzku"
+            },
+            "mimeType": "image/png",
+            "size": 45242
+          },
+          "title": "Home | PowerShell + DevOps Global Summit",
+          "uri": "https://powershellsummit.org"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellsummit.org"
+            }
+          ],
+          "index": {
+            "byteEnd": 218,
+            "byteStart": 197
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 231,
+            "byteStart": 221
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 239,
+            "byteStart": 232
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Automation"
+            }
+          ],
+          "index": {
+            "byteEnd": 251,
+            "byteStart": 240
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Chocolatey"
+            }
+          ],
+          "index": {
+            "byteEnd": 263,
+            "byteStart": 252
+          }
+        }
+      ],
+      "text": "🌟 Exciting News! 🌟 We're proud to be Platinum Sponsor for the PowerShell & DevOps Global Summit in Bellevue, WA,  April 13-16, 2026! 🎉 \n\n Don't miss out—get your info and tickets now at powershellsummit.org/\n\n #PSHSummit #DevOps #Automation #Chocolatey"
+    },
+    "cid": "bafyreihjlnjc7eddjptumwokajqijdtbamvhm3nexdypyxkbynhi5f7rdm"
+  }
+}
