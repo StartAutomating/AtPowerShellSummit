@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq",
+  "time_us": 1770487219474086,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mebyqwjzr72v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mebyqwjpyp2v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-07T18:00:17.421Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Chocolatey Fest is a community-driven conference focused on Windows automation (WinOps), DevOps practices, and the broader ecosystem around Chocolatey...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihnrerbynafk4akxadqpqtrgd2dwgdbh7yle7ddyxfidnmsknjesi"
+            },
+            "mimeType": "image/png",
+            "size": 400284
+          },
+          "title": "Chocolatey Fest 2026 @ PowerShell Summit : Call for Speakers",
+          "uri": "https://ch0.co/cfp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://ch0.co/cfp"
+            }
+          ],
+          "index": {
+            "byteEnd": 152,
+            "byteStart": 142
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ChocolateyFest"
+            }
+          ],
+          "index": {
+            "byteEnd": 169,
+            "byteStart": 154
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 180,
+            "byteStart": 170
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 192,
+            "byteStart": 181
+          }
+        }
+      ],
+      "text": "📅 ONE WEEK LEFT.\nAgenda slots are filling.\nSwag quantities are being estimated.\nYour proposal still has time—barely 😅\nSubmit now 👉 ch0.co/cfp\n\n#ChocolateyFest #PSHSummit #PowerShell"
+    },
+    "cid": "bafyreihsz6ic5wrtwjojgvy4ioyc27h4sdz74itfpufujqbbk2da33747i"
+  }
+}
