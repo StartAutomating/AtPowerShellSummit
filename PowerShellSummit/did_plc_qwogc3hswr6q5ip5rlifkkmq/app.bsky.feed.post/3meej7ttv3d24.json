@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq",
+  "time_us": 1770573619251311,
+  "kind": "commit",
+  "commit": {
+    "rev": "3meej7tu2wt24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3meej7ttv3d24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-08T18:00:17.268Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Chocolatey Fest is a community-driven conference focused on Windows automation (WinOps), DevOps practices, and the broader ecosystem around Chocolatey...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihnrerbynafk4akxadqpqtrgd2dwgdbh7yle7ddyxfidnmsknjesi"
+            },
+            "mimeType": "image/png",
+            "size": 400284
+          },
+          "title": "Chocolatey Fest 2026 @ PowerShell Summit : Call for Speakers",
+          "uri": "https://ch0.co/cfp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://ch0.co/cfp"
+            }
+          ],
+          "index": {
+            "byteEnd": 145,
+            "byteStart": 135
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ChocolateyFest"
+            }
+          ],
+          "index": {
+            "byteEnd": 162,
+            "byteStart": 147
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 173,
+            "byteStart": 163
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 185,
+            "byteStart": 174
+          }
+        }
+      ],
+      "text": "⚡ 6 days remain!\nYour experience matters.\nYour lessons matter.\nAnd yes, your talk could influence future swag.\nProbably.\nSubmit 👉 ch0.co/cfp\n\n#ChocolateyFest #PSHSummit #PowerShell"
+    },
+    "cid": "bafyreibayztxwum5ke3w5bq36ufs2ytcbas2r5dlewdfk6utukfyifvu24"
+  }
+}
