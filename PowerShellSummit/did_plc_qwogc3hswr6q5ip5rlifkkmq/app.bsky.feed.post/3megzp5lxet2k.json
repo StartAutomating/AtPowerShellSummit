@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq",
+  "time_us": 1770660032080165,
+  "kind": "commit",
+  "commit": {
+    "rev": "3megzp5m4b32k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3megzp5lxet2k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-09T18:00:30.3Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Chocolatey Fest is a community-driven conference focused on Windows automation (WinOps), DevOps practices, and the broader ecosystem around Chocolatey...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihnrerbynafk4akxadqpqtrgd2dwgdbh7yle7ddyxfidnmsknjesi"
+            },
+            "mimeType": "image/png",
+            "size": 400284
+          },
+          "title": "Chocolatey Fest 2026 @ PowerShell Summit : Call for Speakers",
+          "uri": "https://ch0.co/cfp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://ch0.co/cfp"
+            }
+          ],
+          "index": {
+            "byteEnd": 139,
+            "byteStart": 129
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ChocolateyFest"
+            }
+          ],
+          "index": {
+            "byteEnd": 156,
+            "byteStart": 141
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 167,
+            "byteStart": 157
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 179,
+            "byteStart": 168
+          }
+        }
+      ],
+      "text": "🖐️ 5 days left!\nYou bring the idea.\nWe bring the stage, the audience, and the Chocolatey energy 🍫\nCFP closes Feb 13 👇\nch0.co/cfp\n\n#ChocolateyFest #PSHSummit #PowerShell"
+    },
+    "cid": "bafyreigv775ug33ddb4on4y7d6f365fo6z4xvgjkytyuv3rbowo236xt7i"
+  }
+}
