@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq",
+  "time_us": 1770919248671298,
+  "kind": "commit",
+  "commit": {
+    "rev": "3meol4fr6vi2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3meol4fqw4a2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-12T18:00:46.742Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Chocolatey Fest is a community-driven conference focused on Windows automation (WinOps), DevOps practices, and the broader ecosystem around Chocolatey...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihnrerbynafk4akxadqpqtrgd2dwgdbh7yle7ddyxfidnmsknjesi"
+            },
+            "mimeType": "image/png",
+            "size": 400284
+          },
+          "title": "Chocolatey Fest 2026 @ PowerShell Summit : Call for Speakers",
+          "uri": "https://ch0.co/cfp"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://ch0.co/cfp"
+            }
+          ],
+          "index": {
+            "byteEnd": 124,
+            "byteStart": 114
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ChocolateyFest"
+            }
+          ],
+          "index": {
+            "byteEnd": 141,
+            "byteStart": 126
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 152,
+            "byteStart": 142
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 164,
+            "byteStart": 153
+          }
+        }
+      ],
+      "text": "😬 2 days remaining!\nFuture-you is either celebrating or sighing right now.\nChoose wisely.\nSubmit your CFP 👉 ch0.co/cfp\n\n#ChocolateyFest #PSHSummit #PowerShell"
+    },
+    "cid": "bafyreieqlqrlkbv2hvyh3k2eo2zctl2wij5ihua62grezhgefls4ixx74e"
+  }
+}
