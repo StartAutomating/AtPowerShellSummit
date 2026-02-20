@@ -1,0 +1,90 @@
+{
+  "did": "did:plc:vdudhjzsai7w56shhkc6ee25",
+  "time_us": 1771628915063760,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mfda23t5fm2n",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mfd7zzm2fc23",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-02-20T23:08:31.983Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1058,
+              "width": 1998
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiaqzt7xvfuqhsha6gm4zfhegf3ysjp7idsrgvzdtcg7h5xgglq36y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 681598
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 157,
+            "byteStart": 145
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "asns"
+            }
+          ],
+          "index": {
+            "byteEnd": 163,
+            "byteStart": 158
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "csharp"
+            }
+          ],
+          "index": {
+            "byteEnd": 171,
+            "byteStart": 164
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 183,
+            "byteStart": 172
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "creating my own json schema to enforce a shape to my lesson plans for a scripters next step... i think that's still considered procrastination?\n\n#PSHSummit26 #asns #csharp #powershell"
+    },
+    "cid": "bafyreieypql6vktou46kmatrwi3tafpkj73l5vjikl2a3v2rsr3nvsb7n4"
+  }
+}
