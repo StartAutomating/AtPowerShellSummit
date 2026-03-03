@@ -1,0 +1,66 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1772498384079236,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mg4jsc3sbm2m",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mg4js7l4o22d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-03T00:39:40.688Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1920
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreid53wggl5r62ukdrmxhnnzrjc34vb55j53cz6r5gdh5ziq26g3k2u"
+              },
+              "mimeType": "image/jpeg",
+              "size": 424863
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 102,
+            "byteStart": 90
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 193,
+            "byteStart": 160
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The PowerShell + DevOps Global Summit is 6 weeks away — April 13–16 in Bellevue, WA.\n #PSHSummit26! 🚀\n\n🌟Ticket secured? Early bird pricing ends soon: www.powershellsummit.org/tickets/\n\n🤳Download the photo below, add your picture, post it, and tag us to let us know you’re attending!"
+    },
+    "cid": "bafyreiejnnzut6joxmikakknrs5h3yibekyueol6dw3t7slgmnjj4f5ttu"
+  }
+}
