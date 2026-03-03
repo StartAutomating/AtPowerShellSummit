@@ -1,0 +1,76 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1772566947658379,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mg6jnnnohg2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mg6jnnngng2d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-03T19:42:26Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1237,
+              "width": 1237
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibj6u2t2ibkwlxefio3scsmxtm3wx3iw4xc7bg3r3r6gbgftw3ouy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 176710
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://PowerShell.org"
+            }
+          ],
+          "index": {
+            "byteEnd": 234,
+            "byteStart": 220
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 58,
+            "byteStart": 47
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 245,
+            "byteStart": 235
+          }
+        }
+      ],
+      "langs": [],
+      "text": "PowerShell Summit 👀 I'm back!\n\nDoing a live #PowerShell Podcast session on what it really takes to publish every week: wins, awkward moments, near-misses, plus a live recording.\n\nApril 13–16 | Bellevue, WA\nTickets: PowerShell.org #PSHSummit\n\nIs this your first Summit?"
+    },
+    "cid": "bafyreihna74ujhsq5b23tg426xf5yiytaitzmjihycbj4h2m3q6hkgmtuu"
+  }
+}
