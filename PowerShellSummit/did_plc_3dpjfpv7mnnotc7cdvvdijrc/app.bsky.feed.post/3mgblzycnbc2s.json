@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1772672588152540,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgblzyl6nx2m",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgblzycnbc2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-05T01:03:07.682Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 289,
+            "byteStart": 256
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSUMMIT26"
+            }
+          ],
+          "index": {
+            "byteEnd": 304,
+            "byteStart": 292
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Early bird tickets available — but not forever. 🎟️\n\nLock in your spot at the PowerShell + DevOps Global Summit before prices go up. ☑️\n\nFull conference access, meals daily, and expert sessions included. Register at the link below. ⬇️ \n\n🔗 www.powershellsummit.org/tickets/\n \n#PSHSUMMIT26"
+    },
+    "cid": "bafyreif52mrl5cqcw3tsfjsfzpqqs6mqqrbse7j5i56uatm5mh2z3ggv2m"
+  }
+}
