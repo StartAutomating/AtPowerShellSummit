@@ -1,0 +1,90 @@
+{
+  "did": "did:plc:h5pvxjfzoyhvlvyohlqytjkp",
+  "time_us": 1772749473887954,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgdtne46qc2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgdtn74cfc2x",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-05T22:24:28.015Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1087,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihg5amhked7wnlhj22wgskshlxzw33baqhvic4zzphweq25yoq2cy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 841526
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Chocolatey"
+            }
+          ],
+          "index": {
+            "byteEnd": 47,
+            "byteStart": 36
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Ansible"
+            }
+          ],
+          "index": {
+            "byteEnd": 60,
+            "byteStart": 52
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Windows"
+            }
+          ],
+          "index": {
+            "byteEnd": 91,
+            "byteStart": 83
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/"
+            }
+          ],
+          "index": {
+            "byteEnd": 227,
+            "byteStart": 203
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I'm going to be talking about using #Chocolatey and #Ansible to manage software on #Windows on the Chocolatey Fest track at PowerShell + DevOps Global Summit next month.\n\nDon't miss out on your ticket!\n\nwww.powershellsummit.org"
+    },
+    "cid": "bafyreiab5ninwz2n5httln2qci5hcsgsdaacqubjxmdi76zocibcyp3yoe"
+  }
+}
