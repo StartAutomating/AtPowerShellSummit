@@ -1,0 +1,66 @@
+{
+  "did": "did:plc:y33bkiweibzz7nvli5ebmkmi",
+  "time_us": 1772673429371139,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgbmt2fexg2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgbmswd3bs2f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-05T01:17:04.453Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 421,
+              "width": 691
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihmyndkhrtzhgeczna73x42suc3mdpmoqbevdumrmq7ggzxrat7yq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 75043
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 225,
+            "byteStart": 213
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ChocolateyFest"
+            }
+          ],
+          "index": {
+            "byteEnd": 245,
+            "byteStart": 230
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I’m excited to share that my session “Accessibility‑Driven Automation: Bringing Inclusive Design into Windows Package Management and DevOps” has been selected for Chocolatey Fest 2026! \n\nIf you’ll be at #PSHSummit26 and #ChocolateyFest, I’d love to see you there!"
+    },
+    "cid": "bafyreidknpl5g2yquzuyrj4lg5x727oh5is2wqqcqf5afq4mmvk4iypnly"
+  }
+}
