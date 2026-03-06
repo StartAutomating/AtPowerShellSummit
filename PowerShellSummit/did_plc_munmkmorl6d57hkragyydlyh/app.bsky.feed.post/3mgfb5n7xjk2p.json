@@ -1,0 +1,78 @@
+{
+  "did": "did:plc:munmkmorl6d57hkragyydlyh",
+  "time_us": 1772798340108303,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgfb5oqxey2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgfb5n7xjk2p",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-06T11:58:58.068Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1920
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigjpl7wvl7aj5ijq65dwq5rusduffpxfee3ez232ndwfkvpfta6yq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 885408
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pwshsummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 242,
+            "byteStart": 229
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "powershell"
+            }
+          ],
+          "index": {
+            "byteEnd": 254,
+            "byteStart": 243
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "devops"
+            }
+          ],
+          "index": {
+            "byteEnd": 262,
+            "byteStart": 255
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Best PowerShell conference there is!! Doesn’t matter your skill level, there is something here for you. Talks are amazing, but the people are even better. Hope to see you there and if you are attending please stop and say hi!\n\n#pwshsummit26 #powershell #devops"
+    },
+    "cid": "bafyreicivnh4yk7stxtlfhxlbalu5wjij24qvbz24kb5hfhlgee6mjhvyq"
+  }
+}
