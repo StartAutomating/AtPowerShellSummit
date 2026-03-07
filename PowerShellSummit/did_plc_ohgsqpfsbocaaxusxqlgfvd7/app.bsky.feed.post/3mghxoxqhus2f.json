@@ -1,0 +1,59 @@
+{
+  "did": "did:plc:ohgsqpfsbocaaxusxqlgfvd7",
+  "time_us": 1772891261869690,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mghxoy4fty2u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mghxoxqhus2f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-07T13:47:41.318Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 29,
+            "byteStart": 18
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:4oolnuxqyeupmyd34x7vrngk"
+            }
+          ],
+          "index": {
+            "byteEnd": 72,
+            "byteStart": 47
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummiy"
+            }
+          ],
+          "index": {
+            "byteEnd": 169,
+            "byteStart": 159
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Just added to the #PowerShell Summit schedule: @jasonhelmick.bsky.social and I will be doing a retrospective session Tuesday morning. This is going to be fun. #PSHSummiy"
+    },
+    "cid": "bafyreig62xjeq7hweenfxnueir5pnm3etczd4qie7bnh7brugiq4end37u"
+  }
+}
