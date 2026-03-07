@@ -1,0 +1,100 @@
+{
+  "did": "did:plc:iga7ipxo6jy26wv6bevcmdem",
+  "time_us": 1772900286183545,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgia3sahr72z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgia3sabvp2z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-07T16:18:01Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "I'm speaking at Chocolatey Fest @ PowerShell Summit 2026. Come see my talk: Stop Hand-Rolling Chocolate: Automating Chocolatey with psake",
+            "aspectRatio": {
+              "height": 700,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicimjeqzoqlehgcxqy54ksy25rntiozfaikzoky7ieossjescipmq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 281972
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://cloud.umami.is/q/dX968i9Vm"
+            }
+          ],
+          "index": {
+            "byteEnd": 251,
+            "byteStart": 228
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 29,
+            "byteStart": 18
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 264,
+            "byteStart": 252
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Chocolatey"
+            }
+          ],
+          "index": {
+            "byteEnd": 276,
+            "byteStart": 265
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "psake"
+            }
+          ],
+          "index": {
+            "byteEnd": 283,
+            "byteStart": 277
+          }
+        }
+      ],
+      "langs": [],
+      "text": "Me, looking at my #PowerShell Summit schedule: two talks, that's plenty...\nAlso me: Anyway here's a third one!\nHandmade chocolate = charming. Handmade Chocolatey builds = a production incident waiting to happen. Let's fix that.\ncloud.umami.is/q/dX9...\n#PSHSummit26 #Chocolatey #psake"
+    },
+    "cid": "bafyreibzczvyyesjvvgd6cv4rfnfktyiztpzdwbkwixgrnocqdprks7744"
+  }
+}
