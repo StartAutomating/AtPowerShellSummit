@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1772935397280382,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgjasco2wl23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgjascktrs2j",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-08T02:03:16.748Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "The On-Ramp program is designed for PowerShell beginners and newcomers to the DevOps community. Get extra support and dedicated learning tracks.",
+          "title": "On-Ramp Program | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/on-ramp/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/on-ramp/"
+            }
+          ],
+          "index": {
+            "byteEnd": 281,
+            "byteStart": 248
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "New to PowerShell? New to tech conferences? 💭\n\nThe On-Ramp Program is made for YOU. 🫵 \n\nGet a dedicated beginner track, curated sessions, AND a Summit Buddy to guide you through the week. 🙌\n\nOnly 40 spots available — APPLY TODAY! \n\n🔗 www.powershellsummit.org/on-ramp/"
+    },
+    "cid": "bafyreib7jajiqcblvahedzhz3zf2g6p73r57z2jlrggdalaydha2b3bzny"
+  }
+}
