@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1773105458055312,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgo76jfnig23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgo76ivqlc26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-10T01:17:37.257Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSUMMIT26"
+            }
+          ],
+          "index": {
+            "byteEnd": 255,
+            "byteStart": 243
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "300+ attendees. 60+ sessions. 40+ speakers. \n12 years running. 🦾\n\nThe PowerShell + DevOps Global Summit is the event for our community — and 2026 is going to be the best one yet. 🙌\n\nAre you in? 👀 Tag someone below who should attend #PSHSUMMIT26 !\n\n🎟️ Secure your ticket today!"
+    },
+    "cid": "bafyreibkjppelifjhs5cfaagxnrxuzyb2zbaommnld2lnktrqtvjg4nrgi"
+  }
+}
