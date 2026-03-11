@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1773189930161839,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgqntyfw662d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgqntyde5c2h",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-11T00:45:29.937Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Thank you to our amazing sponsors who make the PowerShell + DevOps Global Summit possible. Learn about sponsorship opportunities.",
+          "title": "Sponsors | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/sponsors/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 228,
+            "byteStart": 216
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/sponsors/"
+            }
+          ],
+          "index": {
+            "byteEnd": 309,
+            "byteStart": 275
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Thank YOU to our 2026 Sponsors! 🙌\n\nPlatinum Sponsor \nChocolatey Software 🎉\n\nGold Sponsors\nSynEdgy 🎉\nFleet Device Management 🎉\nJane Street 🎉 \n\nSilver Sponsor \nPatch My PC 🎉\n\nInterested in sponsoring #pshsummit26? \n\n🔗 Check out our exclusive add-ons here:\nwww.powershellsummit.org/sponsors/"
+    },
+    "cid": "bafyreicseucql5xtfbdcaan6oued7n4augxthtwejzkvev4dujzlshw4pa"
+  }
+}
