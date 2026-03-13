@@ -1,0 +1,55 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1773363748466020,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mgvpq6g6es2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mgvpq5ssn22p",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-13T01:02:27.643Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 108,
+            "byteStart": 87
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSUMMIT"
+            }
+          ],
+          "index": {
+            "byteEnd": 166,
+            "byteStart": 156
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Your repost might be the reason someone finally registers. 👥\n \nNot everyone follows @powershellsummit.org, But they follow you! 🫵\n \nIf you've been to #PSHSUMMIT before and you know what it does to your year — share this. That's the whole ask. ⚡️\n \n📅 April 13–16, 2026  ·  Bellevue, WA"
+    },
+    "cid": "bafyreic3pfcd7exzvrbfbpf7ot62y46isalddoxvkzsjvebessvlo2qpfu"
+  }
+}
