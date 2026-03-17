@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1773789059485807,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mhc3tgmtxy27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mhc3tfjhm22h",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-17T23:10:58.152Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 61,
+            "byteStart": 49
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 296,
+            "byteStart": 263
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "What's the FIRST thing you do when you arrive at #pshsummit26? 🤔\n \nA) Hit the swag table immediately\nB) Find my people in the hallway\nC) Scope out the best seat\n \nALL of the above are valid choices! 🙌\n \n🎟️ Early Bird Tickets are still available!\n\n🔗 www.powershellsummit.org/tickets/"
+    },
+    "cid": "bafyreicbdawtidklbq3bqhyu5bmedj6gfgup7d2juspotk2ih5ctio6kle"
+  }
+}
