@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1774476372649319,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mhw3wxgwyx23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mhw3wxebks2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-25T22:06:12.287Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell + DevOps Global Summit is the gathering of PowerShell and DevOps professionals and enthusiasts. Join us for North America's only PowerShell Conference.",
+          "title": "Home | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSUMMIT26"
+            }
+          ],
+          "index": {
+            "byteEnd": 97,
+            "byteStart": 85
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The best ROI isn’t just financial — it’s what you learn and how you apply it.\n\n#PSHSUMMIT26 is built around sessions that go beyond theory, giving you real insight you can bring back to your team and your day-to-day work.\n\nAdd a community whose impact goes far beyond a few days."
+    },
+    "cid": "bafyreic7khvdhvpopaagav5xzzvq3mummmdadawd633iwgtbry7rbf2ini"
+  }
+}
