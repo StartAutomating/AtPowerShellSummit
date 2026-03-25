@@ -1,0 +1,98 @@
+{
+  "did": "did:plc:hcryftc5d33f4nepggmrgagu",
+  "time_us": 1774473036351919,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mhvytjoc7y2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mhvyti4cba2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-25T21:10:34.404Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 11,
+            "byteStart": 0
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ITProfessionals"
+            }
+          ],
+          "index": {
+            "byteEnd": 96,
+            "byteStart": 80
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 236,
+            "byteStart": 215
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:7iq3ha7c5wjxnhk4zl3lxjpi"
+            }
+          ],
+          "index": {
+            "byteEnd": 253,
+            "byteStart": 238
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:2idvtiad5cva7kkx2xpg4eyw"
+            }
+          ],
+          "index": {
+            "byteEnd": 279,
+            "byteStart": 255
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:khckhie63wli6k7qf2szn7zh"
+            }
+          ],
+          "index": {
+            "byteEnd": 305,
+            "byteStart": 280
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "#PowerShell has been bedrock tooling in the IT world for years. \n\nSo should new #ITProfessionals be learning it, since we're handing off scripting & IT tooling to AI? Keen to hear the opinions out there! 👂 👀\n\n@powershellsummit.org  @powershell.org  @london-psug.bsky.social @donnietaylor.bsky.social"
+    },
+    "cid": "bafyreia5chfhzqjngwbihjpz2ckmrkhxo5vyfopu3rj62xie64sl2gg62i"
+  }
+}
