@@ -1,0 +1,91 @@
+{
+  "did": "did:plc:h5pvxjfzoyhvlvyohlqytjkp",
+  "time_us": 1774814761147939,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mi7x3ol67u2u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mi7x3migy22k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-29T20:05:57.335Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 700,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreieoesebi42j5hvvaokpkalrfo74aotwi2s4ozau7763tlxcc4t42e"
+              },
+              "mimeType": "image/jpeg",
+              "size": 366033
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 58,
+            "byteStart": 37
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Chocolatey"
+            }
+          ],
+          "index": {
+            "byteEnd": 115,
+            "byteStart": 104
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Ansible"
+            }
+          ],
+          "index": {
+            "byteEnd": 128,
+            "byteStart": 120
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Windows"
+            }
+          ],
+          "index": {
+            "byteEnd": 159,
+            "byteStart": 151
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "We're just about two weeks away from @powershellsummit.org! I'm looking forward to talking about mixing #Chocolatey and #Ansible to manage software on #Windows"
+    },
+    "cid": "bafyreidkmksqhen5cvdts2rg4pnlxeugliy34mojf4n473aoqauwoqwmfy"
+  }
+}
