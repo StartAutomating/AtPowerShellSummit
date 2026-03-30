@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1774907529760792,
+  "kind": "commit",
+  "commit": {
+    "rev": "3micnigxolw2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3micnigi56s2i",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-30T21:52:09.04Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 40,
+            "byteStart": 28
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 280,
+            "byteStart": 247
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Two weeks. That's it. ⏰\n \n#PSHSummit26\n \n300+ professionals. 60+ sessions. 4 days of the best technical content in our community.\n \nDon't be the one refreshing everyone else's recap posts wishing you were there.\n \n🎟️ Get your ticket today: www.powershellsummit.org/tickets/"
+    },
+    "cid": "bafyreiebr4az6orbc3rhiodpsndmgs2tql3656veikrcmc5pt7m4vuligi"
+  }
+}
