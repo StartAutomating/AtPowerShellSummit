@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1774995419102215,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mif7dqpttd2p",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mif7dqbk3k2g",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-03-31T22:16:58.366Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 27,
+            "byteStart": 17
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 256,
+            "byteStart": 223
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The best part of #PSHSummit isn't on the schedule. 👀\n\nIt's the hallway convos, the dinner with people you only knew from LinkedIn, the idea that rewires your thinking.\n\nDon’t wait, purchase your ticket today! \n🎟️ www.powershellsummit.org/tickets/"
+    },
+    "cid": "bafyreiepf4acpo5hykaxhja4plj6xdowhg7vc4xgzuurcses5swo5k4vi4"
+  }
+}
