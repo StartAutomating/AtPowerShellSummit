@@ -1,0 +1,64 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1775069190447902,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mihe2cjf5h2t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mihe27ddjs2f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-01T18:46:26.795Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "A fast, no-fluff intro to PowerShell Universal that gets you building before your coffee cools ☕\n\nPowerShell Universal: A web platform for PowerShell Pros!\n\n**Meeting Overv",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreic2znjld6ynsjuhgx2qbkl64cmsnqtai7pjbjam2hzaiokvhjfz5y"
+            },
+            "mimeType": "image/jpeg",
+            "size": 620758
+          },
+          "title": "Getting Started: Intro to PowerShell Universal (Stephen Valdinger), Wed, Apr 1, 2026, 8:00 PM   | Meetup",
+          "uri": "https://www.meetup.com/research-triangle-powershell-users-group/events/314072473/"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 110,
+            "byteStart": 89
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:ov5y6cxk5u55jmapdw2kb3gl"
+            }
+          ],
+          "index": {
+            "byteEnd": 164,
+            "byteStart": 140
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Because I'm a glutton for punishment, why not do a last-minute User Group session before @powershellsummit.org?\n\nIf you want to learn about @powershelluniversal.com, this one's for you!"
+    },
+    "cid": "bafyreievcrsqjof2skst4m6bd7ogi3jrxskgadrvkdjpararzwwmwjemwu"
+  }
+}
