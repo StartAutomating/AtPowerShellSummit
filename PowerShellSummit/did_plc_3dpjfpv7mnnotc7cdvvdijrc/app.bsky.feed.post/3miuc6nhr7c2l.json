@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1775513865471484,
+  "kind": "commit",
+  "commit": {
+    "rev": "3miuc6nsgkq2o",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3miuc6nhr7c2l",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-06T22:17:44.954Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 29,
+            "byteStart": 17
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 285,
+            "byteStart": 252
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Somewhere in the #PSHSummit26 schedule is the session that changes how you work. 🗓️ \n\nYou don't know which one yet. That \"why didn't I know this sooner\" moment is already waiting in Bellevue. \n\n60+ sessions. April 13–16. Just show up. \n\n🎟️ www.powershellsummit.org/tickets/"
+    },
+    "cid": "bafyreiekmero66nltgqy6vxdw6xkrc3xownwf2uiqklchr4h52ltfkijpa"
+  }
+}
