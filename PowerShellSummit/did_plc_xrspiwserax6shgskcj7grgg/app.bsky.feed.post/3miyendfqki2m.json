@@ -1,0 +1,74 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1775653946485364,
+  "kind": "commit",
+  "commit": {
+    "rev": "3miyendk56i2m",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3miyendfqki2m",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-08T13:12:21Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Jeff Hicks joins PowerShell Wednesday to show off his brand new module, PSTuiTools — a PowerShell 7 toolkit for building Terminal User Interfaces (TUIs) righ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidn77kii3rjik45dv34btmpqxut7eoxflhspwjij5hpuc5yliacou"
+            },
+            "mimeType": "image/jpeg",
+            "size": 86404
+          },
+          "title": "Building Beautiful Terminal UIs in PowerShell 7 with Jeff Hicks - YouTube",
+          "uri": "https://www.youtube.com/live/p2W1yZ084Vs?si=GRFBVW8vzTCgqEJf"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:ohgsqpfsbocaaxusxqlgfvd7"
+            }
+          ],
+          "index": {
+            "byteEnd": 148,
+            "byteStart": 138
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 91,
+            "byteStart": 81
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 136,
+            "byteStart": 125
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "PowerShell Wednesday is TODAY at 2PM EST and we're getting ready for next week's #PSHSummit the right way - geeking out over #PowerShell\n\nJeff Hicks is joining us to talk TUIs, his PSTuiTools project, and how to make your terminal actually beautiful.\n\n▶️"
+    },
+    "cid": "bafyreihzvsnxu4rnh4pgnmu7y3ou4akjg5o3uhbxlleox55lapjxzjqizi"
+  }
+}
