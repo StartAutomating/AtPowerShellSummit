@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1775675094555413,
+  "kind": "commit",
+  "commit": {
+    "rev": "3miyydn7crw2t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3miyydmabrc2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-08T19:04:52.706Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Check out the schedule for PowerShell + DevOps Global Summit 2026",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibrum4szehfx367vqxsupttniteckrjyrxlruvsrykglnrsyztx3q"
+            },
+            "mimeType": "image/jpeg",
+            "size": 512524
+          },
+          "title": "PowerShell + DevOps Global Summit 2026 Schedule",
+          "uri": "https://pshsummit2026.sched.com/"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 46,
+            "byteStart": 25
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://pshsummit2026.sched.com/"
+            }
+          ],
+          "index": {
+            "byteEnd": 105,
+            "byteStart": 82
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Who's getting stoked for @powershellsummit.org ? Look at that beautiful schedule. pshsummit2026.sched.com"
+    },
+    "cid": "bafyreib3a3233s4m3kn23sdy4deo7wg3vjcjgppbzuyovrjg2crhcbjl4e"
+  }
+}
