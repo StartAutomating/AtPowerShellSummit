@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1775690555362910,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mizgqghhau2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mizgqg63qs27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-08T23:22:34.935Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Register for the PowerShell + DevOps Global Summit. Choose from General Admission or the On-Ramp program for beginners.",
+          "title": "Tickets | PowerShell + DevOps Global Summit",
+          "uri": "https://www.powershellsummit.org/tickets/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 232,
+            "byteStart": 222
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets/"
+            }
+          ],
+          "index": {
+            "byteEnd": 280,
+            "byteStart": 247
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "You’ve automated the mundane. You’ve been the person your team calls when nothing else works. 🛠️\n\nNow imagine being in a room where that’s just the baseline. Where everyone around you is THAT person. \n\nThat’s #PSHSummit 🔥\n\n🎟️ www.powershellsummit.org/tickets/"
+    },
+    "cid": "bafyreih35zuxfcsdmwp2m5qkzsyef7xs6wm7ba5p4wh56xtkwyjjekkcoe"
+  }
+}
