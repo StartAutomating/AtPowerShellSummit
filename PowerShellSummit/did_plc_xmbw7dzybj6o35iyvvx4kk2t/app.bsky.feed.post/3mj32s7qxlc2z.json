@@ -1,0 +1,66 @@
+{
+  "did": "did:plc:xmbw7dzybj6o35iyvvx4kk2t",
+  "time_us": 1775746452668759,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mj32sburhu2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mj32s7qxlc2z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-09T14:54:09.894Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1920,
+              "width": 1920
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicdffpyjmassotti4ababcndefd7vx6sueowiozv3cr6l5j6cz2jy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 838231
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 33,
+            "byteStart": 23
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://pshsummit2026.sched.com/event/2Kk6w/github-actions-for-fun-and-profit?iframe=no"
+            }
+          ],
+          "index": {
+            "byteEnd": 213,
+            "byteStart": 174
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Catch Adam Driscoll at #PSHSummit 2026!\n\nApril 14 – 10:45 AM PDT – Room 407\nGitHub Actions for Fun and Profit: build, test & publish PowerShell modules like a pro.\n\n👉 pshsummit2026.sched.com/event/2Kk6w/..."
+    },
+    "cid": "bafyreiadctznnfqx4ek2m57yf2revaewn72yuitudfhxeivm3typotywje"
+  }
+}
