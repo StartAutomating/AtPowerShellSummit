@@ -1,0 +1,34 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1775771281760337,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mj3rwb53642p",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mj3rwaq6w22s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-09T21:48:01.2Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 48,
+            "byteStart": 38
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Still on the fence? Get off it. 🎯\n\n#PSHSummit 2026 starts Monday. The door is still open. The seat is still yours.\n\n4 days. 60+ sessions. \nCome find your community all in one room.\n\nClock is ticking. 🎟️ Purchase your ticket TODAY!"
+    },
+    "cid": "bafyreicssbdur6w7a3z22md43a5ih345bq5s2kbgzlhwspms36n56xsb2a"
+  }
+}
