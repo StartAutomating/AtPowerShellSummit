@@ -1,0 +1,43 @@
+{
+  "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq",
+  "time_us": 1775829727388579,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mj5ie36zho2o",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mj5ie36ulg2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-10T14:02:07.179Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 224,
+            "byteStart": 215
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "ChocolateyFest"
+            }
+          ],
+          "index": {
+            "byteEnd": 240,
+            "byteStart": 225
+          }
+        }
+      ],
+      "text": "PowerShell Summit is all about community 🤝\n\nChocolatey Fest brings that energy to automation 🚀\n\nJoin the track, swap ideas, and connect with folks solving the same problems ⚡\n\nLess theory. More real-world.\n\n#PSSummit #ChocolateyFest"
+    },
+    "cid": "bafyreibkyy3vo2emagimxth3fcixplctqbwr2aottylywrtfctm6geanna"
+  }
+}
