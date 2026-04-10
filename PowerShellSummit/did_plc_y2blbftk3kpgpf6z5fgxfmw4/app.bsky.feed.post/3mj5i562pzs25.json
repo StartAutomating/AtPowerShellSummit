@@ -1,0 +1,46 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1775829495864184,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mj5i56f7qg2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mj5i562pzs25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-10T13:58:15.34Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 19,
+            "byteStart": 9
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 66,
+            "byteStart": 55
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "I FLY TO #PSHSummit TONIGHT!!!!!!\n\nA week of gettin my #PowerShell on with so many friends, and so many soon-to-be friends too!!\n\nThis is the best week of the year for me!"
+    },
+    "cid": "bafyreibzverib3ucf7u4dv32eg34zpnjychii2knrgvolvdsy7njfeykqa"
+  }
+}
