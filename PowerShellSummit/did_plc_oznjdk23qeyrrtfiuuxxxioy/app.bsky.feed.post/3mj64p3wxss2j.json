@@ -1,0 +1,35 @@
+{
+  "did": "did:plc:oznjdk23qeyrrtfiuuxxxioy",
+  "time_us": 1775851572681715,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mj64p4j7u22r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mj64p3wxss2j",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-10T20:06:11.936Z",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 55,
+            "byteStart": 34
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Can't wait to see everyone at the @powershellsummit.org next week"
+    },
+    "cid": "bafyreif2pfu2nhcjack46n6k43vc5lhm7qnkupyxet4gnsxtlhxl6ipvnm"
+  }
+}
