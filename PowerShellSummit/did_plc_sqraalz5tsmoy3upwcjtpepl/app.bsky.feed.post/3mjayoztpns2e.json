@@ -1,0 +1,51 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1775950355170535,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjayp2lglm2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjayoztpns2e",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-11T23:32:33.978Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "ALT: a green field with a blue sky and clouds behind it",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia7lgscpy65nr3laklomrsbdaumrtlgp4j5dpknqn2ueqpdgfq5cy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 121963
+          },
+          "title": "a green field with a blue sky and clouds behind it",
+          "uri": "https://media.tenor.com/UjoyXteT91YAAAAC/vtnc-piranha.gif?hh=206&ww=222"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 36,
+            "byteStart": 15
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Packing up for @powershellsummit.org ! Leave first thing in the morning. See you tomorrow PowerShell people!"
+    },
+    "cid": "bafyreier2mroejnpxz2eo7u6eie7lhcoynwy4s24qt6bkxijgvavb5ztvy"
+  }
+}
