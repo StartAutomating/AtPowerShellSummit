@@ -1,0 +1,76 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1775913409859537,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mj7wbyohj52x",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mj7wbyocmv2x",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-11T13:16:49Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1685,
+              "width": 2247
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifyd5vfa4fp2yqhpotfapmol3rl7cvepxjipffxou3pvw2qwtxuqq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 511008
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit25,"
+            }
+          ],
+          "index": {
+            "byteEnd": 105,
+            "byteStart": 92
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 201,
+            "byteStart": 191
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 213,
+            "byteStart": 202
+          }
+        }
+      ],
+      "langs": [],
+      "text": "After a brief retreat in Monaco, the legendary Blake Cherry and I are finally on our way to #PSHSummit25, where we each are presenting three+ sessions.\n\nLooking forward to seeing y'all soon! #PSHSummit #PowerShell"
+    },
+    "cid": "bafyreiciu7n4y6vgwzthylxsd2mewps367y7xq45aa6dqznlaolh2wfyqa"
+  }
+}
