@@ -1,0 +1,47 @@
+{
+  "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4",
+  "time_us": 1776021111267921,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjd2lr57vh22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjd2lqxsmc24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-12T19:11:50.973Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 38,
+            "byteStart": 28
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:qwogc3hswr6q5ip5rlifkkmq"
+            }
+          ],
+          "index": {
+            "byteEnd": 88,
+            "byteStart": 73
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "People are streaming in for #PSHSummit!!\n\nExcited to join 8 of my fellow @chocolatey.org team for a week of giving back, learning, and hanging out with the folks I love so much!"
+    },
+    "cid": "bafyreickg57vzxrriovlnw4afc4ybhpci6noq5qjkwzy7skk4ap5v4vstm"
+  }
+}
