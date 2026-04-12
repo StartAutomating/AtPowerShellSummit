@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1776019167680108,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjcyrtkbvd2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjcyrtgfcs2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-12T18:39:27.392Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Sign-up for additional engaging workshops prior to the PowerSHell + DevOps Global Summit!",
+          "title": "Workshops | PowerShell + DevOps Global Summit",
+          "uri": "https://powershellsummit.org/workshops"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSUMMIT26"
+            }
+          ],
+          "index": {
+            "byteEnd": 12,
+            "byteStart": 0
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellsummit.org/workshops"
+            }
+          ],
+          "index": {
+            "byteEnd": 316,
+            "byteStart": 286
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "#PSHSUMMIT26 🔥 \nWorkshop @ 1PM 🛠️\n\nIf you’re already in town, Join Steven Murawski  and Kerim Satirli for a hands-on 3-hour session on Azure IaC with Terraform, GitHub Copilot, and Azure Verified Modules. \n\n📍 Marriott Bellevue | 1PM sharp\n\nGrab a last minute ticket ⬇️\npowershellsummit.org/workshops"
+    },
+    "cid": "bafyreibqiozfzofwbx4tpardhfg2vpqvwy54nnzkhglwxezjsdtzhs6qqe"
+  }
+}
