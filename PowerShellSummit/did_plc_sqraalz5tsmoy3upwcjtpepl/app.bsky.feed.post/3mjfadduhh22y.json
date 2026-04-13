@@ -1,0 +1,70 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1776095996589097,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjfadilnqw2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjfadduhh22y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-13T15:59:50.714Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreielq4ucdmka7gm4fwfvyscuwyh3sv554k65ynyr3cungwki7psl5e"
+              },
+              "mimeType": "image/jpeg",
+              "size": 993159
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidspyd43v6b3wwxhhs76stxdcj3c74gyi7z63sr4b7o2u63uqgju4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 904859
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreig5oapcwefoe7cdrlbowujxcce4tpnnf4qtevz3pfkaxbeojp6k5y"
+              },
+              "mimeType": "image/jpeg",
+              "size": 985989
+            }
+          }
+        ]
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Let’s get this party started! PowerShell Summit 2026."
+    },
+    "cid": "bafyreianiy4i4c2mniwqxesnjiw6kfkjmivuqde7hwwm3qzlo3ee7rgqgi"
+  }
+}
