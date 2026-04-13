@@ -1,0 +1,54 @@
+{
+  "did": "did:plc:wepubn5jiq74vznap2ia2osh",
+  "time_us": 1776107596279316,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjfl572pkl2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjfl4zqhsc2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-13T19:13:09.926Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreih77yw5c3ov72oakon2fa2mhtogpq2mndph6b6sta6laty5diivh4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 979759
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 12,
+            "byteStart": 0
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "#PSHSummit26 talkin' managed identities."
+    },
+    "cid": "bafyreigoxtv5lbo73iaw3omfu35svzq6dgv7fdlspfxna4biwqjjmyaz2i"
+  }
+}
