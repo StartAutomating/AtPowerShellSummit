@@ -1,0 +1,62 @@
+{
+  "did": "did:plc:gwzlu5twwpnddrdx74se7ddn",
+  "time_us": 1776098521555168,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjfcoqqnfc2t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjfcopx7z22v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-13T16:41:59.979Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "With almost 3 decades of dedicated experience in the realm of relational database… · Experience: Redgate Software · Education: Oracle University · Location: Portland, Oregon Metropolitan Area · 500+ c...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreida6v4h6hy5cbyljdqt7wuxt6zxcpknbigwyphtfumoskwmxakpoy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 16692
+          },
+          "title": "Kellyn Gorman - Redgate Software | LinkedIn",
+          "uri": "https://www.linkedin.com/in/kellyngorman?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 42,
+            "byteStart": 30
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.linkedin.com/in/kellyngorman?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+            }
+          ],
+          "index": {
+            "byteEnd": 172,
+            "byteStart": 140
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Leaning from Kellyn Gorman at #pshsummit26 where she is delivering the keynote. @travelpiggie is excited to learn about practical AI usage. www.linkedin.com/in/kellyngor..."
+    },
+    "cid": "bafyreick5dychyqvk7c5hvj6c4szfkqa5ubagq2tibcbr52esdgv3xabbu"
+  }
+}
