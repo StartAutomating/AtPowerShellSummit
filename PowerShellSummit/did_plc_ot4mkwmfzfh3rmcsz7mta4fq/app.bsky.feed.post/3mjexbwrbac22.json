@@ -1,0 +1,48 @@
+{
+  "did": "did:plc:ot4mkwmfzfh3rmcsz7mta4fq",
+  "time_us": 1776086279679397,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjexbwjtgo23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjexbwrbac22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-13T13:17:59.751Z",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 34,
+            "byteStart": 13
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:sydgpvanh46u766n536r33oa"
+            }
+          ],
+          "index": {
+            "byteEnd": 61,
+            "byteStart": 50
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "On my way to @powershellsummit.org, presenting on @github.com advanced security with tons of cool live demos. See you all later this afternoon in my session at 3:00 p.m."
+    },
+    "cid": "bafyreicyhnfsi7kbizvx2fxg4s47wyz3jpfowjrq7bpa3izj3ms4sksfg4"
+  }
+}
