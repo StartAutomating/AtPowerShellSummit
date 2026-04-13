@@ -1,0 +1,58 @@
+{
+  "did": "did:plc:wepubn5jiq74vznap2ia2osh",
+  "time_us": 1776110705612263,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjfnzt5q7x2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjfnzodgxk2u",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-13T20:04:58.542Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 12,
+            "byteStart": 0
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MCP"
+            }
+          ],
+          "index": {
+            "byteEnd": 33,
+            "byteStart": 29
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 45,
+            "byteStart": 34
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "#PSHSummit26 Dongbo with the #MCP #PowerShell new hotness for the cool kids."
+    },
+    "cid": "bafyreiec7ywj37t6rahgukp6u5e5wrybzfq334f5ppp2a5atb7mco5t7wm"
+  }
+}
