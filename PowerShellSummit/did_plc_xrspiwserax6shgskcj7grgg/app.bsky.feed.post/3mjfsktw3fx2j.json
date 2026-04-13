@@ -1,0 +1,94 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1776115570576662,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjfsktwcap2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjfsktw3fx2j",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-13T21:26:07Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2182,
+              "width": 2909
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicmetimaevupxrkeaojha7ijqipmagyjdfkvk4eol3pvzbj65bazi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 451797
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1906,
+              "width": 1430
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreieutt7iey7k2zewfbhb2h2b76sxtcwe4ab4war35ypfn3ii4yrn5m"
+              },
+              "mimeType": "image/jpeg",
+              "size": 630574
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1664,
+              "width": 2423
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihf46qybl3b7vo3fdtmpoxvbcdbrpqngilbik5qz63r546cmyxmwi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 539734
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 19,
+            "byteStart": 9
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 178,
+            "byteStart": 167
+          }
+        }
+      ],
+      "langs": [],
+      "text": "Day 1 of #PSHSummit is underway - so far I've:\n\n- Morning coffee stroll & breakfast\n- Kellyn Gorman setting the tone with the keynote\n- Control physical hardware with #PowerShell from Mark Go\n- Sustainable open source with Gilbert\n\nMore to come! Say hi at the PDQ booth"
+    },
+    "cid": "bafyreihcqfywntammcfahvkbgb54xfyju2h6ynfk2hldsxfxloqhpbbppq"
+  }
+}
