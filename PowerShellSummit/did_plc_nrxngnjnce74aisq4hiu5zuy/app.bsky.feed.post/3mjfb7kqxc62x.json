@@ -1,0 +1,88 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1776096938051023,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjfb7kr64w2x",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjfb7kqxc62x",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-13T16:15:37Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2238,
+              "width": 2973
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiderg2zptrqkaiacy5a6rh6fvxmr3zzhapdzirqxmn2n6yidexesa"
+              },
+              "mimeType": "image/jpeg",
+              "size": 399131
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 11,
+            "byteStart": 0
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit27)"
+            }
+          ],
+          "index": {
+            "byteEnd": 38,
+            "byteStart": 25
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 80,
+            "byteStart": 70
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 93,
+            "byteStart": 81
+          }
+        }
+      ],
+      "langs": [],
+      "text": "#PowerShell Summit 2027 (#PSHSummit27) location and dates announced!\n\n#PSHSummit #PSHSummit26"
+    },
+    "cid": "bafyreif5aevk4hhecwbygseqce6clojwplc6ggpskog5hly7u6bzwpbkf4"
+  }
+}
