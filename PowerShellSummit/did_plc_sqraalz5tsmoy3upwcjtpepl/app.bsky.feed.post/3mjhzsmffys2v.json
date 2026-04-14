@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1776192068873213,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjhzsolxmt23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjhzsmffys2v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-14T18:41:06.006Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Contribute to adamdriscoll/GitHubActionsHero development by creating an account on GitHub.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiaqbnipjfox5bek4r6cndqzfd25zmrtridc6fkqcimpnfupj367om"
+            },
+            "mimeType": "image/jpeg",
+            "size": 239418
+          },
+          "title": "GitHub - adamdriscoll/GitHubActionsHero",
+          "uri": "https://github.com/adamdriscoll/GitHubActionsHero"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 80,
+            "byteStart": 59
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://github.com/adamdriscoll/GitHubActionsHero"
+            }
+          ],
+          "index": {
+            "byteEnd": 280,
+            "byteStart": 254
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Thanks to everyone that attended my GitHub Actions talk at @powershellsummit.org ! I've made my demo repository public. It has some useful workflow items in it as well as a semi-useful module for Actions I've published to the gallery during the session. github.com/adamdriscoll..."
+    },
+    "cid": "bafyreifkgejlqwbtmyai6e4rhobdgqjktvxl3dcw7x2forajbcec6zl7m4"
+  }
+}
