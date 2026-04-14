@@ -1,0 +1,67 @@
+{
+  "did": "did:plc:wepubn5jiq74vznap2ia2osh",
+  "time_us": 1776183674347111,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjhryiuuzm2s",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjhryhwjqc2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-14T16:21:12.69Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 431,
+              "width": 355
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreia7htnlp4rybocz5cbzdapkoz3kyw5kq4dpqvolgs7e7r3mywqkte"
+              },
+              "mimeType": "image/jpeg",
+              "size": 84090
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:waaktpm6r63m5frsf7itvkjn"
+            }
+          ],
+          "index": {
+            "byteEnd": 32,
+            "byteStart": 12
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 63,
+            "byteStart": 51
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Congrats to @jborean.bsky.social for receiving the #PSHSummit26 Jeffrey Snover Innovation Award. As last year's winner I was proud to present it and it sure is nice that it happened to be for the person I voted for."
+    },
+    "cid": "bafyreic2ckune3oddklcexj5kgjjpxmhslguoq5fz2iay76frdc5j5rzgq"
+  }
+}
