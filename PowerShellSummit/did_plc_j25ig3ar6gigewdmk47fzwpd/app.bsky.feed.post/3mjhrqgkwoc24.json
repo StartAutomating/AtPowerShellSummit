@@ -1,0 +1,172 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1776183408254920,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjhrqkxgxe2x",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjhrqgkwoc24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-14T16:16:42.849Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihtxk74f4t2kqhogpv3ebjllscextp3pmxofxyvmfhtvuh7mqunh4"
+              },
+              "mimeType": "image/jpeg",
+              "size": 996831
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreict3dslftufgkzmxkmy7vdzzlvbpzm3ymfkh6nqfxpewnfipo5ztq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 938929
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1925,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreid3adr2qcsj4g2tthh4bpqh5aandn2n7fvq5jsnhskngjqxrsn2yy"
+              },
+              "mimeType": "image/jpeg",
+              "size": 920558
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1500
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreignokeu3g2v6qaxbonqdukdxmo4krcyeirzzp5yimddih5h7rljai"
+              },
+              "mimeType": "image/jpeg",
+              "size": 901401
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 36,
+            "byteStart": 15
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 103,
+            "byteStart": 96
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 115,
+            "byteStart": 104
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Terraform"
+            }
+          ],
+          "index": {
+            "byteEnd": 126,
+            "byteStart": 116
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Ansible"
+            }
+          ],
+          "index": {
+            "byteEnd": 139,
+            "byteStart": 131
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 201,
+            "byteStart": 191
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MVPBuzz"
+            }
+          ],
+          "index": {
+            "byteEnd": 210,
+            "byteStart": 202
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The kickoff of @powershellsummit.org \nweek is off to an exceptional start! \n\nToo many fantastic #DevOps #PowerShell #Terraform and #Ansible sessions to mention, and it’s only Tuesday 😁\n\n#PSHSummit #MVPBuzz"
+    },
+    "cid": "bafyreidtpnlyio46imcf5k4p4hnsu6ksor2i4i2sywi4lu3a34o5z23jte"
+  }
+}
