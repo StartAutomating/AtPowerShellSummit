@@ -1,0 +1,72 @@
+{
+  "did": "did:plc:xrspiwserax6shgskcj7grgg",
+  "time_us": 1776189640573476,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjhxkcon3o2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjhxkcogaw2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-14T18:00:39Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "We're coming to you live from PowerShell Summit with back-to-back Lightning Demos! These are fast, focused, and packed with practical PowerShell goodness — think of it as a highlight reel of some of the coolest things the community is building and automating right now.\nWhether you're a seasoned scri",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifmvvuk6s55lxrw2mlroab64wblw3svezs77m6w623fzvlyrpbbsa"
+            },
+            "mimeType": "image/jpeg",
+            "size": 40226
+          },
+          "title": "Lightning Demos from PowerShell Summit",
+          "uri": "https://www.youtube.com/watch?v=oHMHWVH0kh8"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=oHMHWVH0kh8"
+            }
+          ],
+          "index": {
+            "byteEnd": 229,
+            "byteStart": 206
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 242,
+            "byteStart": 231
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 253,
+            "byteStart": 243
+          }
+        }
+      ],
+      "langs": [],
+      "text": "Not at PowerShell Summit this year? Good news.\n\nWe're bringing Lightning Demos straight to you, LIVE from Summit on PowerShell Wednesday. Fast demos, real learning, no travel required.\nCome learn with us.\n\nwww.youtube.com/watc...\n\n#PowerShell #PSHSummit"
+    },
+    "cid": "bafyreigm5b4ygjhfyikqotyrmnrrx5dwe2r3bsxz73ycr3w7zgeg3tj2wu"
+  }
+}
