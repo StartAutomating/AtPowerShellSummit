@@ -1,0 +1,53 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1776190538455959,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjhyf3jhlb2m",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjhyf3hcrk26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-14T18:15:38.294Z",
+      "embed": {
+        "$type": "app.bsky.embed.record",
+        "record": {
+          "cid": "bafyreigm5b4ygjhfyikqotyrmnrrx5dwe2r3bsxz73ycr3w7zgeg3tj2wu",
+          "uri": "at://did:plc:xrspiwserax6shgskcj7grgg/app.bsky.feed.post/3mjhxkcogaw2b"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 23,
+            "byteStart": 13
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 101,
+            "byteStart": 90
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "If you're at #PSHSummit, submit a Lightning Demo to share with the community all the cool #PowerShell you've been working on!"
+    },
+    "cid": "bafyreicrdc7fjetcddtjr7c3s62dxypb2p2kuckyjp5icdarcyttmwojju"
+  }
+}
