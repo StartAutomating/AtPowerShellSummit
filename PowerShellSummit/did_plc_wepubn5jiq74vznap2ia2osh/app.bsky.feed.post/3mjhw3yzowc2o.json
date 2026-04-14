@@ -1,0 +1,67 @@
+{
+  "did": "did:plc:wepubn5jiq74vznap2ia2osh",
+  "time_us": 1776188091751953,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjhw44zosp2e",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjhw3yzowc2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-14T17:34:46.262Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1505,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiei2665wrru2je4wcyeh7frbu5mbumwyig4hrhv53avavw7i3i2xq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 932343
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 12,
+            "byteStart": 0
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:cyk7rmruidhdwuxkezgivjtp"
+            }
+          ],
+          "index": {
+            "byteEnd": 32,
+            "byteStart": 13
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "#PSHSummit26 @emrys.macinally.de is up next! Bringing your git ecosystem on prem so your travel piggy doesn't have to worry about external dependencies."
+    },
+    "cid": "bafyreiegtkixkwdnwhwjo6lqcr43mp47yuvv7l4ygclimbgjvdzvj5p47y"
+  }
+}
