@@ -1,0 +1,147 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1776273807068412,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjkfwo7t5f27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjkfvunjas2i",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-15T17:22:59.7Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1333,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiadd2qrwjbjhk7w7oeptncglqr4vp4opcdmb5jid5jcy2judy7lje"
+              },
+              "mimeType": "image/jpeg",
+              "size": 513644
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1333,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiay4ldrvjms4ay6hl625ikxn5wdxq5nvt6hd4kl3gou4bwdq2u6ju"
+              },
+              "mimeType": "image/jpeg",
+              "size": 844383
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1333,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreic4fwovlrdhwyc7nekuqdtghqefuinhsmbeuenwbko4ez6ph67iuu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 550128
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1333,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreide5asjdb4jghf6ort32s3nhgern4kbyomdflvksgueu7wytsvs7a"
+              },
+              "mimeType": "image/jpeg",
+              "size": 619728
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 21,
+            "byteStart": 9
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 169,
+            "byteStart": 158
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 173,
+            "byteStart": 170
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Automation"
+            }
+          ],
+          "index": {
+            "byteEnd": 185,
+            "byteStart": 174
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Cloud"
+            }
+          ],
+          "index": {
+            "byteEnd": 192,
+            "byteStart": 186
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Day 3 at #PSHSummit26 — we’re in the rhythm now.  \n\nToday = show up, lean in, and make it count.  \nFinal day’s around the corner.  \n\nLet’s get it.  \n\n#PowerShell #AI #Automation #Cloud"
+    },
+    "cid": "bafyreigxuedl6ezgwxs7hmiuwwsjkxkf53bomjhu6gasoon5xrfhg75neq"
+  }
+}
