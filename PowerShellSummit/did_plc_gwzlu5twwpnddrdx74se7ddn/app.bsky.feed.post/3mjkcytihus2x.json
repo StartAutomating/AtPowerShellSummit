@@ -1,0 +1,67 @@
+{
+  "did": "did:plc:gwzlu5twwpnddrdx74se7ddn",
+  "time_us": 1776270666361791,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjkcyxzlx22v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjkcytihus2x",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-15T16:30:57.913Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3000,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicczof2orly6vvfs7avvizobbyut33t6haufojajjn3gprolpuyfu"
+              },
+              "mimeType": "image/jpeg",
+              "size": 970814
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:6oazwfcb54sie7bz36qahchf"
+            }
+          ],
+          "index": {
+            "byteEnd": 39,
+            "byteStart": 14
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 98,
+            "byteStart": 86
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Good morning! @travelpiggie.bsky.social is learning about the future of PowerShell at #pshsummit26"
+    },
+    "cid": "bafyreictwoqdfedrymgom57e4x4xf27kefltyaxg5ifbqyexu2duffpe4q"
+  }
+}
