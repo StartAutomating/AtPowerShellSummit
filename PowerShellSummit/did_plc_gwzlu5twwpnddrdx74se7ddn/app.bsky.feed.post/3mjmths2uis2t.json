@@ -1,0 +1,92 @@
+{
+  "did": "did:plc:gwzlu5twwpnddrdx74se7ddn",
+  "time_us": 1776357065718014,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjmthxmkbq2v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjmths2uis2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-16T16:30:59.081Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 3000,
+              "width": 4000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifk24ugujeibmty33ofpx3fcdonkoz6d2bg6i77jy66s4lkqe23ci"
+              },
+              "mimeType": "image/jpeg",
+              "size": 977930
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:6oazwfcb54sie7bz36qahchf"
+            }
+          ],
+          "index": {
+            "byteEnd": 39,
+            "byteStart": 14
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:inbagvkt2ildrbxdhmexmkjl"
+            }
+          ],
+          "index": {
+            "byteEnd": 69,
+            "byteStart": 57
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 91,
+            "byteStart": 80
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "pshsummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 137,
+            "byteStart": 125
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Good morning! @travelpiggie.bsky.social is learning from @jsnover.com about how #PowerShell is designed for a messy world at #pshsummit26"
+    },
+    "cid": "bafyreiec4gbvqkhnf7wzykzf53de4cev3hro55bapygpgdl6zaevdpgmrq"
+  }
+}
