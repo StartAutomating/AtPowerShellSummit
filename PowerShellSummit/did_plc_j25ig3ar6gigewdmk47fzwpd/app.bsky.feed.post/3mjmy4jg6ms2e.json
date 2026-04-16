@@ -1,0 +1,106 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1776362055917712,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjmy4orzpv2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjmy4jg6ms2e",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-16T17:54:09.632Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 1500,
+              "width": 2000
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreibda4tmzvgvdkadu23wbtvypspuwp2mq6rxaincpo5f4umktio2ti"
+              },
+              "mimeType": "image/jpeg",
+              "size": 655514
+            }
+          },
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2000,
+              "width": 1499
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreig6dosbvojjbtjdehrgwrenyy27w5k6fjlcwxkhzp5kb2fa3mxrsi"
+              },
+              "mimeType": "image/jpeg",
+              "size": 843503
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 35,
+            "byteStart": 24
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 154,
+            "byteStart": 133
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 167,
+            "byteStart": 157
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 180,
+            "byteStart": 168
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "The best part about the #PowerShell community is the community. Excited to see @lucasallman.bsky.social present his first session at @powershellsummit.org \n\n#PSHSummit #PSHSummit26"
+    },
+    "cid": "bafyreihgb7ndtnltwql7q4ogp4576qo2icsisf33salbclewnlvt2bxyyu"
+  }
+}
