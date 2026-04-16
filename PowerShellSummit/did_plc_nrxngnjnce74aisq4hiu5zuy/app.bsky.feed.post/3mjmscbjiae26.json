@@ -1,0 +1,56 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1776355800433167,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjmscbjsy426",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjmscbjiae26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-16T16:10:00Z",
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26,"
+            }
+          ],
+          "index": {
+            "byteEnd": 51,
+            "byteStart": 38
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 111,
+            "byteStart": 100
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 122,
+            "byteStart": 112
+          }
+        }
+      ],
+      "langs": [],
+      "text": "Jeffrey Snover plugs his laptop in at #PSHSummit26, has Claude Code open, and I spot Opus 4.7 👀\n\n#PowerShell #PSHSummit"
+    },
+    "cid": "bafyreicvmtouw7vyfxijqdpmqyqq3cthj7qrgbd4ccri5gymxqxh4skdhq"
+  }
+}
