@@ -1,0 +1,68 @@
+{
+  "did": "did:plc:wepubn5jiq74vznap2ia2osh",
+  "time_us": 1776465547747884,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjpyiycn642u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjpyiycahu2u",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-17T22:39:07.079Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "$type": "app.bsky.embed.external#external",
+          "description": "Contribute to devops-collective-inc/pshsummit26 development by creating an account on GitHub.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreietyjuyew6cm2djur62bfzsvwjwyoxgix6rhxix4o7duhtas23xum"
+            },
+            "mimeType": "image/png",
+            "size": 53903
+          },
+          "title": "GitHub - devops-collective-inc/pshsummit26",
+          "uri": "https://github.com/devops-collective-inc/pshsummit26"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "$type": "app.bsky.richtext.facet#byteSlice",
+            "byteEnd": 14,
+            "byteStart": 3
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "$type": "app.bsky.richtext.facet#byteSlice",
+            "byteEnd": 25,
+            "byteStart": 15
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "tags": [],
+      "text": "My #PowerShell #PSHSummit 2026 slides and references (as well as many others!) are available on the official Repo. Thanks to everyone who came! I hope these are useful."
+    },
+    "cid": "bafyreifsssr4kvvzznzi3lc3rk3nt363unhajtkb7fg6qo2wxorrodpdoe"
+  }
+}
