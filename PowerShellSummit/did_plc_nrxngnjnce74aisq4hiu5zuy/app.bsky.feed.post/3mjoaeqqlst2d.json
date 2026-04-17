@@ -1,0 +1,88 @@
+{
+  "did": "did:plc:nrxngnjnce74aisq4hiu5zuy",
+  "time_us": 1776405276351518,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjoaeqqsnl2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjoaeqqlst2d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-17T05:54:35Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 2497,
+              "width": 1880
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreia2cbfrufzorf2steo7sls7u56zo42jchbsaez6d7l33e5hxrk5la"
+              },
+              "mimeType": "image/jpeg",
+              "size": 667644
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell,"
+            }
+          ],
+          "index": {
+            "byteEnd": 12,
+            "byteStart": 0
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps,"
+            }
+          ],
+          "index": {
+            "byteEnd": 21,
+            "byteStart": 13
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 103,
+            "byteStart": 91
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 114,
+            "byteStart": 104
+          }
+        }
+      ],
+      "langs": [],
+      "text": "#PowerShell, #DevOps, and Vibes--April 5-8, 2027\n\nLake Buena Vista Sheraton @ Orlando, FL\n\n#PSHSummit26 #PSHSummit"
+    },
+    "cid": "bafyreib27kshzcnpsp72ph7axgdtmkwydjmvua3ez42roez4gwr274djea"
+  }
+}
