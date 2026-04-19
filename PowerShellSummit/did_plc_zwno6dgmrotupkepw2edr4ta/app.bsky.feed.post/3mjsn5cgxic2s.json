@@ -1,0 +1,99 @@
+{
+  "did": "did:plc:zwno6dgmrotupkepw2edr4ta",
+  "time_us": 1776556432663580,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjsn5ks3jz2u",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjsn5cgxic2s",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-18T23:53:43.148Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "Picture of a tall bloody mary including a full chicken wing in the accoutrements. Obligatory inclusion of Rory the Raccoon cutout in front of the drink with an airport hallway in the background.",
+            "aspectRatio": {
+              "height": 800,
+              "width": 600
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidxukbgao4fywk3ikbh36wi46b3itmapbxku363kxbfsxbyz2jjou"
+              },
+              "mimeType": "image/jpeg",
+              "size": 600563
+            }
+          },
+          {
+            "alt": "Group photo of six individuals at a long table enjoying espresso martinis after a day of sessions.",
+            "aspectRatio": {
+              "height": 770,
+              "width": 800
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidn3zko3wrnx4vq5kkyrch2gprw67gnta2wwbioy6hsike6gat4zq"
+              },
+              "mimeType": "image/jpeg",
+              "size": 543150
+            }
+          },
+          {
+            "alt": "Three \"handle bar\" brothers from the conference in different stages/forms.",
+            "aspectRatio": {
+              "height": 800,
+              "width": 600
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicnxeya4eipgjwgunm7ads5wwcs3cazk42fe4jc42ij2lzovldglm"
+              },
+              "mimeType": "image/jpeg",
+              "size": 553167
+            }
+          },
+          {
+            "alt": "Photo of myself during the relatively-impromptu lightning demo where I demonstrated stuff in Home Assistant and the \"easter egg\" random handlebar moustache generator I pulled together shortly before the demo. Photo was taken during the moustache generator part of the sub-five-minute demo.",
+            "aspectRatio": {
+              "height": 800,
+              "width": 600
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreicxynicyd3ybpo4qjb5lzcvfpjri354bt2vdqpcmu5uoouaoqt2pe"
+              },
+              "mimeType": "image/jpeg",
+              "size": 331871
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit26"
+            }
+          ],
+          "index": {
+            "byteEnd": 42,
+            "byteStart": 30
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Back from a wonderful week at #PSHSummit26. Met up with friends old and new, and picked up neat actionable tips along the way, just as designed.\n\nWound up submitting a lightning demo on Home Assistant stuff (which included a random moustache generator \"easter egg\"). And took far too few photos. 1/2"
+    },
+    "cid": "bafyreife3mjhzw26rhqkv5zd6xoxykwt43g75btwus6zxvpvjuf3rgrhv4"
+  }
+}
