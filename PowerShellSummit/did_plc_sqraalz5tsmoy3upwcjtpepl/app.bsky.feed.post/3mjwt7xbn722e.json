@@ -1,0 +1,36 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1776700395961207,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjwt7ypwaq2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjwt7xbn722e",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-20T15:53:13.509Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "ALT: a group of men in military uniforms walking on a runway with the words let 's do this written on the bottom",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiemnwnwhodnu4ikjudzluxsjwb6bemiabdf5zlcox2k4244exjzsm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 947666
+          },
+          "title": "a group of men in military uniforms walking on a runway with the words let 's do this written on the bottom",
+          "uri": "https://media.tenor.com/PJUEebMN688AAAAC/tom-cruise-top-gun.gif?hh=249&ww=498"
+        }
+      },
+      "langs": [
+        "en"
+      ],
+      "text": "Back to work on PowerShell Universal! Events like the PowerShell Summit always renew my excitement because I get to see the impact of what I do day to day. It's not all bugs. It's real people building real solutions. Really cool ones!"
+    },
+    "cid": "bafyreigpbh4wplla7vvk7kcg4eehmza5cjytzokyp2b2q7wqrisxuhvlqy"
+  }
+}
