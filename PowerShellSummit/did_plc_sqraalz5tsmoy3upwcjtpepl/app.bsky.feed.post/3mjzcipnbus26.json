@@ -1,0 +1,35 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1776785513763586,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjzciq3hf52z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjzcipnbus26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-21T15:31:53.096Z",
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc"
+            }
+          ],
+          "index": {
+            "byteEnd": 61,
+            "byteStart": 40
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Happy for the feedback on my session at @powershellsummit.org ! I especially like the comment that they wish it was longer lol."
+    },
+    "cid": "bafyreicm5wf5gwrd2ksuuv3efkxeucyz23fnxizcotzajpzgrduoenx2ae"
+  }
+}
