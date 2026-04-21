@@ -1,0 +1,78 @@
+{
+  "did": "did:plc:hh3ywvussfpmzvpkplksmyhk",
+  "time_us": 1776793995765172,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mjzkfhghcg2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mjzkffei4225",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-21T17:53:11.591Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "Save $500 by May 15 at https://techmentor.com/microsofthq. Use discount code WHEELER.",
+            "aspectRatio": {
+              "height": 1080,
+              "width": 1080
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreidkodekdx2wultad4gvfn2iqhqrymapckm3pr6h6fprhylhnpcati"
+              },
+              "mimeType": "image/jpeg",
+              "size": 725825
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit2026"
+            }
+          ],
+          "index": {
+            "byteEnd": 50,
+            "byteStart": 36
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSConfEU2026"
+            }
+          ],
+          "index": {
+            "byteEnd": 81,
+            "byteStart": 68
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "TechMentor"
+            }
+          ],
+          "index": {
+            "byteEnd": 107,
+            "byteStart": 96
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "It's been a busy speaking schedule. #PSHSummit2026 is done. Next up #PSConfEU2026 in June. Then #TechMentor in August! Hop to see you there."
+    },
+    "cid": "bafyreiauh26pk363frmkmkla4leqphz57nmszkfny3plctbnvyuzh3j5r4"
+  }
+}
