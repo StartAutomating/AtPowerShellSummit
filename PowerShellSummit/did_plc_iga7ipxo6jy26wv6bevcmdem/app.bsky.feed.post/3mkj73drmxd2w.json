@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:iga7ipxo6jy26wv6bevcmdem",
+  "time_us": 1777331599758171,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mkj73drsst2w",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mkj73drmxd2w",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-04-27T23:13:18Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Three talks, two releases, one live domain purchase, and a lot of feelings about neurodiversity. My recap of PowerShell Summit 2026.",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidsouua5syjnp7ldocaqehpkxfu5ajwhwmeowgemgyzoxb2yxjd2q"
+            },
+            "mimeType": "image/jpeg",
+            "size": 81602
+          },
+          "title": "PowerShell Summit 2026: Key Insights and Highlights",
+          "uri": "https://gilbertsanchez.com/posts/powershell-summit-2026/"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit."
+            }
+          ],
+          "index": {
+            "byteEnd": 78,
+            "byteStart": 67
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "\"I am what the kids call spicy brained.\"\nThat was my icebreaker at #PSHSummit. Three talks, psake v5, Plaster v2, and I bought a domain live on stage. But the thing that really stayed with me? Every person who stopped to say thanks for talking about ADHD.\nFull recap:"
+    },
+    "cid": "bafyreiej7vsz4m2s5ze6xo4qyp55wkoy3txv35eh64zy7waf2fivj6dugy"
+  }
+}
