@@ -1,0 +1,113 @@
+{
+  "did": "did:plc:j25ig3ar6gigewdmk47fzwpd",
+  "time_us": 1779215070479132,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mm7z75ifmt2e",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mm7z75273c2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-05-19T18:24:29.352Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by PDQ",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4oowq4f4i7ri3pniece6nsnhvelpj5rz7gpl3vwh5qk5sq7gk5q"
+            },
+            "mimeType": "image/jpeg",
+            "size": 436814
+          },
+          "title": "PowerShell After Dark: OnRamp, IoT, and Finding Your People. The PowerShell Podcast E229",
+          "uri": "https://youtu.be/Y_GDB0e8xHY?si=AT5Q3XxfYxDP_Zyg&t=3235"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:xrspiwserax6shgskcj7grgg"
+            }
+          ],
+          "index": {
+            "byteEnd": 28,
+            "byteStart": 13
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:zwno6dgmrotupkepw2edr4ta"
+            }
+          ],
+          "index": {
+            "byteEnd": 45,
+            "byteStart": 31
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 53
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 84,
+            "byteStart": 74
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:zwno6dgmrotupkepw2edr4ta"
+            }
+          ],
+          "index": {
+            "byteEnd": 100,
+            "byteStart": 86
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://youtu.be/Y_GDB0e8xHY?si=AT5Q3XxfYxDP_Zyg&t=3235"
+            }
+          ],
+          "index": {
+            "byteEnd": 283,
+            "byteStart": 259
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Listening to @andrewpla.tech & @mattzaske.com on the #PowerShell pod from #PSHSummit. @mattzaske.com talking about how his module helped me learn and build my own tools. :D \n\nOne of the many ways that being in and helping the community makes us all better. \n\nyoutu.be/Y_GDB0e8xHY?..."
+    },
+    "cid": "bafyreietmhkyannqycbe2qth4arqpy2bybun6s23dbvhhg73b24edk3zf4"
+  }
+}
