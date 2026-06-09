@@ -1,0 +1,42 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781006217770561,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mnu5dj4npf2j",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mnu5dixk2c2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-09T11:56:57.43Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by PowerShell.org",
+          "title": "PowerShell + DevOps Global Summit 2026",
+          "uri": "https://www.youtube.com/playlist?list=PLfeA8kIs7CodKtMv-JeTF7wO9ZIzS2bc8"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/playlist?list=PLfeA8kIs7CodKtMv-JeTF7wO9ZIzS2bc8"
+            }
+          ],
+          "index": {
+            "byteEnd": 157,
+            "byteStart": 126
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "PowerShell Summit videos are being uploaded to our YouTube channel this week. Let us know which one you are most excited for. www.youtube.com/playlist?lis..."
+    },
+    "cid": "bafyreibwckifpgpggk5zqvej43opfqita4yp5dd2chtqjvf2ty42nfiipi"
+  }
+}
