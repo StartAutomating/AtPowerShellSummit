@@ -1,0 +1,50 @@
+{
+  "did": "did:plc:sqraalz5tsmoy3upwcjtpepl",
+  "time_us": 1781121185821004,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mnxifqtuc52y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mnxifq5md22z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-10T19:53:02.452Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "YouTube video by PowerShell.org",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidoq4oopvswi4whcgceb4x2abnx7rrvce4mpadtzvnuorj3vkifte"
+            },
+            "mimeType": "image/jpeg",
+            "size": 84094
+          },
+          "title": "PowerShell Universal Dashboard from start to finish by Adam Driscoll",
+          "uri": "https://www.youtube.com/watch?v=6nPGEIFqlXw&t=2s"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=6nPGEIFqlXw&t=2s"
+            }
+          ],
+          "index": {
+            "byteEnd": 174,
+            "byteStart": 143
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Someone shared my Universal Dashboard presentation from PowerShell Summit 2019. Kinda crazy how far it's come and also how much it's the same. www.youtube.com/watch?v=6nPG..."
+    },
+    "cid": "bafyreibuqrex2roauty5tnb3f7ibpfsn6jikle6b5glnykqjnbxovmlgzu"
+  }
+}
