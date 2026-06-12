@@ -1,0 +1,109 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781283674971084,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mo47qekbvv2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mo47qek42f2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-12T17:01:13.59Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PlatyPS 1.0 GA is out. Learn how to use this new version of PlatyPS...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifvoymamcscuj4oq6jtwtxmljavfi5u2nxx6r6p4lk3io2czs5igi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 81619
+          },
+          "title": "Publish PowerShell help content using PlatyPS v1.0 by Sean Wheeler, Stephen Valdinger",
+          "uri": "https://www.youtube.com/watch?v=MBW2COScte0"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:hh3ywvussfpmzvpkplksmyhk"
+            }
+          ],
+          "index": {
+            "byteEnd": 46,
+            "byteStart": 24
+          }
+        },
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4"
+            }
+          ],
+          "index": {
+            "byteEnd": 67,
+            "byteStart": 49
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=MBW2COScte0"
+            }
+          ],
+          "index": {
+            "byteEnd": 175,
+            "byteStart": 144
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 186,
+            "byteStart": 176
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 198,
+            "byteStart": 187
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Docs"
+            }
+          ],
+          "index": {
+            "byteEnd": 204,
+            "byteStart": 199
+          }
+        }
+      ],
+      "text": "PlatyPS 1.0 GA is here! @sdwheeler.bsky.social & @steviecoaster.dev show how to create, update & publish your PowerShell help to a static site.\nwww.youtube.com/watch?v=MBW2...\n#PSHSummit #PowerShell #Docs"
+    },
+    "cid": "bafyreih6tg5535vvx2cdmfbtwtfnwba2ncmwzwxgatvrvo73opmn4gq66m"
+  }
+}
