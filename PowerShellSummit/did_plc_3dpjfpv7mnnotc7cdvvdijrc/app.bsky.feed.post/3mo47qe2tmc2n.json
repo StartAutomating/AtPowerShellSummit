@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781283674469697,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mo47qe2zhs2n",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mo47qe2tmc2n",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-12T17:01:13.083Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "You already write Markdown. README.md, meeting notes, maybe even yo...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiahjv22druwgqe7cqconztxxwrqce372q6vohfe6ow6qysfi5cjva"
+            },
+            "mimeType": "image/jpeg",
+            "size": 67019
+          },
+          "title": "Markdown Madness: Static Sites for Fun & Profit by Gilbert Sanchez",
+          "uri": "https://www.youtube.com/watch?v=Np0NKeXpLuI"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:iga7ipxo6jy26wv6bevcmdem"
+            }
+          ],
+          "index": {
+            "byteEnd": 98,
+            "byteStart": 79
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=Np0NKeXpLuI"
+            }
+          ],
+          "index": {
+            "byteEnd": 177,
+            "byteStart": 146
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 188,
+            "byteStart": 178
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 200,
+            "byteStart": 189
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "StaticSites"
+            }
+          ],
+          "index": {
+            "byteEnd": 213,
+            "byteStart": 201
+          }
+        }
+      ],
+      "text": "You already write Markdown. Why not turn it into a blog, docs site, or resume? @gilbertsanchez.com tours Jekyll, Hugo, MkDocs, Docusaurus & more.\nwww.youtube.com/watch?v=Np0N...\n#PSHSummit #PowerShell #StaticSites"
+    },
+    "cid": "bafyreifmqb6y67wr277aezl45ff5plsoouclifqhyqar23gvxfegmkmgvq"
+  }
+}
