@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781283665869950,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mo47q3n5ex2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mo47q3myip2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-12T17:01:03.598Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Platform Engineering is no longer just a buzzword—it’s a strategic ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifwksaz4m74mrnld2mmizog5xizymidq6hh5a3equ2dgnklzqpsy4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 102487
+          },
+          "title": "Engineering Platforms for Engineers who Engineer Platforms by Ryan Coates",
+          "uri": "https://www.youtube.com/watch?v=FJQG_8TFQLc"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:vdudhjzsai7w56shhkc6ee25"
+            }
+          ],
+          "index": {
+            "byteEnd": 65,
+            "byteStart": 57
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=FJQG_8TFQLc"
+            }
+          ],
+          "index": {
+            "byteEnd": 179,
+            "byteStart": 148
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 190,
+            "byteStart": 180
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 191
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PlatformEng"
+            }
+          ],
+          "index": {
+            "byteEnd": 215,
+            "byteStart": 203
+          }
+        }
+      ],
+      "text": "Platform engineering: strategic advantage, not buzzword. @rdc.dev builds a full platform stack live for self-service and scale without bottlenecks.\nwww.youtube.com/watch?v=FJQG...\n#PSHSummit #PowerShell #PlatformEng"
+    },
+    "cid": "bafyreiapjbattngyx5ftdq577p3mwsdsmbdedld5tr2mcbn6pesc6qqo4m"
+  }
+}
