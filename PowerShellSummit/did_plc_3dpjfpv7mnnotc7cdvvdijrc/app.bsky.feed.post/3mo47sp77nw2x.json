@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781283753165857,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mo47sp7fjg2x",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mo47sp77nw2x",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-12T17:02:31.137Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Not every tool can meet 100% of your needs. Organizations have uniq...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiciwq2krqfqrc5ps5jvovagfkj53xdhd4qqpsxkm7eznd3kswdzyi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 74924
+          },
+          "title": "When Tools Don’t Fit: Filling the Gaps with PowerShell by Lucas Allman",
+          "uri": "https://www.youtube.com/watch?v=Zzi94qRpvYo"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:b6l5n5hbre37crwklbt2wjqo"
+            }
+          ],
+          "index": {
+            "byteEnd": 93,
+            "byteStart": 69
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=Zzi94qRpvYo"
+            }
+          ],
+          "index": {
+            "byteEnd": 189,
+            "byteStart": 158
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 200,
+            "byteStart": 190
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 212,
+            "byteStart": 201
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Automation"
+            }
+          ],
+          "index": {
+            "byteEnd": 224,
+            "byteStart": 213
+          }
+        }
+      ],
+      "text": "No tool fits 100% of your needs, and that's where PowerShell shines. @lucasallman.bsky.social on automation entry points, vendor & hidden APIs, filling gaps.\nwww.youtube.com/watch?v=Zzi9...\n#PSHSummit #PowerShell #Automation"
+    },
+    "cid": "bafyreiffnstgkehatlmfg6nosmv5j5l2ppijxv32qe5ujyc6cjsz7koqaa"
+  }
+}
