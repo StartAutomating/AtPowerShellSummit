@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781283673792664,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mo47qdkjpt2k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mo47qdketl2k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-12T17:01:11.54Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell is packed with capabilities that many of us use daily—bu...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicsoytak3mw6qxop5pjx56hjskfeeiynr5n5bj57zuzefr7mcieym"
+            },
+            "mimeType": "image/jpeg",
+            "size": 93736
+          },
+          "title": "Level Up Your PowerShell: Essential Tips, Tricks, and Techniques by Ben Miller",
+          "uri": "https://www.youtube.com/watch?v=k-qxLq8LK20"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=k-qxLq8LK20"
+            }
+          ],
+          "index": {
+            "byteEnd": 167,
+            "byteStart": 136
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 178,
+            "byteStart": 168
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 190,
+            "byteStart": 179
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Scripting"
+            }
+          ],
+          "index": {
+            "byteEnd": 201,
+            "byteStart": 191
+          }
+        }
+      ],
+      "text": "Even seasoned scripters miss these. @dbaduck shares practical tips, clever tricks & smarter patterns for arrays, strings, loops & more.\nwww.youtube.com/watch?v=k-qx...\n#PSHSummit #PowerShell #Scripting"
+    },
+    "cid": "bafyreibdtudneyshgoo575nstsze2akd67a43sfqvrxbpll6637uib3efq"
+  }
+}
