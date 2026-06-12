@@ -1,0 +1,84 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781283665072229,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mo47q34e7d2o",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mo47q347d32o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-12T17:01:03.499Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Chocolatey packaging is often learned by example—and sometimes by a...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia5d5pnrlyhq6zsa4en3vsxl57ex3x3ld7unkkusspoxvli73dxny"
+            },
+            "mimeType": "image/jpeg",
+            "size": 89709
+          },
+          "title": "Source Control for Chocolatey Packages: Because Future You Deserves Answers by Stephen Valdinger",
+          "uri": "https://www.youtube.com/watch?v=IKYAqHU_yi0"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:y2blbftk3kpgpf6z5fgxfmw4"
+            }
+          ],
+          "index": {
+            "byteEnd": 47,
+            "byteStart": 29
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=IKYAqHU_yi0"
+            }
+          ],
+          "index": {
+            "byteEnd": 185,
+            "byteStart": 154
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 196,
+            "byteStart": 186
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 208,
+            "byteStart": 197
+          }
+        }
+      ],
+      "text": "Future You deserves answers. @steviecoaster.dev treats Chocolatey packages like the versioned code they are: repo structure, Git wins, mistakes to dodge.\nwww.youtube.com/watch?v=IKYA...\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreibdh3d6ezwmgnko62fbkruhq2bi5kel6unh3v4abbo5osv3p5gp5a"
+  }
+}
