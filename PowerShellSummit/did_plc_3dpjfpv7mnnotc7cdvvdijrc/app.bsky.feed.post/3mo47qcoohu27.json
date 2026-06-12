@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781283672891537,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mo47qcoude27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mo47qcoohu27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-12T17:01:11.406Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell Summit videos are recorded by our friends at Confreaks. ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibjp5dheiwzhoivuyfvq6tatwsovtdqau2s4niyt43dnmzqj463ee"
+            },
+            "mimeType": "image/jpeg",
+            "size": 55862
+          },
+          "title": "Day 4 Welcome and Award",
+          "uri": "https://www.youtube.com/watch?v=iFOyzj6NSSU"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=iFOyzj6NSSU"
+            }
+          ],
+          "index": {
+            "byteEnd": 164,
+            "byteStart": 133
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 175,
+            "byteStart": 165
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 187,
+            "byteStart": 176
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Community"
+            }
+          ],
+          "index": {
+            "byteEnd": 198,
+            "byteStart": 188
+          }
+        }
+      ],
+      "text": "Day 4, let's go! The welcome + award moment that kicked off Summit's final day is up. Relive the cheers and well-earned recognition.\nwww.youtube.com/watch?v=iFOy...\n#PSHSummit #PowerShell #Community"
+    },
+    "cid": "bafyreibvoksvht6toz6qqo762ddgcyrspedijzwtro7ehwudjxkxwjhln4"
+  }
+}
