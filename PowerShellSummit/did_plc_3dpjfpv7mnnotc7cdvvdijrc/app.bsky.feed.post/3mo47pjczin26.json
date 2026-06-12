@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781283646371903,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mo47pjd7e526",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mo47pjczin26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-12T17:00:44.658Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell Summit videos are recorded by our friends at Confreaks. ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidg5qt5nxcsiilb4oip2625olksfmu5wimu2zufaiuin2shazh2ce"
+            },
+            "mimeType": "image/jpeg",
+            "size": 67563
+          },
+          "title": "Crypto Confiscation as a Service by Thomas Rayner",
+          "uri": "https://www.youtube.com/watch?v=4aA2YCyvseA"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=4aA2YCyvseA"
+            }
+          ],
+          "index": {
+            "byteEnd": 163,
+            "byteStart": 132
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 174,
+            "byteStart": 164
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 186,
+            "byteStart": 175
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Security"
+            }
+          ],
+          "index": {
+            "byteEnd": 196,
+            "byteStart": 187
+          }
+        }
+      ],
+      "text": "Crypto Confiscation as a Service. Yes, that's the real title. Thomas Rayner takes the stage and you'll want to see where this goes.\nwww.youtube.com/watch?v=4aA2...\n#PSHSummit #PowerShell #Security"
+    },
+    "cid": "bafyreifonccice6kfazvxw3xsy7alyt7xxu7kaljrxpt2qmhdsrl46tbtq"
+  }
+}
