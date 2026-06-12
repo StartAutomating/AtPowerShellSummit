@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781283673282485,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mo47qd2tr32o",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mo47qcrrpt2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-12T17:01:11.49Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Corporate dysfunction is a fact of life. We see it in: siloed teams...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigthkfrpo5qfgs4pym5mkzjsrzmxdxlzgpxrmmf2wldhtegwlomfi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 72469
+          },
+          "title": "PowerShell: Designed for a Messy World by Jeffrey Snover",
+          "uri": "https://www.youtube.com/watch?v=PO7WrCcZEvc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=PO7WrCcZEvc"
+            }
+          ],
+          "index": {
+            "byteEnd": 180,
+            "byteStart": 149
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 191,
+            "byteStart": 181
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 203,
+            "byteStart": 192
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Design"
+            }
+          ],
+          "index": {
+            "byteEnd": 211,
+            "byteStart": 204
+          }
+        }
+      ],
+      "text": "\"I designed PowerShell to route around the damage.\" Jeffrey Snover on building a language to survive corporate dysfunction. A masterclass in design.\nwww.youtube.com/watch?v=PO7W...\n#PSHSummit #PowerShell #Design"
+    },
+    "cid": "bafyreigy4uj3k6qsgcjnsn75fyt6qj7nltzkff6frkh5idv63cfaoosdzu"
+  }
+}
