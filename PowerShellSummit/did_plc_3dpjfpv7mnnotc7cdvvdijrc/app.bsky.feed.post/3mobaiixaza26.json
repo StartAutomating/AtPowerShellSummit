@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781456283478906,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mobaiixhty26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mobaiixaza26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T16:58:02.034Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "When my wife discovered a clothing brand she loved—but couldn’t kee...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieuoouptayzdp336apmycbbdsikscqbfujcizy56c3236vxqnehci"
+            },
+            "mimeType": "image/jpeg",
+            "size": 82546
+          },
+          "title": "Domestic Automation Adventures: An Inventory Tracker by Matthew Gill",
+          "uri": "https://www.youtube.com/watch?v=KXrQqAFLXDI"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=KXrQqAFLXDI"
+            }
+          ],
+          "index": {
+            "byteEnd": 196,
+            "byteStart": 165
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 208,
+            "byteStart": 198
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 220,
+            "byteStart": 209
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Automation"
+            }
+          ],
+          "index": {
+            "byteEnd": 232,
+            "byteStart": 221
+          }
+        }
+      ],
+      "text": "\"Can you do some coding magic?\" 🛒 Matthew Gill built a PowerShell inventory tracker for his wife's favorite restocks—alerts via Telegram & Pushover. Live now:\n\nwww.youtube.com/watch?v=KXrQ...\n\n#PSHSummit #PowerShell #Automation"
+    },
+    "cid": "bafyreifxhmikaigozhakcunsjnqlytxwm3z7tq4ekjkjhcfnnxpnegcd4u"
+  }
+}
