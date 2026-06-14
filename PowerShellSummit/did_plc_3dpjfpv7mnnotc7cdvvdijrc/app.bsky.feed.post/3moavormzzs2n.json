@@ -1,0 +1,71 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781444682762603,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moavorn7vc2n",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moavormzzs2n",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T13:44:41.436Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Reusable PowerShell modules can unlock enormous productivity gains ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreib53ls5sqz5qouzz4qnxghm2wsvu3kxkpocbdebrsfblsk3tkqunu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 89106
+          },
+          "title": "Building and Publishing Reusable PowerShell Tools by Jeff Brown",
+          "uri": "https://www.youtube.com/watch?v=CO4J1qYL3PU"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=CO4J1qYL3PU"
+            }
+          ],
+          "index": {
+            "byteEnd": 193,
+            "byteStart": 162
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 205,
+            "byteStart": 195
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 217,
+            "byteStart": 206
+          }
+        }
+      ],
+      "text": "Stop letting good scripts die in a folder. 📂 @jeffbrowntech turns them into pro modules—manifests, versioning, help, auto-publish to the Gallery. Live now:\n\nwww.youtube.com/watch?v=CO4J...\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreicgkwfragygu2kprjqgmjhox3yqtkgyozjhvwlvdyijl5zspfmqse"
+  }
+}
