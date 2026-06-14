@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781456288371433,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mobainlq6r2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mobainlkdb2h",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T16:58:06.868Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Bicep extensibility allows you to use Bicep syntax and get all of t...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifwydylqrwdgh55fofqf2nwogiugnzogzgkmr4q5zxcgvskxrysna"
+            },
+            "mimeType": "image/jpeg",
+            "size": 64558
+          },
+          "title": "Build Your Own Local-Deploy Bicep Extension by Andy, Sheglong, and Sydney",
+          "uri": "https://www.youtube.com/watch?v=MqaJMLDWIh4"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=MqaJMLDWIh4"
+            }
+          ],
+          "index": {
+            "byteEnd": 165,
+            "byteStart": 134
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 176,
+            "byteStart": 166
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 188,
+            "byteStart": 177
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "IaC"
+            }
+          ],
+          "index": {
+            "byteEnd": 193,
+            "byteStart": 189
+          }
+        }
+      ],
+      "text": "Bicep syntax + any endpoint you want. 💪 Andy, Sheglong & Sydney build a local-deploy Bicep extension—fully custom IaC. Live now:\nwww.youtube.com/watch?v=MqaJ...\n#PSHSummit #PowerShell #IaC"
+    },
+    "cid": "bafyreicnufb6olixtdxqyjhydbm54caa5zgaafouozjw3gjq6o3cfufu5y"
+  }
+}
