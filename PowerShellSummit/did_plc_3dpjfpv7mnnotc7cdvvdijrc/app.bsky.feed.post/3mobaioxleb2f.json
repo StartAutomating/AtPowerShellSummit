@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781456289760734,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mobaioxqaj2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mobaioxleb2f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T16:58:08.329Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Managing one cloud is like a cross-country road trip with a toddler...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicqcek2rrd6mribjjrbvvg7jmy64ar6dc4i4civarscuoi45rywve"
+            },
+            "mimeType": "image/jpeg",
+            "size": 108633
+          },
+          "title": "Cross-Cloud without Crossed Fingers: Surviving Azure, AWS, and GCP with PowerShell by Adil Leghari",
+          "uri": "https://www.youtube.com/watch?v=Lj_lDvaABxU"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:hx44bglgjq6x7k22vu7phnzv"
+            }
+          ],
+          "index": {
+            "byteEnd": 84,
+            "byteStart": 74
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=Lj_lDvaABxU"
+            }
+          ],
+          "index": {
+            "byteEnd": 179,
+            "byteStart": 148
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 190,
+            "byteStart": 180
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 191
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "MultiCloud"
+            }
+          ],
+          "index": {
+            "byteEnd": 214,
+            "byteStart": 203
+          }
+        }
+      ],
+      "text": "One cloud is a road trip with a toddler. Three? Hostage negotiation. 🍎 @adilio.ca shares the PowerShell survival kit for Azure, AWS & GCP. Live:\nwww.youtube.com/watch?v=Lj_l...\n#PSHSummit #PowerShell #MultiCloud"
+    },
+    "cid": "bafyreifxuy7drqqtnis4y4lyqyedogiduwxueih5dcnfnpzd4pz3m2r33a"
+  }
+}
