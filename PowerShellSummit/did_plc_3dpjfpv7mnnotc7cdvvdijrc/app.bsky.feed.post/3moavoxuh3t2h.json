@@ -1,0 +1,84 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781444689272888,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moavoxuj2d2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moavoxuh3t2h",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T13:44:47.943Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Are you tired of slow scripts that crawl when working with large da...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibaqg6ni366q56eifx5njh5xbvddsadlz5nwszsf7ek3par5xuyvq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 93571
+          },
+          "title": "Beyond Arrays: PowerShell Collections for Speed & Scale by Aleksandar Nikolic",
+          "uri": "https://www.youtube.com/watch?v=xEhfrgG-I2Y"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:qsso3aixn7gug6her5uu3e5o"
+            }
+          ],
+          "index": {
+            "byteEnd": 82,
+            "byteStart": 59
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=xEhfrgG-I2Y"
+            }
+          ],
+          "index": {
+            "byteEnd": 211,
+            "byteStart": 180
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 223,
+            "byteStart": 213
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 235,
+            "byteStart": 224
+          }
+        }
+      ],
+      "text": "Scripts crawling on big datasets? 🚀 Aleksandar Nikolic (@alexandair.bsky.social) goes beyond arrays into .NET Lists & HashSets, with real benchmarks. Pick right, watch it fly:\n\nwww.youtube.com/watch?v=xEhf...\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreihdlucuqsuzhzjzfidrfux7g3kbvuh2ux5kh6yfppuce4foixzevy"
+  }
+}
