@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781456287471066,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mobaimpknm2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mobaimpdsu2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T16:58:05.964Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Large Language Models (LLMs) offer unprecedented power, but their i...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreieiwifukjwq5ucmuwtauqvmpxfbm4njreptaxcnfs3oi6wnqbgs3a"
+            },
+            "mimeType": "image/jpeg",
+            "size": 70638
+          },
+          "title": "Beyond the Prompt: Leveraging MCP and PowerShell for Custom LLM Actions by Kevin Marquette",
+          "uri": "https://www.youtube.com/watch?v=6NtDB3Bo0jE"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=6NtDB3Bo0jE"
+            }
+          ],
+          "index": {
+            "byteEnd": 213,
+            "byteStart": 182
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 225,
+            "byteStart": 215
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 237,
+            "byteStart": 226
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 241,
+            "byteStart": 238
+          }
+        }
+      ],
+      "text": "LLMs are powerful, but you need controlled execution. 🧠 Kevin Marquette (@kevinmarquette) builds an MCP service from scratch in PowerShell so LLMs run only what you allow. Live:\n\nwww.youtube.com/watch?v=6NtD...\n\n#PSHSummit #PowerShell #AI"
+    },
+    "cid": "bafyreibyizp2ppva4xh6muxshe54jcuoyytyov3qbslxdhgndgcs7sn764"
+  }
+}
