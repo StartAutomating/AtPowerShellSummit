@@ -1,0 +1,84 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781444684863274,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moavoto7xg26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moavoto5yw26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T13:44:43.753Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Many PowerShell authors think of their work as automation rather th...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidmmytwfzsnqmozwwuza7eghgtdknvkilhwhhaubrdfegfhntfjsy"
+            },
+            "mimeType": "image/jpeg",
+            "size": 78914
+          },
+          "title": "Provenance Before Publish: Building Safer PowerShell and Chocolatey Pipelines by Adil Leghari",
+          "uri": "https://www.youtube.com/watch?v=TfRCeKzAY0k"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:hx44bglgjq6x7k22vu7phnzv"
+            }
+          ],
+          "index": {
+            "byteEnd": 77,
+            "byteStart": 67
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=TfRCeKzAY0k"
+            }
+          ],
+          "index": {
+            "byteEnd": 200,
+            "byteStart": 169
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 212,
+            "byteStart": 202
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 224,
+            "byteStart": 213
+          }
+        }
+      ],
+      "text": "Publish a script and it becomes a supply chain. 🔐 Adil Leghari (@adilio.ca) on baking provenance into your PowerShell & Chocolatey pipelines BEFORE publish. Now up:\n\nwww.youtube.com/watch?v=TfRC...\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreih57hndmdy3ttnk3cbphfee6sxrl5ncctvqyedkiq5xq5qcg4xpg4"
+  }
+}
