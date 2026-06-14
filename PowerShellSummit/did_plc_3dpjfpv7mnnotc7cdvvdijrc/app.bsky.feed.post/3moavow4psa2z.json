@@ -1,0 +1,84 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781444687379643,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moavow4vnq2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moavow4psa2z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T13:44:46.303Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Open source is full of passion projects - but passion doesn’t scale...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihhqr5zx4z45rhcn4jvhq7wbk567touto5hzdkobydnlylezwiaqa"
+            },
+            "mimeType": "image/jpeg",
+            "size": 46465
+          },
+          "title": "From Burnout to Built-to-Last: The Open Source Org Advantage by Gilbert Sanchez",
+          "uri": "https://www.youtube.com/watch?v=7m-p4bx0Cp4"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:iga7ipxo6jy26wv6bevcmdem"
+            }
+          ],
+          "index": {
+            "byteEnd": 124,
+            "byteStart": 105
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=7m-p4bx0Cp4"
+            }
+          ],
+          "index": {
+            "byteEnd": 199,
+            "byteStart": 168
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 211,
+            "byteStart": 201
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 223,
+            "byteStart": 212
+          }
+        }
+      ],
+      "text": "Passion doesn't scale. 🔥 When one maintainer carries a repo, the bus factor is real. Gilbert Sanchez (@gilbertsanchez.com) on running your project as an org. Live:\n\nwww.youtube.com/watch?v=7m-p...\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreibthykxbiwdn4e45wxubsslk7a5iq2p5cx624hw52nbplrov5tot4"
+  }
+}
