@@ -1,0 +1,71 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781456280900201,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mobaig2wvy26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mobaig2o4q26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T16:57:58.807Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "You’ve seen it before - in a Summit session, a YouTube video, or fr...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigpkwtfm2pheq3f5fwbllub2a74gglefgpmgjcsd4gqhdcjjmxtvm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 105704
+          },
+          "title": "Putting the \"Pro\" in PowerShell Profiles! by Rob Pleau",
+          "uri": "https://www.youtube.com/watch?v=EUOlJYp0o98"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=EUOlJYp0o98"
+            }
+          ],
+          "index": {
+            "byteEnd": 188,
+            "byteStart": 157
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 200,
+            "byteStart": 190
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 212,
+            "byteStart": 201
+          }
+        }
+      ],
+      "text": "That coworker with the gorgeous color-coded prompt? ✨ Now it's you. Rob Pleau takes your PowerShell profile from plain to powerful, step by step. Up now:\n\nwww.youtube.com/watch?v=EUOl...\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreigx6xordvt6enpozdqoqql6mmvjvjiputi4jtv3r6g6cg23p6kf2u"
+  }
+}
