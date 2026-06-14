@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781444683877616,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moavosrly623",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moavosrj2g23",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T13:44:42.534Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Discover how IT and operations teams can harness AI to create custo...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiheyj54zao5t5g72timbtwycev5mgk4xc6ctuizbhgxy2fubyol3q"
+            },
+            "mimeType": "image/jpeg",
+            "size": 57596
+          },
+          "title": "The Future of IT Ops: AI-Driven Tools You Can Build Today by Pierre Roman",
+          "uri": "https://www.youtube.com/watch?v=_3vBvVF4AEk"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=_3vBvVF4AEk"
+            }
+          ],
+          "index": {
+            "byteEnd": 174,
+            "byteStart": 143
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 186,
+            "byteStart": 176
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 198,
+            "byteStart": 187
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 199
+          }
+        }
+      ],
+      "text": "No data science degree? No problem. 🛠️ Pierre Roman shows IT teams how to build custom AI-driven tools you can ship today. Just dropped:\n\nwww.youtube.com/watch?v=_3vB...\n\n#PSHSummit #PowerShell #AI"
+    },
+    "cid": "bafyreicp5szgnrcdt7cmtk4tjz7pji46ayedf2rrgzh52mf7owwuxwzawa"
+  }
+}
