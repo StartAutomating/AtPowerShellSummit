@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781444679472227,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moavooitxo26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moavooio4626",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T13:44:37.908Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "As artificial intelligence reshapes software delivery, DevOps will ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidfjqq2ekpu25j3mpu2xqtnnmpy65r2ybjfsfm3qsnu3vt35mr7ze"
+            },
+            "mimeType": "image/jpeg",
+            "size": 76901
+          },
+          "title": "DevOps in the Age of AI: Human Powered Evolution by Kelly Gorman",
+          "uri": "https://www.youtube.com/watch?v=S0Nk64yOSQo"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=S0Nk64yOSQo"
+            }
+          ],
+          "index": {
+            "byteEnd": 182,
+            "byteStart": 151
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 194,
+            "byteStart": 184
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 206,
+            "byteStart": 195
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 210,
+            "byteStart": 207
+          }
+        }
+      ],
+      "text": "AI coming for your DevOps job? Think again. 🤖 Kelly Gorman (@DBAKevlar) argues skilled humans get MORE indispensable in an AI era. Keynote's live:\n\nwww.youtube.com/watch?v=S0Nk...\n\n#PSHSummit #PowerShell #AI"
+    },
+    "cid": "bafyreiglh7ih5u6omci2rxzguvbibmdd5al4kr42jupog7aephgaktfnge"
+  }
+}
