@@ -1,0 +1,71 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781444678372665,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moavongt7q2z",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moavongodi2z",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T13:44:36.675Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell Summit videos are recorded by our friends at Confreaks. ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifbpphuyvyyco7klvob4q4u3xvnafplaffliyk4wtk7jhzwbpo75m"
+            },
+            "mimeType": "image/jpeg",
+            "size": 81770
+          },
+          "title": "Welcome to Summit 2026 with James Petty",
+          "uri": "https://www.youtube.com/watch?v=60k9-AEpF8o"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=60k9-AEpF8o"
+            }
+          ],
+          "index": {
+            "byteEnd": 165,
+            "byteStart": 134
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 177,
+            "byteStart": 167
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 189,
+            "byteStart": 178
+          }
+        }
+      ],
+      "text": "Lights, camera, PowerShell! 🎉 The Summit 2026 kickoff with James Petty is now on YouTube. Hit play and relive where it all began.\n\nwww.youtube.com/watch?v=60k9...\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreibp5qi6so6mynxfsjln73jabqmjpawtusvdzbkx3wzpxhf4jy2zfy"
+  }
+}
