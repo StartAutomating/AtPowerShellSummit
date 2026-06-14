@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781444682260158,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moavor6sx32f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moavor6o2t2f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T13:44:40.846Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Azure Managed Identities are the extremely powerful and secure way ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreif2q4mrei22pwwghachzwsytgj4s3awmw47apmdaehzkjlgzwk3vi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 72703
+          },
+          "title": "Azure Managed Identities: Why are you still using anything else?!? by Justin Grote",
+          "uri": "https://www.youtube.com/watch?v=Fu2T0152pts"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:wepubn5jiq74vznap2ia2osh"
+            }
+          ],
+          "index": {
+            "byteEnd": 70,
+            "byteStart": 60
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=Fu2T0152pts"
+            }
+          ],
+          "index": {
+            "byteEnd": 193,
+            "byteStart": 162
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 205,
+            "byteStart": 195
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 217,
+            "byteStart": 206
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Azure"
+            }
+          ],
+          "index": {
+            "byteEnd": 224,
+            "byteStart": 218
+          }
+        }
+      ],
+      "text": "Still juggling client secrets and certs? 🙃 Justin Grote (@posh.guru) says ditch them all—Managed Identities, OIDC for GitHub Actions, Azure Arc. Watch now:\n\nwww.youtube.com/watch?v=Fu2T...\n\n#PSHSummit #PowerShell #Azure"
+    },
+    "cid": "bafyreigpvj5ziuxfg3ziby62qbuffbyiydctj4d7m5i2sd7un34vffj2de"
+  }
+}
