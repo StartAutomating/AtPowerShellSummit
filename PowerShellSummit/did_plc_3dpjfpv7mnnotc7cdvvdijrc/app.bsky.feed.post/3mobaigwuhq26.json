@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781456282370115,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mobaigx3ci26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mobaigwuhq26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T16:57:59.908Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "The PowerShell extension for VSCode has 15 million downloads and is...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreih7o3mnorswebvi4bnnowl7dpfkvbogmxsddnwjkyo7phicqx6wpa"
+            },
+            "mimeType": "image/jpeg",
+            "size": 79189
+          },
+          "title": "The Guts of the PowerShell VSCode Extension by Justin Grote",
+          "uri": "https://www.youtube.com/watch?v=V8lJjTfIlL4"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:wepubn5jiq74vznap2ia2osh"
+            }
+          ],
+          "index": {
+            "byteEnd": 115,
+            "byteStart": 105
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=V8lJjTfIlL4"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 171
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 214,
+            "byteStart": 204
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 226,
+            "byteStart": 215
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "VSCode"
+            }
+          ],
+          "index": {
+            "byteEnd": 234,
+            "byteStart": 227
+          }
+        }
+      ],
+      "text": "15 million downloads. Ever wonder how the PowerShell VSCode extension actually WORKS? 🧩 Justin Grote (@posh.guru) goes under the hood—LSPs, C# & TypeScript. Now up:\n\nwww.youtube.com/watch?v=V8lJ...\n\n#PSHSummit #PowerShell #VSCode"
+    },
+    "cid": "bafyreie2ldvo36d5w6jlencaeahj5fg6gpop4wumlqfiackmpr4czpn75q"
+  }
+}
