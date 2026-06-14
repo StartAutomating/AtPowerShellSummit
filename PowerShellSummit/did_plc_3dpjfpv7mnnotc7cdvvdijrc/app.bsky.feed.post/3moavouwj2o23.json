@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781444686171188,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moavouwnww23",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moavouwj2o23",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T13:44:44.76Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "What happens when you mix PowerShell with wires, motors, sensors, a...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibsmfheiex5tnregyrahdzn7ums7z226s26zvdygvumtir7xc567q"
+            },
+            "mimeType": "image/jpeg",
+            "size": 95098
+          },
+          "title": "PsGadgets - Scripts to Circuits: PowerShell for Hardware Hackers by Mark Go",
+          "uri": "https://www.youtube.com/watch?v=v4BTuYSOYkQ"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=v4BTuYSOYkQ"
+            }
+          ],
+          "index": {
+            "byteEnd": 199,
+            "byteStart": 168
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 211,
+            "byteStart": 201
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 223,
+            "byteStart": 212
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "IoT"
+            }
+          ],
+          "index": {
+            "byteEnd": 228,
+            "byteStart": 224
+          }
+        }
+      ],
+      "text": "PowerShell meets wires, motors, and microcontrollers. 💡 Mark Go lights LEDs, spins servos, even waters a cactus—all from your console. Scripts to circuits, live:\n\nwww.youtube.com/watch?v=v4BT...\n\n#PSHSummit #PowerShell #IoT"
+    },
+    "cid": "bafyreicdmhbvex6yjjrauac6cvo7gfhlyjifm6ekjtsu62sqdos5s7j2zy"
+  }
+}
