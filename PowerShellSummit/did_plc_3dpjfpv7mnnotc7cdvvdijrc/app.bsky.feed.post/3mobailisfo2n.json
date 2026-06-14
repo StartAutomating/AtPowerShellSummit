@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781456286359235,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mobailiyb62n",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mobailisfo2n",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T16:58:04.726Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Unlock dramatic performance boosts in your PowerShell scripts with ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifqq4w2parhooqe4glsy5nyn4gitgy6fi3hergfbo3pd6ebycj7bu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 39240
+          },
+          "title": "Supercharging PowerShell with LINQ by Arnoud Jansveld",
+          "uri": "https://www.youtube.com/watch?v=wtg5M4lcTEU"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=wtg5M4lcTEU"
+            }
+          ],
+          "index": {
+            "byteEnd": 200,
+            "byteStart": 169
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 212,
+            "byteStart": 202
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 224,
+            "byteStart": 213
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "dotNET"
+            }
+          ],
+          "index": {
+            "byteEnd": 232,
+            "byteStart": 225
+          }
+        }
+      ],
+      "text": "10x faster scripts? Yes, really. ⚡ Arnoud Jansveld shows how LINQ crushes PowerShell's slow spots on big datasets—live demos, compiled expressions. Recording's up:\n\nwww.youtube.com/watch?v=wtg5...\n\n#PSHSummit #PowerShell #dotNET"
+    },
+    "cid": "bafyreibznzvl5d4p4w5buphea5rtpofs6oulahuje4hib5bxa2wj635oeq"
+  }
+}
