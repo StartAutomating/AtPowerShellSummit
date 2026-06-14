@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781456284994175,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mobaikgbce24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mobaikg3gu24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T16:58:03.717Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell as an MCP Tooling Host: Using MCPServerPS to Supercharge...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifwgyqyqffabugjiatogj6igd4ofwp2ce4rmxtzqpkmhkaloss2he"
+            },
+            "mimeType": "image/jpeg",
+            "size": 67118
+          },
+          "title": "PowerShell as an MCP Tooling Host: Using MCPServerPS to Supercharge AI-Assisted... by Dongbo Wang",
+          "uri": "https://www.youtube.com/watch?v=ghwBPDdsuM4"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=ghwBPDdsuM4"
+            }
+          ],
+          "index": {
+            "byteEnd": 199,
+            "byteStart": 168
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 211,
+            "byteStart": 201
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 223,
+            "byteStart": 212
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 227,
+            "byteStart": 224
+          }
+        }
+      ],
+      "text": "Turn your existing .ps1 files into AI-callable tools—no rewrites. 🤖 Dongbo Wang shows how MCPServerPS exposes your PowerShell as schema-backed MCP tools. Now up:\n\nwww.youtube.com/watch?v=ghwB...\n\n#PSHSummit #PowerShell #AI"
+    },
+    "cid": "bafyreihhpm7l7rvq3tso47wp3utfgloqr6itiygkrcuelzolst2fmr5oqa"
+  }
+}
