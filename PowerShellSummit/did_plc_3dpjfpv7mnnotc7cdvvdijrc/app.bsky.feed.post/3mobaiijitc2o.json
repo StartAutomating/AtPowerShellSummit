@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781456283165660,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mobaiijpo22o",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mobaiijitc2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T16:58:01.318Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "In a field often dominated by men, women are rising to the challeng...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreigfwynu5eubsqvohf4jxuhefqz7umjrfebqax6fnvka4oy3cj63hm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 112891
+          },
+          "title": "Breaking Barriers: Women Leading the Tech Revolution by Shannon C  Ryan",
+          "uri": "https://www.youtube.com/watch?v=1URNt7rnJkg"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=1URNt7rnJkg"
+            }
+          ],
+          "index": {
+            "byteEnd": 194,
+            "byteStart": 163
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 206,
+            "byteStart": 196
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 218,
+            "byteStart": 207
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "WomenInTech"
+            }
+          ],
+          "index": {
+            "byteEnd": 231,
+            "byteStart": 219
+          }
+        }
+      ],
+      "text": "Women are leading a revolution in tech—and this talk is fuel for it. 💪 Shannon C Ryan on beating obstacles, advancing your career, making real impact. Live:\n\nwww.youtube.com/watch?v=1URN...\n\n#PSHSummit #PowerShell #WomenInTech"
+    },
+    "cid": "bafyreif26cjrvj4p5y2hnqk7vyg37w2uv5q6mwmqiaw3jzsjdivawylcsy"
+  }
+}
