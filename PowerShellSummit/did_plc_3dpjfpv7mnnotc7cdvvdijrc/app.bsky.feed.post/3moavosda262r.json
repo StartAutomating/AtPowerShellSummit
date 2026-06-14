@@ -1,0 +1,71 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781444683560498,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moavosdewg2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moavosda262r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T13:44:41.835Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Tired of clicking through endless wizards just to spin up a lab? In...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibubkqb42uxnsav53y36zosvprgkiqnfn4ozi7tsmaurtt3xz7n5e"
+            },
+            "mimeType": "image/jpeg",
+            "size": 64719
+          },
+          "title": "Introduction to AutomatedLab by Joe Houghes",
+          "uri": "https://www.youtube.com/watch?v=3YmZcvhLTco"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=3YmZcvhLTco"
+            }
+          ],
+          "index": {
+            "byteEnd": 183,
+            "byteStart": 152
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 195,
+            "byteStart": 185
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 207,
+            "byteStart": 196
+          }
+        }
+      ],
+      "text": "Spin up a full two-server AD forest in minutes—no wizard-clicking. ⚡ Joe Houghes introduces AutomatedLab: lab building, code-driven, fast. Now up:\n\nwww.youtube.com/watch?v=3YmZ...\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreiga7wnxmk3g2drkouilqeszxqk2x6rum24odi43vohmmsp6fpbof4"
+  }
+}
