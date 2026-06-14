@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781456272257181,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mobai66dre2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mobai665vu2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-14T16:57:50.799Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Infrastructure as Code isn’t optional anymore—it’s the modern found...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibavhe3eh2qqzwnkfztmfvxzsjz6o5o7i4l25mvaf4c2tti4beyd4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 86721
+          },
+          "title": "Terraform 101: Building Repeatable, Secure Azure Infrastructure by Blake Cherry, Danny Stutz",
+          "uri": "https://www.youtube.com/watch?v=LBNY3w-Yh9U"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:oohgqkvoc3d5kjyf46beicit"
+            }
+          ],
+          "index": {
+            "byteEnd": 84,
+            "byteStart": 60
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=LBNY3w-Yh9U"
+            }
+          ],
+          "index": {
+            "byteEnd": 181,
+            "byteStart": 150
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 192,
+            "byteStart": 182
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 204,
+            "byteStart": 193
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Terraform"
+            }
+          ],
+          "index": {
+            "byteEnd": 215,
+            "byteStart": 205
+          }
+        }
+      ],
+      "text": "ClickOps is holding your Azure back. 🏗️ Blake Cherry & @danny-stutz.bsky.social deliver Terraform 101: providers, modules, safe state. Live now:\nwww.youtube.com/watch?v=LBNY...\n#PSHSummit #PowerShell #Terraform"
+    },
+    "cid": "bafyreihwcl23hmg3ebchpk7pho4srip5odstixbztzq5bohw7vm6zbpqyi"
+  }
+}
