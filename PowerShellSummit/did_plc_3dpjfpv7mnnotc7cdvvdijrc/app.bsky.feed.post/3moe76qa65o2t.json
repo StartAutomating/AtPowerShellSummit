@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781557960870341,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moe76qaeyg2t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moe76qa65o2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T21:12:40.368Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "",
+          "title": "",
+          "uri": "https://www.youtube.com/watch?v=RsV0kXTD564"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=RsV0kXTD564"
+            }
+          ],
+          "index": {
+            "byteEnd": 179,
+            "byteStart": 148
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 190,
+            "byteStart": 180
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 191
+          }
+        }
+      ],
+      "text": "\"Can you make my old MP3s play on Spotify?\" That request sent Matthew Gill deep into ID3 tags and the Spotify API. PowerShell saves the day. Watch:\nwww.youtube.com/watch?v=RsV0...\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreigbf4bg7z6l2dik4meeqd27egkq4kcrijn472fq33sh4frmd2ltx4"
+  }
+}
