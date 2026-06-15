@@ -1,0 +1,71 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781528630859360,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moddumash62b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moddumalmg2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T13:03:48.684Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell Summit videos are recorded by our friends at Confreaks. ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreihzwzbowourfvftn6uhrxh35k3hlewlvxjhyimemost6qy7evsugm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 48341
+          },
+          "title": "Day 2 Welcome and Award",
+          "uri": "https://www.youtube.com/watch?v=aTnooOZtwOA"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=aTnooOZtwOA"
+            }
+          ],
+          "index": {
+            "byteEnd": 158,
+            "byteStart": 127
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 169,
+            "byteStart": 159
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 181,
+            "byteStart": 170
+          }
+        }
+      ],
+      "text": "Day 2 is GO! 🎉 The welcome, the energy, and the award you've been waiting for. Missed the morning buzz? Here's your replay:\nwww.youtube.com/watch?v=aTno...\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreie55grpwi3w626mhouvtx7p5lczwp65crncj3zxlgupahwbq2exj4"
+  }
+}
