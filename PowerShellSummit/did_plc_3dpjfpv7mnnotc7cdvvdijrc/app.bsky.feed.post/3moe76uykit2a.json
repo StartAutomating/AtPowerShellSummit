@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781557965700639,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moe76uztjd2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moe76uykit2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T21:12:45.527Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "",
+          "title": "",
+          "uri": "https://www.youtube.com/watch?v=9tcK5_U9t6c"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=9tcK5_U9t6c"
+            }
+          ],
+          "index": {
+            "byteEnd": 181,
+            "byteStart": 150
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 192,
+            "byteStart": 182
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 204,
+            "byteStart": 193
+          }
+        }
+      ],
+      "text": "PSCustomObject or Hashtable? @theposhwolf settles the ultimate object smackdown: how, when and why to reach for each when building reports. Watch it:\nwww.youtube.com/watch?v=9tcK...\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreihdwv6hwlfn2fkufiyb7npqdbfnk3hdu555xeliwbfea537gs2aeu"
+  }
+}
