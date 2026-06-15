@@ -1,0 +1,88 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781557964183403,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moe76tlfto25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moe76tlaxg25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T21:12:43.861Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "",
+          "title": "",
+          "uri": "https://www.youtube.com/watch?v=1-qE6DZITC4"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:cyk7rmruidhdwuxkezgivjtp"
+            }
+          ],
+          "index": {
+            "byteEnd": 52,
+            "byteStart": 33
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=1-qE6DZITC4"
+            }
+          ],
+          "index": {
+            "byteEnd": 184,
+            "byteStart": 153
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 195,
+            "byteStart": 185
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 207,
+            "byteStart": 196
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 215,
+            "byteStart": 208
+          }
+        }
+      ],
+      "text": "Need full control of your infra? @emrys.macinally.de builds a complete on-prem PowerShell module pipeline, Git to Gallery, with Gitea + Nexus OSS. Live:\nwww.youtube.com/watch?v=1-qE...\n#PSHSummit #PowerShell #DevOps"
+    },
+    "cid": "bafyreie6bythnnyb4cw2hcv3hstxt656fshdn7kef6cgbonquwuhsl65iq"
+  }
+}
