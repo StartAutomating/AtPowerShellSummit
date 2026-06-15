@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781557965699761,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moe76upoh62r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moe76uphmg2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T21:12:44.527Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PSResourceGet in Restricted Environments: Air-Gap, ACR, and Modern ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiereaerh45kwxngvcqirm5ewl2sm2h6ooe7haa7hjvzgkfyfo4b6q"
+            },
+            "mimeType": "image/jpeg",
+            "size": 77697
+          },
+          "title": "PSResourceGet in Restricted Environments: Air-Gap, ACR, and Modern... by Anam Navied, Amber Erickson",
+          "uri": "https://www.youtube.com/watch?v=SqBtr9EjPK0"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=SqBtr9EjPK0"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 171
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 213,
+            "byteStart": 203
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 225,
+            "byteStart": 214
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Azure"
+            }
+          ],
+          "index": {
+            "byteEnd": 232,
+            "byteStart": 226
+          }
+        }
+      ],
+      "text": "Air-gapped and locked-down? You can still ship PowerShell content securely. Anam Navied & Amber Erickson demo PSResourceGet with Azure Container Registry + MAR. Live now:\nwww.youtube.com/watch?v=SqBt...\n#PSHSummit #PowerShell #Azure"
+    },
+    "cid": "bafyreid674zdvvvfziuhy4zorqbwixvnctlf6uh45nrhbgu7odgruoupia"
+  }
+}
