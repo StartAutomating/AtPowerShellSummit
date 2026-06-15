@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781528648874649,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moddv5u65a2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moddv5m2eq2c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T13:04:06.906Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "In the world of cloud computing, Azure Automation offers powerful c...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidg2g7ggglxo2ghgnrv5bhizbuhnfdtenzwpkeqxlnskuolntr7le"
+            },
+            "mimeType": "image/jpeg",
+            "size": 64295
+          },
+          "title": "8 Ways to Screw Your Azure Automation by Michael Seidl",
+          "uri": "https://www.youtube.com/watch?v=yxOki9_oHgE"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=yxOki9_oHgE"
+            }
+          ],
+          "index": {
+            "byteEnd": 191,
+            "byteStart": 160
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 192
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 214,
+            "byteStart": 203
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Azure"
+            }
+          ],
+          "index": {
+            "byteEnd": 221,
+            "byteStart": 215
+          }
+        }
+      ],
+      "text": "Want to absolutely wreck your Azure Automation? Michael Seidl found 8 reliable ways. 😅 Config blunders, security misses, real horror stories to dodge. Live:\nwww.youtube.com/watch?v=yxOk...\n#PSHSummit #PowerShell #Azure"
+    },
+    "cid": "bafyreigoazvwelnbhs3dndlmehsecubtqqs2uhnl5gnwenobbbu34ykvb4"
+  }
+}
