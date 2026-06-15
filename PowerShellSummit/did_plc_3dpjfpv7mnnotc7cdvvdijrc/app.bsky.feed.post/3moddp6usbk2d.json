@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781528448565184,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moddp6ux5s2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moddp6usbk2d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T13:00:46.994Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "So you've automated the building of your Chocolatey Packages, but y...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidrvv6pjlqeitvzxxt774pcf3r6u52qyad67klzkharahbbhhnqcu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 81477
+          },
+          "title": "Using Pester with Test Kitchen to thoroughly test your Chocolatey Packages by Cory Knox",
+          "uri": "https://www.youtube.com/watch?v=HwjoY2PcwdY"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=HwjoY2PcwdY"
+            }
+          ],
+          "index": {
+            "byteEnd": 164,
+            "byteStart": 133
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 175,
+            "byteStart": 165
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 187,
+            "byteStart": 176
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 195,
+            "byteStart": 188
+          }
+        }
+      ],
+      "text": "Still hand-checking Chocolatey installs across the fleet? Stop. Cory Knox runs Pester + Test Kitchen against every config. Live now:\nwww.youtube.com/watch?v=Hwjo...\n#PSHSummit #PowerShell #DevOps"
+    },
+    "cid": "bafyreidhpqa3kcdcbjryvrctvooj2izmc5rycbgobd2cbhcvx5nzz44ire"
+  }
+}
