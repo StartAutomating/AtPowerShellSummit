@@ -1,0 +1,84 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781557975764967,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moe77664nw2t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moe7765wsg2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T21:12:54.476Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell isn’t just for sysadmins and DevOps pipelines; it’s also...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibnmhfqdhjzv32ghvhu7uohxcncse6yeyysfietearb3b2y7jmdsi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 90766
+          },
+          "title": "PowerShell for Life: Automate the Everyday by Matthew Dowst",
+          "uri": "https://www.youtube.com/watch?v=afM_qiI6OIc"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:ftrnyploqc7hpolyw7nzcvkj"
+            }
+          ],
+          "index": {
+            "byteEnd": 142,
+            "byteStart": 125
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=afM_qiI6OIc"
+            }
+          ],
+          "index": {
+            "byteEnd": 191,
+            "byteStart": 160
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 192
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 214,
+            "byteStart": 203
+          }
+        }
+      ],
+      "text": "PowerShell can house-hunt, dedupe thousands of family photos, text weather alerts to a soccer team AND assign Secret Santas. @mdowst.dowst.dev proves it. Live:\nwww.youtube.com/watch?v=afM_...\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreidhru724mn4nysd753jnnivzzbrqm7dw44i4eangbfkwjjeua6tpa"
+  }
+}
