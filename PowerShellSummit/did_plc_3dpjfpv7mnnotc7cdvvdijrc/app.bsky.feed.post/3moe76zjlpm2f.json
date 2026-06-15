@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781557971002897,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moe76zjske2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moe76zjlpm2f",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T21:12:49.573Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "DevOps is all about automation, responsiveness, and reducing manual...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidp5rd245pvps5ycfjgyzvwrie3jeituf6pidny2l3apqwgqhd3fi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 74326
+          },
+          "title": "Event-Driven Automation with PowerShell: Listening for Change, Acting in Real Time by Bruce Stump",
+          "uri": "https://www.youtube.com/watch?v=D46Kb9gtu3o"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=D46Kb9gtu3o"
+            }
+          ],
+          "index": {
+            "byteEnd": 194,
+            "byteStart": 163
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 205,
+            "byteStart": 195
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 217,
+            "byteStart": 206
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 225,
+            "byteStart": 218
+          }
+        }
+      ],
+      "text": "Polling? Scheduled tasks? There's a better way. Bruce Stump shows PowerShell's native eventing with WMI/CIM, so scripts react the instant something changes. Live:\nwww.youtube.com/watch?v=D46K...\n#PSHSummit #PowerShell #DevOps"
+    },
+    "cid": "bafyreihmnzu6uvgfimsy3qy2nxbc4fflyrki6x2si2k36g23ki3ymecpry"
+  }
+}
