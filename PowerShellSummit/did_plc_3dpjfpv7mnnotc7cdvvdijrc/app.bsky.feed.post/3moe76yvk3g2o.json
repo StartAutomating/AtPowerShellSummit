@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781557970172408,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moe76yvpww2o",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moe76yvk3g2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T21:12:48.72Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Adding telemetry to your scripts and modules using Application Insi...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiebw5fviw3jrhpyuic7y3k62dhnxedyr3t2inwxbswhazpwf5idzu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 65640
+          },
+          "title": "Intro to Telemetry: How to use App Insights in PowerShell by Josh Hendricks",
+          "uri": "https://www.youtube.com/watch?v=DPaF_r7dSzs"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:a3yierchgwp2lvyontsragui"
+            }
+          ],
+          "index": {
+            "byteEnd": 94,
+            "byteStart": 81
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=DPaF_r7dSzs"
+            }
+          ],
+          "index": {
+            "byteEnd": 196,
+            "byteStart": 165
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 207,
+            "byteStart": 197
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 219,
+            "byteStart": 208
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Azure"
+            }
+          ],
+          "index": {
+            "byteEnd": 226,
+            "byteStart": 220
+          }
+        }
+      ],
+      "text": "Does anyone use that parameter set? Which PowerShell versions are your users on? @joshooaj.com shows how App Insights telemetry answers it—done responsibly. Live:\nwww.youtube.com/watch?v=DPaF...\n#PSHSummit #PowerShell #Azure"
+    },
+    "cid": "bafyreihx2uopvym6j5sfsb2prozb5yeulcb4s662kzv4kqevbnaefqpwme"
+  }
+}
