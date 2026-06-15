@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781528468691938,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moddprzj3x2o",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moddprzdah2o",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T13:01:06.993Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "DevSecOps tries to make DevOps teams aware about integrating securi...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifltiunb5g53gfxn5hkkyvllmpfh64rcv7tqhxzmiuaxpi6uu7wpu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 84091
+          },
+          "title": "DevSecOps with GitHub Advanced Security (GHAS) by Peter De Tender",
+          "uri": "https://www.youtube.com/watch?v=M7323N044lA"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=M7323N044lA"
+            }
+          ],
+          "index": {
+            "byteEnd": 178,
+            "byteStart": 147
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 189,
+            "byteStart": 179
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 201,
+            "byteStart": 190
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevSecOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 212,
+            "byteStart": 202
+          }
+        }
+      ],
+      "text": "Security isn't a tool you bolt on. @pdtit bakes GitHub Advanced Security into your repo: code scanning, Dependabot, CodeQL, branch policies. Live:\nwww.youtube.com/watch?v=M732...\n#PSHSummit #PowerShell #DevSecOps"
+    },
+    "cid": "bafyreiemutaanvmldted4eyqc2d7yxox2qmkiejuau3tup6kkbumcep7fa"
+  }
+}
