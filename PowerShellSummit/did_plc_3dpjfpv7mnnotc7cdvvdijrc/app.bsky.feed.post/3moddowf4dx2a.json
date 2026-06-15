@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781528439864942,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moddowfc7h2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moddowf4dx2a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T13:00:37.958Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "State of IaC explores where Azure stands today through the lens of ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiatphrigsrd2nw3mesiliitydny7gqp6mguoxbddj3fav3ei37yae"
+            },
+            "mimeType": "image/jpeg",
+            "size": 93413
+          },
+          "title": "State of Infrastructure as Code (IaC) by Stephanie Yen, Steven Ma",
+          "uri": "https://www.youtube.com/watch?v=if8iAGjGS5I"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=if8iAGjGS5I"
+            }
+          ],
+          "index": {
+            "byteEnd": 177,
+            "byteStart": 146
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 188,
+            "byteStart": 178
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 200,
+            "byteStart": 189
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "IaC"
+            }
+          ],
+          "index": {
+            "byteEnd": 205,
+            "byteStart": 201
+          }
+        }
+      ],
+      "text": "Where does Infrastructure as Code stand now? Stephanie Yen & Steven Ma map IaC on Azure via Terraform & Bicep, plus the AI direction ahead. Live:\nwww.youtube.com/watch?v=if8i...\n#PSHSummit #PowerShell #IaC"
+    },
+    "cid": "bafyreidowxyu3ouhup7n7zvzq6vxknkdhpao56wqvzhsaqbd56u3umvdwi"
+  }
+}
