@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781557962981686,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moe76s2r6m2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moe76s2ld42d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T21:12:41.062Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Learn about the new deployment stack what-if for previewing changes...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreia4pevhq2zymnfck44smcwthwd7vz6i2walu5br24kalk42q26yna"
+            },
+            "mimeType": "image/jpeg",
+            "size": 64715
+          },
+          "title": "Deployment Stacks by Torrey Trahanovsky, Ángel Pérez",
+          "uri": "https://www.youtube.com/watch?v=BE-z23JSfTU"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=BE-z23JSfTU"
+            }
+          ],
+          "index": {
+            "byteEnd": 207,
+            "byteStart": 176
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 218,
+            "byteStart": 208
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 230,
+            "byteStart": 219
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Bicep"
+            }
+          ],
+          "index": {
+            "byteEnd": 237,
+            "byteStart": 231
+          }
+        }
+      ],
+      "text": "See what Azure deletes BEFORE it happens. Torrey Trahanovsky & Ángel Pérez cover Deployment Stacks: what-if previews, deny settings and bicep deploy for safer changes. Live:\nwww.youtube.com/watch?v=BE-z...\n#PSHSummit #PowerShell #Bicep"
+    },
+    "cid": "bafyreienlsqrtmgjm77owcjaxdovprrwprvd6qvocxekqht3jteitf2y2y"
+  }
+}
