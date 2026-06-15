@@ -1,0 +1,71 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781528648366343,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moddv5gywj24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moddv5gs3r24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T13:04:06.877Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell has several different language modes that enforce variou...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicy6i7q4r2vyyuruzj64miwxvxg766aqul72a4lvy66zhxgw3yuv4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 48985
+          },
+          "title": "Lost in Translation: the many language modes of PowerShell by Josh Corrick",
+          "uri": "https://www.youtube.com/watch?v=_S2BDZnMdNc"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=_S2BDZnMdNc"
+            }
+          ],
+          "index": {
+            "byteEnd": 195,
+            "byteStart": 164
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 206,
+            "byteStart": 196
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 218,
+            "byteStart": 207
+          }
+        }
+      ],
+      "text": "You learned PowerShell in Full Language Mode—but your scripts won't always run there. Josh Corrick breaks down every language mode and what quietly breaks. Live:\nwww.youtube.com/watch?v=_S2B...\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreifv5unjgv6z3rexk5xj5leqwnck4ica5eirc7smpmi67z4jufyepq"
+  }
+}
