@@ -1,0 +1,71 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781528456378066,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moddpgeoiu2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moddpgeine2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T13:00:54.856Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Ever had your PowerShell session crash or accidentally close the co...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiaur3iuv72z6rs7ec34yhprotlmbumh75eyfkvykx5axak6pw25re"
+            },
+            "mimeType": "image/jpeg",
+            "size": 72644
+          },
+          "title": "From Burnt to Saved: How PSAfterSession Keeps Your Bacon Safe by Christian Ritter",
+          "uri": "https://www.youtube.com/watch?v=WlkelALenT4"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=WlkelALenT4"
+            }
+          ],
+          "index": {
+            "byteEnd": 179,
+            "byteStart": 148
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 190,
+            "byteStart": 180
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 191
+          }
+        }
+      ],
+      "text": "Console crashes, POOF—hours of work gone to the void of RAM. @HCRitter built PSAfterSession to save your bacon with events + Export-Clixml. Live:\nwww.youtube.com/watch?v=Wlke...\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreicw4wp23ypnkedpfrguqohu5rk5t4rkgx7knuzptp7jz2grxkd2yy"
+  }
+}
