@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781528649172577,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moddv6clrk2h",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moddv5wd722h",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T13:04:07.231Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "This session tells the real-world story of how a critical service o...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidxa74jjrajkohxoscxkqhdhjg4vwfr2rkyg4eobzsihpwfs6awkq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 96892
+          },
+          "title": "From Outage to Edge: A PowerShell Observability Journey by Frank Lesniak, Blake Cherry",
+          "uri": "https://www.youtube.com/watch?v=jJSXUt4O7m8"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:nrxngnjnce74aisq4hiu5zuy"
+            }
+          ],
+          "index": {
+            "byteEnd": 64,
+            "byteStart": 47
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=jJSXUt4O7m8"
+            }
+          ],
+          "index": {
+            "byteEnd": 206,
+            "byteStart": 175
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 217,
+            "byteStart": 207
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 229,
+            "byteStart": 218
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 233,
+            "byteStart": 230
+          }
+        }
+      ],
+      "text": "A 3am outage traditional tools couldn't crack. @franklesniak.com & Blake Cherry turned it into cross-platform, multithreaded PowerShell monitoring with an LLM co-pilot. Live:\nwww.youtube.com/watch?v=jJSX...\n#PSHSummit #PowerShell #AI"
+    },
+    "cid": "bafyreidtllmlnp66zvukjlsogrtjyghti3h5e4nzkwhtpflpky342ka2cu"
+  }
+}
