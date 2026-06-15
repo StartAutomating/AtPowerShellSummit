@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781557966880177,
+  "kind": "commit",
+  "commit": {
+    "rev": "3moe76w6gk62r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3moe76w67pg2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-15T21:12:46.593Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "",
+          "title": "",
+          "uri": "https://www.youtube.com/watch?v=dTAb_6TLilU"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=dTAb_6TLilU"
+            }
+          ],
+          "index": {
+            "byteEnd": 174,
+            "byteStart": 143
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 185,
+            "byteStart": 175
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 197,
+            "byteStart": 186
+          }
+        }
+      ],
+      "text": "filter vs function. dynamicparam. ternaries. trap. PowerShell has corners even pros never poke. Rob Pleau makes a fast 25 min of quirks. Live:\nwww.youtube.com/watch?v=dTAb...\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreid3h54x3ewbfeo7t3h7av6bznuh6gepnidvpmf4tca2fl5mm5ai44"
+  }
+}
