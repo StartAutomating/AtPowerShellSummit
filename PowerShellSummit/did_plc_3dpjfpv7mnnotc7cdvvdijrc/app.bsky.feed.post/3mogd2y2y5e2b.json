@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781630849092249,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mogd2y3awm2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mogd2y2y5e2b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-16T17:27:28.267Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Ever wished your functions could reject bad input before they even ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreighawf4gpmaq2thhjf26sgw4bx7d2f4tvb6giw4jw62orfy6lxhsa"
+            },
+            "mimeType": "image/jpeg",
+            "size": 97398
+          },
+          "title": "Pimp Your Parameters: The Magic of Validation Classes by  Emrys MacInally",
+          "uri": "https://www.youtube.com/watch?v=U8XTWveLGqo"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:cyk7rmruidhdwuxkezgivjtp"
+            }
+          ],
+          "index": {
+            "byteEnd": 78,
+            "byteStart": 59
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=U8XTWveLGqo"
+            }
+          ],
+          "index": {
+            "byteEnd": 204,
+            "byteStart": 173
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 215,
+            "byteStart": 205
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 227,
+            "byteStart": 216
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 235,
+            "byteStart": 228
+          }
+        }
+      ],
+      "text": "What if your functions rejected bad input before they ran? @emrys.macinally.de dives into custom validation classes, enforcing prefixes, semver and cross-param logic. Live:\nwww.youtube.com/watch?v=U8XT...\n#PSHSummit #PowerShell #DevOps"
+    },
+    "cid": "bafyreidwnrek3rjppbi5wqpqvjiauxmvw55kril2lw67jbekztu5qetnbu"
+  }
+}
