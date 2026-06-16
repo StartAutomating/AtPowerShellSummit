@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781630840967039,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mogd2q5wkr2t",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mogd2q5roj2t",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-16T17:27:19.521Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Patch happens—often at the worst possible time. In this session, we...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreibtq6jf7cetsv4so2o3nh47i2qvhedfxyulmnd2fookjdq7bqgvmi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 76637
+          },
+          "title": "Patch Happens: How Chocolatey for Business Benefits Organizations by Rob Reynolds",
+          "uri": "https://www.youtube.com/watch?v=iMl6Ik31K6I"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=iMl6Ik31K6I"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 171
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 213,
+            "byteStart": 203
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 225,
+            "byteStart": 214
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Chocolatey"
+            }
+          ],
+          "index": {
+            "byteEnd": 237,
+            "byteStart": 226
+          }
+        }
+      ],
+      "text": "Patch happens, usually at the worst time. Rob Reynolds shows how Chocolatey for Business turns the patching scramble into a calm, predictable, self-service routine. Live:\nwww.youtube.com/watch?v=iMl6...\n#PSHSummit #PowerShell #Chocolatey"
+    },
+    "cid": "bafyreicgjvj6fgu3rxyrmxarulcswfie6bb7xu244hmejnu2vkoj4yfabe"
+  }
+}
