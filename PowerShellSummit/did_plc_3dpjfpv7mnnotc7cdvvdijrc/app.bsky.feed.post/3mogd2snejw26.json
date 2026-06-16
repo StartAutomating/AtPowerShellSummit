@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781630843465043,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mogd2sngig26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mogd2snejw26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-16T17:27:22.301Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "In this session, we'll take a dive into GitHub actions and see how ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreifebukfjfii7spgawrefvmjbsvzibvsi3jwbexnp2nzh2mbwoculq"
+            },
+            "mimeType": "image/jpeg",
+            "size": 82583
+          },
+          "title": "GitHub Actions for Fun and Profit by Adam Driscoll",
+          "uri": "https://www.youtube.com/watch?v=BZ3uF_p1RZI"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=BZ3uF_p1RZI"
+            }
+          ],
+          "index": {
+            "byteEnd": 198,
+            "byteStart": 167
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 209,
+            "byteStart": 199
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 221,
+            "byteStart": 210
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 229,
+            "byteStart": 222
+          }
+        }
+      ],
+      "text": "Build, test and ship your PowerShell modules hands-free. Adam Driscoll runs the full GitHub Actions gauntlet: tests, artifacts, releases and Gallery publishing. Live:\nwww.youtube.com/watch?v=BZ3u...\n#PSHSummit #PowerShell #DevOps"
+    },
+    "cid": "bafyreihkbmbkdsojjskdt6ve2yxjphku3hzvdb7qh4qvpns4lhywo6m4ny"
+  }
+}
