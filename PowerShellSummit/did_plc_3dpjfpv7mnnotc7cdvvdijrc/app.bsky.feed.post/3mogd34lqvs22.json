@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781630853965615,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mogd34lwrc22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mogd34lqvs22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-16T17:27:33.067Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Some web-based home automation systems have APIs - some are locked ...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreidoqmdn6n76k2qjh4giimamc7jrltvf6zmo35m6qcuezzpq7xtmmm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 52444
+          },
+          "title": "Opening Windows (with) PowerShell by James Ruskin",
+          "uri": "https://www.youtube.com/watch?v=7rV90wuptno"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:ocpyapbcdvfmrruajxrgnids"
+            }
+          ],
+          "index": {
+            "byteEnd": 92,
+            "byteStart": 78
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=7rV90wuptno"
+            }
+          ],
+          "index": {
+            "byteEnd": 194,
+            "byteStart": 163
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 205,
+            "byteStart": 195
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 217,
+            "byteStart": 206
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "IoT"
+            }
+          ],
+          "index": {
+            "byteEnd": 222,
+            "byteStart": 218
+          }
+        }
+      ],
+      "text": "Why settle for a locked-down phone app when your house can answer to a shell? @ja.mesrusk.in opens his actual windows with PowerShell, no cloud phone-home. Watch:\nwww.youtube.com/watch?v=7rV9...\n#PSHSummit #PowerShell #IoT"
+    },
+    "cid": "bafyreih4qad2pgkphfvwsbznspq3l4odqscimsvjzjfxlgxe2odokatgaq"
+  }
+}
