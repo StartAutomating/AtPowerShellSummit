@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781630850088137,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mogd2yykgx2b",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mogd2yyhj72b",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-16T17:27:28.864Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "We are witnessing a fundamental shift in the physics of innovation,...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreig5n64ed2c3fkjmjou5mwdltpsnfij6ufqiqtmsmb7ha2nypiolsm"
+            },
+            "mimeType": "image/jpeg",
+            "size": 82271
+          },
+          "title": "Navigating the AI Revolution by Jeffrey Snover",
+          "uri": "https://www.youtube.com/watch?v=6Slz5e0KW1E"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=6Slz5e0KW1E"
+            }
+          ],
+          "index": {
+            "byteEnd": 183,
+            "byteStart": 152
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 194,
+            "byteStart": 184
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 206,
+            "byteStart": 195
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "AI"
+            }
+          ],
+          "index": {
+            "byteEnd": 210,
+            "byteStart": 207
+          }
+        }
+      ],
+      "text": "From deterministic \"Is\" computing to probabilistic \"Ish\" AI: Jeffrey Snover on ditching prayer-based planning for a Plausible Theory of Success. Watch:\nwww.youtube.com/watch?v=6Slz...\n#PSHSummit #PowerShell #AI"
+    },
+    "cid": "bafyreigpriu764r2zxfs6xmozro6bvt2ap5sbzcto47hcyudxqzbbgtrcm"
+  }
+}
