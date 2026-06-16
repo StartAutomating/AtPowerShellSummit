@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781630846963420,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mogd2vyfbs26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mogd2vyafk26",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-16T17:27:26.106Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Managing secrets across multiple cloud platforms is a challenge—esp...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiao5pmj5imzkvcd3og5a4toqwfogpq7j7xxorxmjv662yuggjylhi"
+            },
+            "mimeType": "image/jpeg",
+            "size": 83178
+          },
+          "title": "Secrets at Scale: Managing Cloud Credentials with PowerShell Automation by Phil Bossman",
+          "uri": "https://www.youtube.com/watch?v=7cOHq84Vq5E"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:7jqakiqe33iubgfdinsv6y53"
+            }
+          ],
+          "index": {
+            "byteEnd": 54,
+            "byteStart": 41
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=7cOHq84Vq5E"
+            }
+          ],
+          "index": {
+            "byteEnd": 194,
+            "byteStart": 163
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 205,
+            "byteStart": 195
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 217,
+            "byteStart": 206
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "DevOps"
+            }
+          ],
+          "index": {
+            "byteEnd": 225,
+            "byteStart": 218
+          }
+        }
+      ],
+      "text": "Hardcoded creds in your pipeline? Yikes. @schlauge.com wires PowerShell into Azure Key Vault, AWS Secrets Manager and HashiCorp Vault for rotation at scale. Live:\nwww.youtube.com/watch?v=7cOH...\n#PSHSummit #PowerShell #DevOps"
+    },
+    "cid": "bafyreidtvpak7wd3aji2ogonp6dp7xbeai72g4sst34jc7ojpaascg7bei"
+  }
+}
