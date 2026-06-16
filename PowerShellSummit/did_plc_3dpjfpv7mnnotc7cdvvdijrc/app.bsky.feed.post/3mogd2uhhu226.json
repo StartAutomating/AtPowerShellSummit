@@ -1,0 +1,96 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781630845466538,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mogd2uhnpk26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mogd2uhhu226",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-16T17:27:24.412Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "PowerShell will be turning 20 this year and it has come a long, lon...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreiapprt3bxjubugwr2dfrfmx7nwgimsjo6aijxsoay6eouyvjydha4"
+            },
+            "mimeType": "image/jpeg",
+            "size": 80643
+          },
+          "title": "PowerShell Perspectives by Jason Helmick, Jeff Hicks",
+          "uri": "https://www.youtube.com/watch?v=76I_tXE9q2Y"
+        }
+      },
+      "facets": [
+        {
+          "$type": "app.bsky.richtext.facet",
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#mention",
+              "did": "did:plc:ohgsqpfsbocaaxusxqlgfvd7"
+            }
+          ],
+          "index": {
+            "byteEnd": 77,
+            "byteStart": 58
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=76I_tXE9q2Y"
+            }
+          ],
+          "index": {
+            "byteEnd": 186,
+            "byteStart": 155
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 197,
+            "byteStart": 187
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 209,
+            "byteStart": 198
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "Community"
+            }
+          ],
+          "index": {
+            "byteEnd": 220,
+            "byteStart": 210
+          }
+        }
+      ],
+      "text": "PowerShell turns 20! Fossils (their word) Jason Helmick & @jdhitsolutions.com swap stories from the early days, heavy on demos, light on PowerPoint. Live:\nwww.youtube.com/watch?v=76I_...\n#PSHSummit #PowerShell #Community"
+    },
+    "cid": "bafyreiaggutjyis7gwysdewzhneibw5ckcygimxpjyj3nx7drktrfoiucm"
+  }
+}
