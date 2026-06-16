@@ -1,0 +1,83 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781630842678921,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mogd2rqfro26",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mogd2rq7w626",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-16T17:27:21.674Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "Learn Bicep hands-on with GitHub Copilot as your coach, backed by t...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicslpn3ff7wb6fh2c7hh3crw2dzwor4gechk2jtkrlf4yjgcz6gca"
+            },
+            "mimeType": "image/jpeg",
+            "size": 86112
+          },
+          "title": "Learn Bicep in 2026: How AI Skills can be your Bicep coach by Stephanie Yen",
+          "uri": "https://www.youtube.com/watch?v=qev3SLx3SZI"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.youtube.com/watch?v=qev3SLx3SZI"
+            }
+          ],
+          "index": {
+            "byteEnd": 199,
+            "byteStart": 168
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 210,
+            "byteStart": 200
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 222,
+            "byteStart": 211
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "IaC"
+            }
+          ],
+          "index": {
+            "byteEnd": 227,
+            "byteStart": 223
+          }
+        }
+      ],
+      "text": "New to IaC or escaping ARM templates? Let Copilot coach you. Stephanie Yen teaches Bicep hands-on, backed by the Bicep MCP server, production-ready from day one. Live:\nwww.youtube.com/watch?v=qev3...\n#PSHSummit #PowerShell #IaC"
+    },
+    "cid": "bafyreiddx5fycokljya4irvs2umvwbyv7yriqcd3dg7kbyef5wfy7ypqzq"
+  }
+}
