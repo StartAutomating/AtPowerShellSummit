@@ -1,0 +1,75 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1781798634270915,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mol7de2ohq2d",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mol7de2hmy2d",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-18T16:03:53.537Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihzkzxl6op352yzc5cpf4wp4p5wmmhsjuhoourtt6p5mkiulvqmjq"
+              },
+              "mimeType": "image/png",
+              "size": 35369
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/blog/so-you-want-to-speak-at-summit/"
+            }
+          ],
+          "index": {
+            "byteEnd": 215,
+            "byteStart": 175
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 227,
+            "byteStart": 217
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 239,
+            "byteStart": 228
+          }
+        }
+      ],
+      "text": "You write modules thousands use. You mentor others. You STILL feel like an imposter daily.\n\nGood news: you're exactly who we want on stage. CFP opens July 1 — how to prep:\n\nwww.powershellsummit.org/blog/so-you-...\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreie7u4xmj5vknvzuv6w6p2vwahmkcn4nno53ucnri73ig6zgu4fdxu"
+  }
+}
