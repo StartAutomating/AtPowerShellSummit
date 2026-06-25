@@ -1,0 +1,87 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1782403415963079,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mp4slarg5324",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mp4slar7cd24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-25T16:03:35.17Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiabnvmzlhs4gdpbex5mll6a6ooqe6ibmdis5bjbaossgtjpqvuq3u"
+              },
+              "mimeType": "image/png",
+              "size": 44020
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 58,
+            "byteStart": 48
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/blog/so-you-want-to-speak-at-summit/"
+            }
+          ],
+          "index": {
+            "byteEnd": 203,
+            "byteStart": 163
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 215,
+            "byteStart": 205
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 227,
+            "byteStart": 216
+          }
+        }
+      ],
+      "text": "Worried it's all about who you know? Phase 1 of #PSHSummit evals is a BLIND review — no names, just your idea.\n\nCFP opens July 1. Write one that wins on merit:\n\nwww.powershellsummit.org/blog/so-you-...\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreicyw5gamctmvrqdiv4g4xp4pulf3mbnwnjdawrdlss6fe2q2z5mkq"
+  }
+}
