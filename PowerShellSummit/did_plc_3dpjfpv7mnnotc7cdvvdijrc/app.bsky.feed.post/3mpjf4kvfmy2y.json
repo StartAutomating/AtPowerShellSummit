@@ -1,0 +1,87 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1782835641436302,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mpjf4kvlii2y",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mpjf4kvfmy2y",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-06-30T16:07:20.436Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiamdzfkzk326kcernmmn42i2rg5uxxiaxyaipfx3thnnf4sbizpwq"
+              },
+              "mimeType": "image/png",
+              "size": 35223
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 66,
+            "byteStart": 56
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/blog/so-you-want-to-speak-at-summit/"
+            }
+          ],
+          "index": {
+            "byteEnd": 178,
+            "byteStart": 138
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 190,
+            "byteStart": 180
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 202,
+            "byteStart": 191
+          }
+        }
+      ],
+      "text": "Fame? Glory? Honor? Money?! …Maybe! 😄\n\nSpeaking at #PSHSummit = free entry, an honorarium & a network that lasts. CFP opens July 1:\n\nwww.powershellsummit.org/blog/so-you-...\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreigmkv2j55cq7tyqqlswa2ndone3w2gmjm3sro7fbnwr6o7d3zfaaa"
+  }
+}
