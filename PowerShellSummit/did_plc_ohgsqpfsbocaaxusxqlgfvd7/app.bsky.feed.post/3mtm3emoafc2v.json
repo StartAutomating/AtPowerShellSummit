@@ -1,0 +1,74 @@
+{
+  "did": "did:plc:ohgsqpfsbocaaxusxqlgfvd7",
+  "time_us": 1787326301169849,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mtm3enqdrz2f",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mtm3emoafc2v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-21T15:31:39.25Z",
+      "embed": {
+        "$type": "app.bsky.embed.external",
+        "external": {
+          "description": "The PowerShell Summit is where the PowerShell community comes to learn, connect, and level up. Happening April 5–8, 2027, in Orlando, Florida, the Sum...",
+          "thumb": {
+            "$type": "blob",
+            "ref": {
+              "$link": "bafkreicazftrnzng76t24zwxkro3j67ruklkajnbqnbc4y2c5ztofll3mu"
+            },
+            "mimeType": "image/jpeg",
+            "size": 190852
+          },
+          "title": "PowerShell Summit 2027: Call for Papers",
+          "uri": "https://sessionize.com/pshsummit27"
+        }
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 106,
+            "byteStart": 95
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/pshsummit27"
+            }
+          ],
+          "index": {
+            "byteEnd": 196,
+            "byteStart": 170
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 207,
+            "byteStart": 197
+          }
+        }
+      ],
+      "langs": [
+        "en"
+      ],
+      "text": "Almost procrastinated too long, but finally got a handful of session proposals for next year's #PowerShell Summit. You still have a few days to get your ideas submitted. sessionize.com/pshsummit27 #PSHSummit"
+    },
+    "cid": "bafyreiasqkisueynohnncctzw45iuxj7rdhmrnoip36vqxb6m7v5qsyry4"
+  }
+}
