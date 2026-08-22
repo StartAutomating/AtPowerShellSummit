@@ -1,0 +1,75 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1787414411797855,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mtongkjfsa2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mtongkj7wq2r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-22T16:00:10.718Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreifnuiekfob3mmdst43gjkp7vpxmjtzhtqcoecnfzsf62rigfewaiy"
+              },
+              "mimeType": "image/png",
+              "size": 33585
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/pshsummit27"
+            }
+          ],
+          "index": {
+            "byteEnd": 237,
+            "byteStart": 211
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 249,
+            "byteStart": 239
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 261,
+            "byteStart": 250
+          }
+        }
+      ],
+      "text": "You've had the idea since April. The script that saves your team 40 hours a month. The thing you keep explaining because nobody wrote it down.\n\nThat's a session.\n\nThe idea was the hard part. CFP closes Aug 31:\n\nsessionize.com/pshsummit27\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreifg7do5prxile2wyafhwv7yvlik73vgyi4f4hflbpu3qnifnfsyz4"
+  }
+}
