@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1787673722484426,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mtw6wmmtfs25",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mtw6wmmojk25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-25T16:02:01.584Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreie6iz7bwa3fwql64zrak3r4rnkd3ck2iese75ew6l4fegngbx7tsm"
+              },
+              "mimeType": "image/png",
+              "size": 42979
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 67,
+            "byteStart": 57
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://powershellsummit.org"
+            }
+          ],
+          "index": {
+            "byteEnd": 244,
+            "byteStart": 224
+          }
+        }
+      ],
+      "text": "\"I don't have an hour of material.\" You don't need one.\n\n#PSHSummit takes 25-min Fast Focus talks, 45-min breakouts, 90-min deep dives, 4-hr labs and After Dark sessions.\n\nFit the format to your material. CFP closes Aug 31: powershellsummit.org"
+    },
+    "cid": "bafyreih55adfv4riev2bux5pkiir763bwknjiokk7gl4iorjhklgccgr5q"
+  }
+}
