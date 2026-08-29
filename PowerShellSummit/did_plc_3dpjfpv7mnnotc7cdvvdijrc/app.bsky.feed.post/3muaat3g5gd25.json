@@ -1,0 +1,75 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1788019348882438,
+  "kind": "commit",
+  "commit": {
+    "rev": "3muaat3geb325",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3muaat3g5gd25",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-29T16:02:27.883Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiabdlgivfzrvzmwabilqrypuxehx6biqawfeh3lex4tbw3yxpolau"
+              },
+              "mimeType": "image/png",
+              "size": 44836
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 19,
+            "byteStart": 9
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/pshsummit27"
+            }
+          ],
+          "index": {
+            "byteEnd": 248,
+            "byteStart": 222
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 261,
+            "byteStart": 250
+          }
+        }
+      ],
+      "text": "Accepted #PSHSummit speakers get: a free pass, an honorarium ($250–$2,000 by format), a pro recording of the session, speaker events — and Orlando, April 5–8, 2027.\n\nYou have the weekend. CFP closes Monday, Aug 31:\n\nsessionize.com/pshsummit27\n\n#PowerShell"
+    },
+    "cid": "bafyreiafyikha45txuctoncftea6ty5lzhxmhwuh6cx6busaddt6dwow7i"
+  }
+}
