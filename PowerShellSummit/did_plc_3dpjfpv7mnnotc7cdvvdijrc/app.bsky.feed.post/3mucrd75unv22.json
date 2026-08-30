@@ -1,0 +1,51 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1788105788868291,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mucrd763in22",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mucrd75unv22",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-30T16:03:07.902Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreihhh32nkbixg4g5qykprdma5aghqjxjuw6pyvgttqzvireyerqqem"
+              },
+              "mimeType": "image/png",
+              "size": 40937
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 10,
+            "byteStart": 0
+          }
+        }
+      ],
+      "text": "#PSHSummit CFP closes TOMORROW.\n\nThirty minutes that end with you submitted:\n1. The thing you'd explain over coffee = your title\n2. Three sentences: problem, what you did, what they'll learn\n3. Pick a format\n4. Submit\n\nClear beats perfect:"
+    },
+    "cid": "bafyreihjnuip3o4isbbftix2nrinwycbrrwcbs6vzgfoanjo3plpun6yga"
+  }
+}
