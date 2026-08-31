@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1788192233399080,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mufbtgvnpb2k",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mufbtgvisz2k",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-08-31T16:03:52.218Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreih32o7uynb547xsbucypljqbmnu5caug6arlu3twsso5s5osherxi"
+              },
+              "mimeType": "image/png",
+              "size": 43580
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 28,
+            "byteStart": 18
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://sessionize.com/pshsummit27"
+            }
+          ],
+          "index": {
+            "byteEnd": 259,
+            "byteStart": 233
+          }
+        }
+      ],
+      "text": "Last call — the #PSHSummit 2027 CFP closes TODAY.\n\nBeen drafting something? Send it. Been talking yourself out of it? Send it anyway — round one is a blind review, so the idea stands on its own.\n\nSee you in Orlando, April 5–8: sessionize.com/pshsummit27"
+    },
+    "cid": "bafyreigxzs3el3ofmk44kcwgct5my57th7oteiagbhw2q46lp5oosajuhi"
+  }
+}
