@@ -1,0 +1,51 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1788460936469106,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mun43gfpmf2a",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mun43gfcw52a",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-03T18:42:15.615Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 630,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigxap7zo6aqx73h6lohksyifxi4jipjrnhmdqvdyx2xdml2dqhsny"
+              },
+              "mimeType": "image/png",
+              "size": 172869
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/blog/call-for-speakers-closed/"
+            }
+          ],
+          "index": {
+            "byteEnd": 116,
+            "byteStart": 76
+          }
+        }
+      ],
+      "text": "Our call for speakers just closed ... what is the next step in the process? www.powershellsummit.org/blog/call-fo..."
+    },
+    "cid": "bafyreiglszolsdg24ipksuyvdde6ehqzlary3fsd7ly2wwnf47snlghz54"
+  }
+}
