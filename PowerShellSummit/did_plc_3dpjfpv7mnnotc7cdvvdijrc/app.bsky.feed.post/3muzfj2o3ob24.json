@@ -1,0 +1,75 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1788883374576694,
+  "kind": "commit",
+  "commit": {
+    "rev": "3muzfj2oakj24",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3muzfj2o3ob24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-08T16:02:53.596Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigispm2w7taw6nvmfdsvgy6volrfcua74qct3knujibbucd54mlxe"
+              },
+              "mimeType": "image/png",
+              "size": 993749
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets"
+            }
+          ],
+          "index": {
+            "byteEnd": 220,
+            "byteStart": 188
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 232,
+            "byteStart": 222
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PowerShell"
+            }
+          ],
+          "index": {
+            "byteEnd": 244,
+            "byteStart": 233
+          }
+        }
+      ],
+      "text": "First Dive tickets are open. $1,299 for four days in Orlando, April 5-8, 2027.\n\n300 people. No expo hall. Every keynote, general session and breakout recorded.\n\nThis is the opening tier:\n\nwww.powershellsummit.org/tickets\n\n#PSHSummit #PowerShell"
+    },
+    "cid": "bafyreiauudea4h27qvzatmrmgmzj46qv5uxfyzsrrervihiujr4ru4jazi"
+  }
+}
