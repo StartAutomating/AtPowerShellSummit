@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1789142591667275,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mvawwczl532v",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mvawwczfbl2v",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-11T16:03:10.327Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreic6ipnaqs3hahqwyftq2gluyt6l7dxuo2wflkgzoxsizsc4gqd4zm"
+              },
+              "mimeType": "image/png",
+              "size": 867462
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets"
+            }
+          ],
+          "index": {
+            "byteEnd": 231,
+            "byteStart": 199
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 243,
+            "byteStart": 233
+          }
+        }
+      ],
+      "text": "277 session proposals came in for about 50 slots. 83 speakers submitted.\n\nBlind review is underway. Full schedule lands November 1.\n\nYou don't need the schedule to book. First Dive is $1,299 today:\n\nwww.powershellsummit.org/tickets\n\n#PSHSummit"
+    },
+    "cid": "bafyreiasr554zqzguqnqe5o6khbtk5pr5qgt2zm6b4mbgfcgx2fwrrsgyi"
+  }
+}
