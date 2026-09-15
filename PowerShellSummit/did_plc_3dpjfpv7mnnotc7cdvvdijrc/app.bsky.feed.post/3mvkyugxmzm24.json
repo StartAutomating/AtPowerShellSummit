@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1789488273164195,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mvkyugxsv424",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mvkyugxmzm24",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-15T16:04:32.212Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreigv4t2quikunf766x3u32wcsasv5vrtds2bmo6mamnsgojscbn7tm"
+              },
+              "mimeType": "image/png",
+              "size": 894468
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets"
+            }
+          ],
+          "index": {
+            "byteEnd": 233,
+            "byteStart": 201
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 245,
+            "byteStart": 235
+          }
+        }
+      ],
+      "text": "New for 2027: everything is under one roof. Sessions, the room block and the Monday community night are all at the Sheraton Orlando Lake Buena Vista.\n\nNo shuttle. No walk across a campus.\n\nApril 5-8:\n\nwww.powershellsummit.org/tickets\n\n#PSHSummit"
+    },
+    "cid": "bafyreigdonmjd2lqbcmmfwwuu7zwcw5gnh4o74auzvlubngi7dxih6nd64"
+  }
+}
