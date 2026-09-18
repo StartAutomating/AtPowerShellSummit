@@ -1,0 +1,51 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1789747440783088,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mvskaah75e2r",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mvskaah2b42r",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-18T16:03:59.796Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreig7gzrw5bdg4q63ksscomzgppgun7ueppiyxwby7ajukuqkxcipom"
+              },
+              "mimeType": "image/png",
+              "size": 930323
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 17,
+            "byteStart": 7
+          }
+        }
+      ],
+      "text": "We cap #PSHSummit at 300 people on purpose.\n\nIt means you can corner the maintainer of the module that's breaking your build at breakfast on day two and go home with an answer.\n\nFirst Dive, $1,299:"
+    },
+    "cid": "bafyreifh3kasxl56gpojzacjtk5u433cgkcfa534xkzlmph63gma4bo574"
+  }
+}
