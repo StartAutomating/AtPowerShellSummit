@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1790093056167768,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mw4m4eelxw27",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mw4m4eeh3o27",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-22T16:04:14.583Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreic4tzjdxcuuyqp6gmpmhgbxdnysvuue6ygph3vts367ftmultgbgi"
+              },
+              "mimeType": "image/png",
+              "size": 920070
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/on-ramp"
+            }
+          ],
+          "index": {
+            "byteEnd": 227,
+            "byteStart": 195
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 239,
+            "byteStart": 229
+          }
+        }
+      ],
+      "text": "New to PowerShell? OnRamp is our beginner track. 40 seats, the same $1,299, and a Summit Buddy who's been before, so you're not eating lunch alone on day one.\n\nFull-ride scholarships available:\n\nwww.powershellsummit.org/on-ramp\n\n#PSHSummit"
+    },
+    "cid": "bafyreigrwycjupsfxqaublv6zd7hf2lkjqq2u34nltccngu6eckriyketa"
+  }
+}
