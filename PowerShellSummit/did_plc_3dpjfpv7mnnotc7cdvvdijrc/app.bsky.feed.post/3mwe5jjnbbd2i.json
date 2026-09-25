@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1790352269146425,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwe5jjnh4t2i",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mwe5jjnbbd2i",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-25T16:04:28.099Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreictob4zrkoqt6tm5oako4qtgxso33wf536gghthxguvyqfyu5c35a"
+              },
+              "mimeType": "image/png",
+              "size": 854043
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets"
+            }
+          ],
+          "index": {
+            "byteEnd": 227,
+            "byteStart": 195
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 239,
+            "byteStart": 229
+          }
+        }
+      ],
+      "text": "One seat, four days, and every keynote, general session, and breakout comes back as a recording the whole team can use.\n\nThat's the part that makes the ask easy to justify.\n\nFirst Dive, $1,299:\n\nwww.powershellsummit.org/tickets\n\n#PSHSummit"
+    },
+    "cid": "bafyreiceut3bwkrjy2xrljq7zsoe5eayxztyuoopjmlmnd5pxq74ewynyy"
+  }
+}
