@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1790697870159092,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwo7fadpee2q",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mwo7fadijm2q",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-09-29T16:04:28.991Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreif25kt5x5q24bgfh45b73gxpzloykotqxmsrglokjwuwhqojbuhc4"
+              },
+              "mimeType": "image/png",
+              "size": 983156
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/tickets"
+            }
+          ],
+          "index": {
+            "byteEnd": 271,
+            "byteStart": 239
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 283,
+            "byteStart": 273
+          }
+        }
+      ],
+      "text": "The whole number for anyone who needs approval:\n\n$1,299 ticket, plus $772 for four nights in the room block at $179/night with the resort fee. $2,071 at published rates, before lodging tax and airfare. Breakfast and lunch included daily.\n\nwww.powershellsummit.org/tickets\n\n#PSHSummit"
+    },
+    "cid": "bafyreieg4hk6t5ylj544tdf5i3chn6ovvwo5nxibpf6egntna5b6ajl4pm"
+  }
+}
