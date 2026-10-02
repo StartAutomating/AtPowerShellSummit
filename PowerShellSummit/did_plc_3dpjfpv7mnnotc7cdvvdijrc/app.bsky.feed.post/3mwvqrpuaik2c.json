@@ -1,0 +1,51 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1790957060708174,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mwvqrpulac2c",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mwvqrpuaik2c",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-02T16:04:19.724Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreiaki2v7uzvsi7pdyxkwicikjrv4fabglnnjlixyay4hwxojbjxdti"
+              },
+              "mimeType": "image/png",
+              "size": 948049
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 10,
+            "byteStart": 0
+          }
+        }
+      ],
+      "text": "#PSHSummit isn't only PowerShell. Sessions span cloud and Azure, AWS, infrastructure as code, CI/CD, configuration management, Docker and Kubernetes, edge, security, and AI in operations.\n\nThe deep end, four days:"
+    },
+    "cid": "bafyreiexowln3u4gj2lkoyvmdjo3kpanovhy5ltta75hihu2mykvs2irxu"
+  }
+}
