@@ -1,0 +1,63 @@
+{
+  "did": "did:plc:3dpjfpv7mnnotc7cdvvdijrc",
+  "time_us": 1791389026993869,
+  "kind": "commit",
+  "commit": {
+    "rev": "3mxcd3d454b2q",
+    "operation": "create",
+    "collection": "app.bsky.feed.post",
+    "rkey": "3mxcd3d3xar2q",
+    "record": {
+      "$type": "app.bsky.feed.post",
+      "createdAt": "2026-10-07T16:03:46.087Z",
+      "embed": {
+        "$type": "app.bsky.embed.images",
+        "images": [
+          {
+            "alt": "",
+            "aspectRatio": {
+              "height": 675,
+              "width": 1200
+            },
+            "image": {
+              "$type": "blob",
+              "ref": {
+                "$link": "bafkreib22nhaktmi6bhuhsoome7oyxeycebzorc2tnxgu6vkphuj2q3d3m"
+              },
+              "mimeType": "image/png",
+              "size": 952833
+            }
+          }
+        ]
+      },
+      "facets": [
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#link",
+              "uri": "https://www.powershellsummit.org/hotel"
+            }
+          ],
+          "index": {
+            "byteEnd": 217,
+            "byteStart": 187
+          }
+        },
+        {
+          "features": [
+            {
+              "$type": "app.bsky.richtext.facet#tag",
+              "tag": "PSHSummit"
+            }
+          ],
+          "index": {
+            "byteEnd": 229,
+            "byteStart": 219
+          }
+        }
+      ],
+      "text": "Room block is open: $179/night at the Sheraton Orlando Lake Buena Vista, in the same building as the sessions, with a discounted resort fee and parking.\n\nRooms at that rate are limited:\n\nwww.powershellsummit.org/hotel\n\n#PSHSummit"
+    },
+    "cid": "bafyreic5fc4muvoeiw3hnst4shqoqusm273iiojgwsv7gsdnkvxjls5c2u"
+  }
+}
